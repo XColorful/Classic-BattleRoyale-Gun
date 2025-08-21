@@ -1,0 +1,13 @@
+{
+    "slot": "cbrg:attachments/slot/cheek_pad",
+    "model": "cbrg:attachments/cheek_pad_geo",
+    "texture": "cbrg:attachments/cheek_pad",
+    "lod": {
+        "model": "cbrg:attachments/lod/cheek_pad_lod_geo",
+        "texture": "cbrg:attachments/lod/cheek_pad_lod"
+    },
+    "sounds": {
+        "install": "cbrg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "cbrg:attachments/suppressor_rifle_uninstall"
+    }
+}

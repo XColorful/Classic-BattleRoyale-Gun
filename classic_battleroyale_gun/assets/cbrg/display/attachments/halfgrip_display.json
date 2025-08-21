@@ -1,0 +1,13 @@
+{
+    "slot": "cbrg:attachments/slot/halfgrip",
+    "model": "cbrg:attachments/halfgrip_geo",
+    "texture": "cbrg:attachments/halfgrip",
+    "lod": {
+        "model": "cbrg:attachments/lod/halfgrip_lod_geo",
+        "texture": "cbrg:attachments/lod/halfgrip_lod"
+    },
+    "sounds": {
+        "install": "cbrg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "cbrg:attachments/suppressor_rifle_uninstall"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "cbrg.attachments.extended_quickdraw_mag_rifle.name",
+    "display": "cbrg:extended_quickdraw_mag_rifle_display",
+    "data": "cbrg:extended_quickdraw_mag_rifle_data",
+    "tooltip": "cbrg.attachments.extended_quickdraw_mag_rifle.desc",
+    "type": "extended_mag"
+}

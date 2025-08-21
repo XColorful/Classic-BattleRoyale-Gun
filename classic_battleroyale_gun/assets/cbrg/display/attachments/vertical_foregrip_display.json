@@ -1,0 +1,14 @@
+{
+    "slot": "cbrg:attachments/slot/vertical_foregrip",
+    "model": "cbrg:attachments/vertical_foregrip_geo",
+    "texture": "cbrg:attachments/vertical_foregrip",
+    "lod": {
+        "model": "cbrg:attachments/lod/vertical_foregrip_lod_geo",
+        "texture": "cbrg:attachments/lod/vertical_foregrip_lod"
+    },
+    "adapter": "vertical_foregrip_adapter",
+    "sounds": {
+        "install": "cbrg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "cbrg:attachments/suppressor_rifle_uninstall"
+    }
+}

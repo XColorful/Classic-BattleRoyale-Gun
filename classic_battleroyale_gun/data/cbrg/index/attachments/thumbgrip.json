@@ -1,0 +1,7 @@
+{
+    "name": "cbrg.attachments.thumbgrip.name",
+    "display": "cbrg:thumbgrip_display",
+    "data": "cbrg:thumbgrip_data",
+    "tooltip": "cbrg.attachments.thumbgrip.desc",
+    "type": "grip"
+}

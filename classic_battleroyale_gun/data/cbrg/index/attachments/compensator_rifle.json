@@ -1,0 +1,7 @@
+{
+    "name": "cbrg.attachments.compensator_rifle.name",
+    "display": "cbrg:compensator_rifle_display",
+    "data": "cbrg:compensator_rifle_data",
+    "tooltip": "cbrg.attachments.compensator_rifle.desc",
+    "type": "muzzle"
+}

@@ -1,0 +1,19 @@
+{
+  "slot": "cbrg:attachments/slot/red_dot",
+  "model": "cbrg:attachments/red_dot_geo",
+  "texture": "cbrg:attachments/red_dot",
+  "lod": {
+    "model": "cbrg:attachments/lod/red_dot_lod_geo",
+    "texture": "cbrg:attachments/lod/red_dot_lod"
+  },
+  "zoom": [
+    1.2
+  ],
+  "scope": false,
+  "sight": true,
+  "fov": 70.0,
+  "sounds": {
+    "install": "cbrg:attachments/suppressor_rifle_uninstall",
+    "uninstall": "cbrg:attachments/suppressor_rifle_uninstall"
+  }
+}

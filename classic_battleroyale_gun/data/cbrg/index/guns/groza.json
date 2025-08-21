@@ -1,0 +1,9 @@
+{
+    "name": "cbrg.guns.groza.name",
+    "display": "cbrg:groza_display",
+    "data": "cbrg:groza_data",
+    "tooltip": "cbrg.guns.groza.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 10
+}

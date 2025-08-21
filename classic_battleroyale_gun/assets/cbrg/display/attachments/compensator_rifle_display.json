@@ -1,0 +1,14 @@
+{
+    "slot": "cbrg:attachments/slot/compensator_rifle",
+    "model": "cbrg:attachments/compensator_rifle_geo",
+    "texture": "cbrg:attachments/compensator_rifle",
+    "lod": {
+        "model": "cbrg:attachments/lod/compensator_rifle_lod_geo",
+        "texture": "cbrg:attachments/lod/compensator_rifle_lod"
+    },
+    "adapter": "compensator_rifle_adapter",
+    "sounds": {
+        "install": "cbrg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "cbrg:attachments/suppressor_rifle_uninstall"
+    }
+}

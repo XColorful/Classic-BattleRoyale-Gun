@@ -1,0 +1,6 @@
+{
+    "name": "cbrg.attachments.holographic_sight.name",
+    "display": "cbrg:holographic_sight_display",
+    "data": "cbrg:holographic_sight_data",
+    "type": "scope"
+}

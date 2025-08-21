@@ -1,0 +1,7 @@
+{
+    "name": "cbrg.attachments.flash_hider_rifle.name",
+    "display": "cbrg:flash_hider_rifle_display",
+    "data": "cbrg:flash_hider_rifle_data",
+    "tooltip": "cbrg.attachments.flash_hider_rifle.desc",
+    "type": "muzzle"
+}

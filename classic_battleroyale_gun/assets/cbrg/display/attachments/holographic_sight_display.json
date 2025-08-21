@@ -1,0 +1,19 @@
+{
+  "slot": "cbrg:attachments/slot/holographic_sight",
+  "model": "cbrg:attachments/holographic_sight_geo",
+  "texture": "cbrg:attachments/holographic_sight",
+  "lod": {
+    "model": "cbrg:attachments/lod/holographic_sight_lod_geo",
+    "texture": "cbrg:attachments/lod/holographic_sight_lod"
+  },
+  "zoom": [
+    1.2
+  ],
+  "scope": false,
+  "sight": true,
+  "fov": 70.0,
+  "sounds": {
+    "install": "cbrg:attachments/suppressor_rifle_uninstall",
+    "uninstall": "cbrg:attachments/suppressor_rifle_uninstall"
+  }
+}

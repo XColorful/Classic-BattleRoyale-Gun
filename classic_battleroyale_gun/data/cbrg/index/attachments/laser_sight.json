@@ -1,0 +1,7 @@
+{
+    "name": "cbrg.attachments.laser_sight.name",
+    "display": "cbrg:laser_sight_display",
+    "data": "cbrg:laser_sight_data",
+    "tooltip": "cbrg.attachments.laser_sight.desc",
+    "type": "grip"
+}

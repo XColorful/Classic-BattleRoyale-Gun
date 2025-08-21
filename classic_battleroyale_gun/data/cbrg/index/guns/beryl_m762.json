@@ -1,0 +1,9 @@
+{
+    "name": "cbrg.guns.beryl_m762.name",
+    "display": "cbrg:beryl_m762_display",
+    "data": "cbrg:beryl_m762_data",
+    "tooltip": "cbrg.guns.beryl_m762.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 2
+}

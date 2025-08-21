@@ -1,0 +1,7 @@
+{
+    "name": "cbrg.attachments.halfgrip.name",
+    "display": "cbrg:halfgrip_display",
+    "data": "cbrg:halfgrip_data",
+    "tooltip": "cbrg.attachments.halfgrip.desc",
+    "type": "grip"
+}

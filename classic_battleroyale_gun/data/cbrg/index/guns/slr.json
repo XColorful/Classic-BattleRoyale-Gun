@@ -1,0 +1,9 @@
+{
+    "name": "cbrg.guns.slr.name",
+    "display": "cbrg:slr_display",
+    "data": "cbrg:slr_data",
+    "tooltip": "cbrg.guns.slr.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 20
+}

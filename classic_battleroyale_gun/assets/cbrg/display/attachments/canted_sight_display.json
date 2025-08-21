@@ -1,0 +1,19 @@
+{
+  "slot": "cbrg:attachments/slot/canted_sight",
+  "model": "cbrg:attachments/canted_sight_geo",
+  "texture": "cbrg:attachments/canted_sight",
+  "lod": {
+    "model": "cbrg:attachments/lod/canted_sight_lod_geo",
+    "texture": "cbrg:attachments/lod/canted_sight_lod"
+  },
+  "zoom": [
+    1.2
+  ],
+  "scope": false,
+  "sight": true,
+  "fov": 70.0,
+  "sounds": {
+    "install": "cbrg:attachments/suppressor_rifle_uninstall",
+    "uninstall": "cbrg:attachments/suppressor_rifle_uninstall"
+  }
+}

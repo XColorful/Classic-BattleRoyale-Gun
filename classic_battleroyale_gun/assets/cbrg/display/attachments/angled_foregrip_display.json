@@ -1,0 +1,13 @@
+{
+    "slot": "cbrg:attachments/slot/angled_foregrip",
+    "model": "cbrg:attachments/angled_foregrip_geo",
+    "texture": "cbrg:attachments/angled_foregrip",
+    "lod": {
+        "model": "cbrg:attachments/lod/angled_foregrip_lod_geo",
+        "texture": "cbrg:attachments/lod/angled_foregrip_lod"
+    },
+    "sounds": {
+        "install": "cbrg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "cbrg:attachments/suppressor_rifle_uninstall"
+    }
+}
