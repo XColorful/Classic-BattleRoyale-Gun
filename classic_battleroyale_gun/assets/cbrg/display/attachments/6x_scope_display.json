@@ -1,0 +1,29 @@
+{
+  "slot": "cbrg:attachments/slot/6x_scope",
+  "model": "cbrg:attachments/6x_scope_geo",
+  "texture": "cbrg:attachments/6x_scope",
+  "lod": {
+    "model": "cbrg:attachments/lod/6x_scope_lod_geo",
+    "texture": "cbrg:attachments/lod/6x_scope_lod"
+  },
+  "zoom": [
+    6.0,
+    3.0,
+    4.0
+  ],
+  "views": [
+    1,
+    1,
+    1
+  ],
+  "views_fov": [
+    70.0,
+    70.0,
+    70.0
+  ],
+  "scope": true,
+  "sounds": {
+    "install": "cbrg:attachments/suppressor_rifle_uninstall",
+    "uninstall": "cbrg:attachments/suppressor_rifle_uninstall"
+  }
+}
