@@ -1952,26 +1952,14 @@
 							"lerp_mode": "catmullrom"
 						},
 						"0.0417": {
-							"post": [0, 0, 0.88],
+							"post": [0, 0, 0.99],
 							"lerp_mode": "catmullrom"
 						},
 						"0.0833": {
-							"post": [0, 0, -0.55],
+							"post": [0, 0, -0.66],
 							"lerp_mode": "catmullrom"
 						},
 						"0.125": {
-							"post": [0, 0, 0.33],
-							"lerp_mode": "catmullrom"
-						},
-						"0.1667": {
-							"post": [0, 0, -0.22],
-							"lerp_mode": "catmullrom"
-						},
-						"0.2917": {
-							"post": [0, 0, 0.05],
-							"lerp_mode": "catmullrom"
-						},
-						"0.4167": {
 							"post": [0, 0, 0],
 							"lerp_mode": "catmullrom"
 						}
