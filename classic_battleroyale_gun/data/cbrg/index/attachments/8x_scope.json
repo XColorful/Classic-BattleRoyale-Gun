@@ -1,0 +1,6 @@
+{
+    "name": "cbrg.attachments.8x_scope.name",
+    "display": "cbrg:8x_scope_display",
+    "data": "cbrg:8x_scope_data",
+    "type": "scope"
+}
