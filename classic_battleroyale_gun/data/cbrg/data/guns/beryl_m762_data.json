@@ -40,12 +40,12 @@
       "tactical": 2.0
     },
     "cooldown": {
-      "empty": 4.21,
-      "tactical": 3.21
+      "empty": 3.62,
+      "tactical": 2.45
     }
   },
-  "draw_time": 0.83,
-  "put_away_time": 0.67,
+  "draw_time": 0.58,
+  "put_away_time": 0.4,
   "aim_time": 0.2,
   "sprint_time": 0.2,
   "weight": 0,

@@ -9055,7 +9055,7 @@
 				{
 					"name": "camera",
 					"parent": "ViewPos",
-					"pivot": [0, 0, 0]
+					"pivot": [5, 20.5, 9]
 				},
 				{
 					"name": "idle_view",

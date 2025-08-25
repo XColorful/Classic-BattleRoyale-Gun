@@ -49,7 +49,7 @@
     "put_away": "cbrg:slr/slr_put_away",
     "silence": "cbrg:slr/slr_silence",
     "silence_3p": "cbrg:slr/slr_silence",
-    "dry_fire": "tacz:dry_fire",
+    "dry_fire": "cbrg:lynx_amr/dry_fire",
     "fire_select": "cbrg:groza/fire_select"
   },
   "offhand_show": {

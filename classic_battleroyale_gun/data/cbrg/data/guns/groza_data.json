@@ -54,12 +54,12 @@
       "tactical": 1.7
     },
     "cooldown": {
-      "empty": 3.75,
-      "tactical": 3.21
+      "empty": 2.88,
+      "tactical": 2.25
     }
   },
-  "draw_time": 0.83,
-  "put_away_time": 0.67,
+  "draw_time": 0.58,
+  "put_away_time": 0.4,
   "aim_time": 0.2,
   "sprint_time": 0.2,
   "weight": 0,
@@ -70,8 +70,7 @@
   },
   "fire_mode": [
     "auto",
-    "semi",
-    "burst"
+    "semi"
   ],
   "burst_data": {
     "continuous_shoot": true,

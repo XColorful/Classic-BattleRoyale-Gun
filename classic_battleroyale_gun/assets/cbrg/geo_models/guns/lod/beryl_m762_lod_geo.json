@@ -21,53 +21,68 @@
 					"pivot": [0, 8, 6]
 				},
 				{
-					"name": "BerylM762",
+					"name": "Gun",
 					"parent": "bone",
 					"pivot": [0, 13.3018, -17.6875]
 				},
 				{
 					"name": "constraint",
-					"parent": "BerylM762",
-					"pivot": [0, 13.1143, -17.6875]
+					"parent": "Gun",
+					"pivot": [0, 15.1875, 11.0625]
 				},
 				{
-					"name": "positioning2",
-					"parent": "BerylM762",
+					"name": "GunPos",
+					"parent": "Gun",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "ShellPos",
+					"parent": "GunPos",
 					"pivot": [0, 0, 0]
 				},
 				{
 					"name": "shell",
-					"parent": "positioning2",
+					"parent": "ShellPos",
 					"pivot": [-0.4375, 11.1768, -0.0625]
 				},
 				{
-					"name": "muzzle_pos",
-					"parent": "positioning2",
-					"pivot": [0, 10.6875, -20.4375]
-				},
-				{
 					"name": "muzzle_flash",
-					"parent": "positioning2",
+					"parent": "GunPos",
 					"pivot": [0, 10.625, -21.25]
 				},
 				{
+					"name": "AttachmentPos",
+					"parent": "Gun",
+					"pivot": [0, 13.3018, -17.6875]
+				},
+				{
+					"name": "muzzle_pos",
+					"parent": "AttachmentPos",
+					"pivot": [0, 10.6875, -20.4375]
+				},
+				{
 					"name": "scope_pos",
-					"parent": "positioning2",
+					"parent": "AttachmentPos",
 					"pivot": [0, 13.1875, 3.0625]
 				},
 				{
 					"name": "grip_pos",
-					"parent": "positioning2",
+					"parent": "AttachmentPos",
 					"pivot": [0, 8.8125, -6.375]
 				},
 				{
 					"name": "laser_pos",
-					"parent": "positioning2",
+					"parent": "AttachmentPos",
 					"pivot": [0, 8.8125, -7.375]
 				},
 				{
+					"name": "GunParts",
+					"parent": "Gun",
+					"pivot": [0, 13.3018, -17.6875]
+				},
+				{
 					"name": "lefthand_and_mag",
-					"parent": "BerylM762",
+					"parent": "GunParts",
 					"pivot": [0, 13.3018, -17.6875]
 				},
 				{
@@ -277,12 +292,12 @@
 				},
 				{
 					"name": "additional_magazine",
-					"parent": "BerylM762",
+					"parent": "mag_and_bullet",
 					"pivot": [0, 0, 0]
 				},
 				{
 					"name": "attachment_adapter",
-					"parent": "BerylM762",
+					"parent": "GunParts",
 					"pivot": [0, 13.3018, -17.6875]
 				},
 				{
@@ -310,8 +325,8 @@
 					"pivot": [0, 13.3018, -17.6875]
 				},
 				{
-					"name": "barrel",
-					"parent": "BerylM762",
+					"name": "GunMuzzle",
+					"parent": "GunParts",
 					"pivot": [0, 10, -20.25],
 					"cubes": [
 						{
@@ -329,7 +344,7 @@
 				},
 				{
 					"name": "gastube",
-					"parent": "BerylM762",
+					"parent": "GunParts",
 					"pivot": [0, 0, 0],
 					"cubes": [
 						{
@@ -358,7 +373,7 @@
 				},
 				{
 					"name": "iron_sight",
-					"parent": "BerylM762",
+					"parent": "GunParts",
 					"pivot": [0, 0, 0],
 					"cubes": [
 						{
@@ -436,7 +451,7 @@
 				},
 				{
 					"name": "handguard",
-					"parent": "BerylM762",
+					"parent": "GunParts",
 					"pivot": [0, 0, 0],
 					"cubes": [
 						{
@@ -455,7 +470,7 @@
 				},
 				{
 					"name": "rail",
-					"parent": "BerylM762",
+					"parent": "GunParts",
 					"pivot": [0, 5, 0],
 					"cubes": [
 						{
@@ -484,7 +499,7 @@
 				},
 				{
 					"name": "main_body",
-					"parent": "BerylM762",
+					"parent": "GunParts",
 					"pivot": [0, 0, 0],
 					"cubes": [
 						{
@@ -528,7 +543,7 @@
 				},
 				{
 					"name": "grip",
-					"parent": "BerylM762",
+					"parent": "GunParts",
 					"pivot": [0, 0, 0],
 					"cubes": [
 						{
@@ -572,7 +587,7 @@
 				},
 				{
 					"name": "stock",
-					"parent": "BerylM762",
+					"parent": "GunParts",
 					"pivot": [0, 0, 0],
 					"cubes": [
 						{
@@ -639,78 +654,83 @@
 					]
 				},
 				{
-					"name": "camera",
-					"pivot": [4, 17, 13]
-				},
-				{
-					"name": "view",
+					"name": "ViewPos",
 					"pivot": [0, 0, 0]
 				},
 				{
+					"name": "camera",
+					"parent": "ViewPos",
+					"pivot": [4, 17, 13]
+				},
+				{
 					"name": "idle_view",
-					"parent": "view",
+					"parent": "ViewPos",
 					"pivot": [4, 17, 13]
 				},
 				{
 					"name": "iron_view",
-					"parent": "view",
+					"parent": "ViewPos",
 					"pivot": [0, 13.1143, 13.375]
 				},
 				{
+					"name": "ThirdPos",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "ground",
+					"parent": "ThirdPos",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "thirdperson_hand",
+					"parent": "ThirdPos",
+					"pivot": [0, 8.625, 5.5]
+				},
+				{
+					"name": "fixed",
+					"parent": "ThirdPos",
+					"pivot": [-1, 9, 0],
+					"rotation": [0, -90, 0]
+				},
+				{
+					"name": "RefitPos",
+					"pivot": [19, 10, -2]
+				},
+				{
 					"name": "refit_view",
-					"parent": "view",
+					"parent": "RefitPos",
 					"pivot": [19, 10, -2],
 					"rotation": [0, 90, 0]
 				},
 				{
 					"name": "refit_muzzle_view",
-					"parent": "view",
+					"parent": "RefitPos",
 					"pivot": [7.5, 10, -28.86603],
 					"rotation": [0, 120, 0]
 				},
 				{
 					"name": "refit_scope_view",
-					"parent": "view",
+					"parent": "RefitPos",
 					"pivot": [9, 14, 12],
 					"rotation": [0, 50, 0]
 				},
 				{
 					"name": "refit_extended_mag_view",
-					"parent": "view",
+					"parent": "RefitPos",
 					"pivot": [13, 5, -3],
 					"rotation": [0, 90, 0]
 				},
 				{
 					"name": "refit_grip_view",
-					"parent": "view",
+					"parent": "RefitPos",
 					"pivot": [9, 8, -7],
 					"rotation": [0, 90, 0]
 				},
 				{
 					"name": "refit_laser_view",
-					"parent": "view",
+					"parent": "RefitPos",
 					"pivot": [9, 8, -8],
 					"rotation": [0, 90, 0]
-				},
-				{
-					"name": "positioning",
-					"pivot": [0, 0, 0]
-				},
-				{
-					"name": "ground",
-					"parent": "positioning",
-					"pivot": [0, 0, 0]
-				},
-				{
-					"name": "thirdperson_hand",
-					"parent": "positioning",
-					"pivot": [0, 8.625, 5.5]
-				},
-				{
-					"name": "fixed",
-					"parent": "positioning",
-					"pivot": [-1, 9, 0],
-					"rotation": [0, -90, 0]
 				}
 			]
 		}

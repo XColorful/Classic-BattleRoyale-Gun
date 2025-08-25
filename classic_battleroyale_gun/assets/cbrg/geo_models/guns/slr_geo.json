@@ -32,7 +32,7 @@
 				{
 					"name": "constraint",
 					"parent": "Gun",
-					"pivot": [0, 10.5625, 13.625]
+					"pivot": [0, 10.5625, 17.0625]
 				},
 				{
 					"name": "GunPos",
@@ -67,7 +67,7 @@
 				{
 					"name": "scope_pos",
 					"parent": "AttachmentPos",
-					"pivot": [0, 8.5625, 5.625]
+					"pivot": [0, 8.5625, 9.0625]
 				},
 				{
 					"name": "grip_pos",

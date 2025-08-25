@@ -49,7 +49,7 @@
     "put_away": "cbrg:groza/groza_put_away",
     "silence": "cbrg:groza/groza_silence",
     "silence_3p": "cbrg:groza/groza_silence",
-    "dry_fire": "tacz:dry_fire",
+    "dry_fire": "cbrg:lynx_amr/dry_fire",
     "fire_select": "cbrg:groza/fire_select"
   },
   "offhand_show": {
