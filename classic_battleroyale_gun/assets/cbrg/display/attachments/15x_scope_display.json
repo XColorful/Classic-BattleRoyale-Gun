@@ -1,0 +1,26 @@
+{
+  "slot": "cbrg:attachments/slot/15x_scope",
+  "model": "cbrg:attachments/15x_scope_geo",
+  "texture": "cbrg:attachments/15x_scope",
+  "lod": {
+    "model": "cbrg:attachments/lod/15x_scope_lod_geo",
+    "texture": "cbrg:attachments/lod/15x_scope_lod"
+  },
+  "zoom": [
+    15.0,
+    8.0
+  ],
+  "views": [
+    1,
+    1
+  ],
+  "views_fov": [
+    70.0,
+    70.0
+  ],
+  "scope": true,
+  "sounds": {
+    "install": "cbrg:attachments/suppressor_rifle_uninstall",
+    "uninstall": "cbrg:attachments/suppressor_rifle_uninstall"
+  }
+}
