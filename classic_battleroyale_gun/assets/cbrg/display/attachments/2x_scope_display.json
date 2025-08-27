@@ -15,7 +15,7 @@
   "views_fov": [
     70.0
   ],
-  "sight": true,
+  "scope": true,
   "sounds": {
     "install": "cbrg:attachments/suppressor_rifle_uninstall",
     "uninstall": "cbrg:attachments/suppressor_rifle_uninstall"
