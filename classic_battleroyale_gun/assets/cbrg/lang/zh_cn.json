@@ -185,5 +185,13 @@
     "cbrg.attachments.heavy_stock.name": "重型枪托（冲锋枪，突击步枪，M249）",
     "cbrg.attachments.heavy_stock.desc": "+10% 垂直后坐力控制\n+10% 水平后坐力控制\n-10% 瞄准速度\n+5% 单发射击后的后坐力恢复\n-10% 腰射准确度",
 
-    "cbrg.ammo.ammo_762.name": "7.62毫米子弹"
+    "cbrg.ammo.ammo_762.name": "§e7.62毫米子弹",
+    "cbrg.ammo.ammo_556.name": "§a5.56毫米子弹",
+    "cbrg.ammo.ammo_9mm.name": "§69毫米子弹",
+    "cbrg.ammo.ammo_45acp.name": "§b.45 口径子弹",
+    "cbrg.ammo.ammo_300m.name": "§2.300 马格南子弹",
+    "cbrg.ammo.ammo_12g": "§412 号口径霰弹",
+    "cbrg.ammo.ammo_12gs": "§c12口径独头弹",
+    "cbrg.ammo.ammo_57mm": "§d5.7毫米",
+    "cbrg.ammo.ammo_bolt": "§9弩箭"
 }

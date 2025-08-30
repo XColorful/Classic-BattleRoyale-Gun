@@ -1,0 +1,32 @@
+{
+  "slot": "cbrg:ammo/slot/ammo_556",
+  "model": "cbrg:ammo/ammo_556_geo",
+  "texture": "cbrg:ammo/ammo_556",
+  "lod": {
+    "model": "cbrg:ammo/lod/ammo_556_lod_geo",
+    "texture": "cbrg:ammo/lod/ammo_556_lod"
+  },
+  "shell": {
+    "model": "cbrg:shell/ammo_556_shell_geo",
+    "texture": "cbrg:shell/ammo_556_shell"
+  },
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.75,
+        0.75,
+        0.75
+      ],
+      "ground": [
+        0.75,
+        0.75,
+        0.75
+      ],
+      "fixed": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    }
+  }
+}

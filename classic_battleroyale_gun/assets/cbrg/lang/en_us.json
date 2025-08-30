@@ -185,5 +185,13 @@
     "cbrg.attachments.heavy_stock.name": "Heavy Stock (SMG, AR, M249)",
     "cbrg.attachments.heavy_stock.desc": "+10% Vertical recoil control\n+10% Horizontal recoil control\n-10% ADS speed\n+5% Recoil recovery after single shot\n-10% Hip fire accuracy",
 
-    "cbrg.ammo.ammo_762.name": "7.62mm ammo"
+    "cbrg.ammo.ammo_762.name": "§e7.62mm",
+    "cbrg.ammo.ammo_556.name": "§a5.56mm",
+    "cbrg.ammo.ammo_9mm.name": "§69mm",
+    "cbrg.ammo.ammo_45acp.name": "§b.45 ACP",
+    "cbrg.ammo.ammo_300m.name": "§2.300 Magnum",
+    "cbrg.ammo.ammo_12g": "§412 Gauge",
+    "cbrg.ammo.ammo_12gs": "§c12 Gauge Slug",
+    "cbrg.ammo.ammo_57mm": "§d5.7mm",
+    "cbrg.ammo.ammo_bolt": "§9Bolt"
 }
