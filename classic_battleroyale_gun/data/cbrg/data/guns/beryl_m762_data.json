@@ -29,10 +29,10 @@
         {"distance": "infinite", "damage": 6.6}
       ]
     },
-    "speed": 555,
-    "gravity": 0.026,
+    "speed": 740,
+    "gravity": 0.0245,
     "knockback": 0,
-    "friction": 0.00,
+    "friction": 0.03322,
     "ignite": {
       "entity": false,
       "block": false
