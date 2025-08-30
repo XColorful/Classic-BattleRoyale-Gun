@@ -17,8 +17,15 @@
       "armor_ignore": 0,
       "head_shot_multiplier": 2.35,
       "damage_adjust": [
-        {"distance": 55.5, "damage": 8.8},
-        {"distance": 277.5, "damage": 6.6},
+        {"distance": 49.95, "damage": 8.8},
+        {"distance": 77.7, "damage": 8.539},
+        {"distance": 105.45, "damage": 8.278},
+        {"distance": 133.2, "damage": 8.017},
+        {"distance": 160.95, "damage": 7.756},
+        {"distance": 188.7, "damage": 7.495},
+        {"distance": 216.45, "damage": 7.234},
+        {"distance": 244.2, "damage": 6.973},
+        {"distance": 271.95, "damage": 6.712},
         {"distance": "infinite", "damage": 6.6}
       ]
     },
