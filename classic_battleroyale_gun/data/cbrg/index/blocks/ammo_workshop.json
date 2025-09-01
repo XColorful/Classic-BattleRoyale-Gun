@@ -1,0 +1,8 @@
+{
+  "name": "cbrg.blocks.ammo_workshop.name",
+  "display": "cbrg:ammo_workshop",
+  "data": "cbrg:ammo_workshop",
+  "tooltip": "cbrg.blocks.ammo_workshop.desc",
+  "id": "tacz:workbench_a",
+  "sort": 3
+}

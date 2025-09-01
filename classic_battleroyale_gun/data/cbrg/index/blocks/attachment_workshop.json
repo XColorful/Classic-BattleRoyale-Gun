@@ -1,0 +1,8 @@
+{
+  "name": "cbrg.blocks.attachment_workshop.name",
+  "display": "cbrg:attachment_workshop",
+  "data": "cbrg:attachment_workshop",
+  "tooltip": "cbrg.blocks.attachment_workshop.desc",
+  "id": "tacz:workbench_a",
+  "sort": 2
+}

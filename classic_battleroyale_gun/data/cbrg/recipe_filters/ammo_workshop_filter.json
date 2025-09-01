@@ -1,0 +1,9 @@
+{
+  "whitelist": [
+    "^cbrg.*$"
+  ],
+  "blacklist": [
+    "tacz:test",
+    "^tacz:.*$"
+  ]
+}

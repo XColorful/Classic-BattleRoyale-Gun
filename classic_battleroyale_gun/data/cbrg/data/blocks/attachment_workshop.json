@@ -1,0 +1,55 @@
+{
+  "filter": "cbrg:attachment_workshop_filter",
+  "tabs": [
+    {
+      "id": "cbrg:muzzle",
+      "name": "cbrg.type.muzzle.name",
+      "icon": {
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "cbrg:compensator_rifle"
+        }
+      }
+    },
+    {
+      "id": "cbrg:grip",
+      "name": "cbrg.type.grip.name",
+      "icon": {
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "cbrg:lightweight_grip"
+        }
+      }
+    },
+    {
+      "id": "cbrg:scope",
+      "name": "cbrg.type.scope.name",
+      "icon": {
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "cbrg:6x_scope"
+        }
+      }
+    },
+    {
+      "id": "cbrg:magazine",
+      "name": "cbrg.type.magazine.name",
+      "icon": {
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "cbrg:extended_quickdraw_mag_rifle"
+        }
+      }
+    },
+    {
+      "id": "cbrg:stocck",
+      "name": "cbrg.type.stock.name",
+      "icon": {
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "cbrg:cheek_pad"
+        }
+      }
+    }
+  ]
+}

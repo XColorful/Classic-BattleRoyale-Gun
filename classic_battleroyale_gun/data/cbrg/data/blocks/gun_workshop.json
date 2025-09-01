@@ -1,0 +1,25 @@
+{
+  "filter": "cbrg:gun_workshop_filter",
+  "tabs": [
+    {
+      "id": "tacz:rifle",
+      "name": "cbrg.type.ar.name",
+      "icon": {
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "cbrg:beryl_m762"
+        }
+      }
+    },
+    {
+      "id": "cbrg:dmr",
+      "name": "cbrg.type.dmr.name",
+      "icon": {
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "cbrg:slr"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "cbrg.blocks.gun_workshop.name",
+  "display": "cbrg:gun_workshop",
+  "data": "cbrg:gun_workshop",
+  "tooltip": "cbrg.blocks.gun_workshop.desc",
+  "id": "tacz:workbench_a",
+  "sort": 1
+}
