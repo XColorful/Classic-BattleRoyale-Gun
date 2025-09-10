@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:activator_rail"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:detector_rail"
+      },
+      "count": 41
+    },
+    {
+      "item": {
+        "item": "minecraft:stripped_bamboo_block"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "minecraft:tripwire_hook"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "cbrg:extended_mag_rifle"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}
