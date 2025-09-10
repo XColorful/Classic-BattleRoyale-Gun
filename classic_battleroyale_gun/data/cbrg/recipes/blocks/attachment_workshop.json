@@ -16,7 +16,7 @@
         "item": "minecraft:wooden_hoe"
       },
       "S": {
-        "item": "minecraft:stone"
+        "item": "minecraft:smooth_stone"
       },
       "C": {
         "item": "minecraft:cooked_chicken"

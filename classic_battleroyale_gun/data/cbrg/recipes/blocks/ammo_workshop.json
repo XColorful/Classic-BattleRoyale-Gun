@@ -16,13 +16,13 @@
         "item": "minecraft:gunpowder"
       },
       "S": {
-        "item": "minecraft:stone"
+        "item": "minecraft:cobblestone"
       },
       "C": {
         "item": "minecraft:cooked_chicken"
       },
       "D": {
-        "item": "minecraft:polished_diorite"
+        "item": "minecraft:diorite"
       }
     }
   }
