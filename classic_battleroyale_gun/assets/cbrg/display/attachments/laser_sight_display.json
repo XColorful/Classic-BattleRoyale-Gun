@@ -12,7 +12,7 @@
     },
     "laser": {
         "default_color": "0x00FF00",
-        "can_edit": true,
+        "can_edit": false,
         "length": 50,
         "width": 0.02,
         "third_person_length": 0,

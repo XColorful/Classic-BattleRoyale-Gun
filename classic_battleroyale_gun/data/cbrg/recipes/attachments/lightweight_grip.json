@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:charcoal"
+      },
+      "count": 89
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:water_breathing"
+        }
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:fire_resistance"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:healing"
+        }
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:harming"
+        }
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "cbrg:lightweight_grip"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

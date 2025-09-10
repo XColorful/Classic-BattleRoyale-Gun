@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:charcoal"
+      },
+      "count": 64
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:leaping"
+        }
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:swiftness"
+        }
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "cbrg:angled_foregrip"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:charcoal"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:leaping"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:strength"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:healing"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:red_dye"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "cbrg:halfgrip"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}
