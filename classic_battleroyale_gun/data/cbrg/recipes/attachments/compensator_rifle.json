@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:nether_bricks"
+      },
+      "count": 91
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:leaping"
+        }
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:strength"
+        }
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "cbrg:compensator_rifle"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

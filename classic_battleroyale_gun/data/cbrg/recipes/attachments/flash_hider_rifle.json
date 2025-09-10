@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:nether_bricks"
+      },
+      "count": 54
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:leaping"
+        }
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:strength"
+        }
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:tinted_glass"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "cbrg:flash_hider_rifle"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}
