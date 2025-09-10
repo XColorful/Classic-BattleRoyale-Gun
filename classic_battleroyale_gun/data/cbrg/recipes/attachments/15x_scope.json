@@ -1,0 +1,45 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 150
+    },
+    {
+      "item": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "item": "minecraft:gilded_blackstone"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:polished_blackstone"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "minecraft:stone_button"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "minecraft:black_dye"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "cbrg:15x_scope"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

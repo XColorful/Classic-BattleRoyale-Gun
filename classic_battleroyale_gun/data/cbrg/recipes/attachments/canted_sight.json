@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "tag": "forge:glass_panes"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:red_dye"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "cbrg:canted_sight"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}
