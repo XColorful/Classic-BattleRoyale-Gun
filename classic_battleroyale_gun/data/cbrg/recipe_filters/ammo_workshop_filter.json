@@ -3,7 +3,6 @@
     "^cbrg.*$"
   ],
   "blacklist": [
-    "tacz:test",
-    "^tacz:.*$"
+    "tacz:test"
   ]
 }

@@ -11,6 +11,7 @@
     "cbrg.type.ar.name": "AR",
     "cbrg.type.sr.name": "SR",
     "cbrg.type.dmr.name": "DMR",
+    "cbrg.type.ar_and_dmr.name": "AR & DMR",
     "cbrg.type.shotgun.name": "Shotgun",
     "cbrg.type.smg.name": "SMG",
     "cbrg.type.lmg.name": "LMG",

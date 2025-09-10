@@ -2,7 +2,7 @@
   "filter": "cbrg:ammo_workshop_filter",
   "tabs": [
     {
-      "id": "cbrg:ammo",
+      "id": "tacz:ammo",
       "name": "cbrg.type.ammo.name",
       "icon": {
         "item": "tacz:ammo",

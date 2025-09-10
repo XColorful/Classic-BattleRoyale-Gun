@@ -11,6 +11,7 @@
     "cbrg.type.ar.name": "突击步枪",
     "cbrg.type.sr.name": "狙击枪",
     "cbrg.type.dmr.name": "精确射手步枪",
+    "cbrg.type.ar_and_dmr.name": "突击步枪 & 精确射手步枪",
     "cbrg.type.shotgun.name": "霰弹枪",
     "cbrg.type.smg.name": "冲锋枪",
     "cbrg.type.lmg.name": "轻机枪",

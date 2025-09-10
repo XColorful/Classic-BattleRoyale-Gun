@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+      "item": "tacz:workbench_a",
+      "nbt":{
+        "BlockId": "cbrg:attachment_workshop"
+      }
+    },
+    "pattern": [
+      "SWS",
+      "DCD",
+      "DDD"
+    ],
+    "key": {
+      "W": {
+        "item": "minecraft:wooden_hoe"
+      },
+      "S": {
+        "item": "minecraft:stone"
+      },
+      "C": {
+        "item": "minecraft:cooked_chicken"
+      },
+      "D": {
+        "item": "minecraft:polished_diorite"
+      }
+    }
+  }

@@ -2,7 +2,7 @@
   "filter": "cbrg:attachment_workshop_filter",
   "tabs": [
     {
-      "id": "cbrg:muzzle",
+      "id": "tacz:muzzle",
       "name": "cbrg.type.muzzle.name",
       "icon": {
         "item": "tacz:attachment",
@@ -12,7 +12,7 @@
       }
     },
     {
-      "id": "cbrg:grip",
+      "id": "tacz:grip",
       "name": "cbrg.type.grip.name",
       "icon": {
         "item": "tacz:attachment",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "cbrg:scope",
+      "id": "tacz:scope",
       "name": "cbrg.type.scope.name",
       "icon": {
         "item": "tacz:attachment",
@@ -32,7 +32,7 @@
       }
     },
     {
-      "id": "cbrg:magazine",
+      "id": "tacz:extended_mag",
       "name": "cbrg.type.magazine.name",
       "icon": {
         "item": "tacz:attachment",
@@ -42,7 +42,7 @@
       }
     },
     {
-      "id": "cbrg:stocck",
+      "id": "tacz:stock",
       "name": "cbrg.type.stock.name",
       "icon": {
         "item": "tacz:attachment",

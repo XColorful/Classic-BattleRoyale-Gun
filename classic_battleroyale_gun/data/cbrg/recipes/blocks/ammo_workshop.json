@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+      "item": "tacz:workbench_a",
+      "nbt":{
+        "BlockId": "cbrg:ammo_workshop"
+      }
+    },
+    "pattern": [
+      "SGS",
+      "DCD",
+      "DDD"
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:gunpowder"
+      },
+      "S": {
+        "item": "minecraft:stone"
+      },
+      "C": {
+        "item": "minecraft:cooked_chicken"
+      },
+      "D": {
+        "item": "minecraft:polished_diorite"
+      }
+    }
+  }
