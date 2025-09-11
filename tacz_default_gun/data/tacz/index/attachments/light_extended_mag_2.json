@@ -1,0 +1,8 @@
+{
+  "name": "cbrg.attachments.extended_mag_pistol.name",
+  "display": "tacz:light_extended_mag_2_display",
+  "data": "tacz:light_extended_mag_2_data",
+  "tooltip": "cbrg.attachments.extended_mag_pistol.desc",
+  "type": "extended_mag",
+  "sort": 10
+}

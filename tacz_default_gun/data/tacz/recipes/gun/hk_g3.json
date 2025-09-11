@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:dark_oak_planks"
+      },
+      "count": 500
+    },
+    {
+      "item": {
+        "item": "minecraft:leather"
+      },
+      "count": 120
+    },
+    {
+      "item": {
+        "item": "minecraft:cooked_salmon"
+      },
+      "count": 50
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:hk_g3"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

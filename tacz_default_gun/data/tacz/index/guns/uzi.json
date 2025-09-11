@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.micro_uzi.name",
+  "display": "tacz:uzi_display",
+  "data": "tacz:uzi_data",
+  "tooltip": "cbrg.guns.micro_uzi.desc",
+  "type": "smg"
+}

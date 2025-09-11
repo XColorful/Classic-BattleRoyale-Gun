@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.ump.name",
+  "display": "tacz:ump45_display",
+  "data": "tacz:ump45_data",
+  "tooltip": "cbrg.guns.ump.desc",
+  "type": "smg"
+}

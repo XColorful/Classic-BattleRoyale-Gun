@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_granite"
+      },
+      "count": 450
+    },
+    {
+      "item": {
+        "item": "minecraft:melon_slice"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "item": "minecraft:brick"
+      },
+      "count": 45
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "rpg",
+    "item": {
+      "item": "tacz:modern_kinetic_gun",
+      "nbt": {
+        "GunCurrentAmmoCount": 0,
+        "GunFireMode": "SEMI",
+        "GunId": "tacz:sks_tactical",
+        "HasBulletInBarrel": false
+      },
+      "count": 1
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

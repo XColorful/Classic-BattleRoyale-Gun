@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:activator_rail"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:detector_rail"
+      },
+      "count": 9
+    },
+    {
+      "item": {
+        "item": "minecraft:powered_rail"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "item": "minecraft:stripped_bamboo_block"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:tripwire_hook"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:light_extended_mag_1"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

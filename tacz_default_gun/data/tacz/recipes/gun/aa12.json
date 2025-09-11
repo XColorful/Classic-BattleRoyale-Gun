@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_andesite"
+      },
+      "count": 150
+    },
+    {
+      "item": {
+        "item": "minecraft:slime_ball"
+      },
+      "count": 50
+    },
+    {
+      "item": {
+        "item": "minecraft:tropical_fish"
+      },
+      "count": 15
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:aa12"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

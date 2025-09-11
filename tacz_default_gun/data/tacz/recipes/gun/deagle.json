@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_granite"
+      },
+      "count": 60
+    },
+    {
+      "item": {
+        "item": "minecraft:pumpkin"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:smooth_sandstone"
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:deagle"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

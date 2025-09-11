@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_deepslate"
+      },
+      "count": 400
+    },
+    {
+      "item": {
+        "item": "minecraft:quartz"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "item": "minecraft:sea_pickle"
+      },
+      "count": 40
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:m700",
+    "attachments": {
+      "scope": "tacz:scope_contender"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:weathered_copper"
+      },
+      "count": 100
+    },
+    {
+      "item": {
+        "item": "minecraft:bone"
+      },
+      "count": 88
+    },
+    {
+      "item": {
+        "item": "minecraft:ochre_froglight"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:verdant_froglight"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:pearlescent_froglight"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:ai_awp",
+    "attachments": {
+      "scope": "tacz:scope_contender"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

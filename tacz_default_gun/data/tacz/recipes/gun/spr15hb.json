@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:oak_planks"
+      },
+      "count": 400
+    },
+    {
+      "item": {
+        "item": "minecraft:wheat"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "minecraft:experience_bottle"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "rpg",
+    "item": {
+      "item": "tacz:modern_kinetic_gun",
+      "nbt": {
+        "GunCurrentAmmoCount": 0,
+        "GunFireMode": "SEMI",
+        "GunId": "tacz:spr15hb",
+        "HasBulletInBarrel": false
+      },
+      "count": 1
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

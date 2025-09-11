@@ -54,7 +54,7 @@
   },
   "crawl_recoil_multiplier": 0.75,
   "fire_mode": [
-    "burst",
+    "auto",
     "semi"
   ],
   "burst_data": {

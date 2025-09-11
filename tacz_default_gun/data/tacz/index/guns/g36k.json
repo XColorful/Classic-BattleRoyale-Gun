@@ -1,0 +1,8 @@
+{
+  "name": "cbrg.guns.g36c.name",
+  "display": "tacz:g36k_display",
+  "data": "tacz:g36k_data",
+  "type": "rifle",
+  "tooltip": "cbrg.guns.g36c.desc",
+  "sort": 10
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.p18c.name",
+  "display": "tacz:b93r_display",
+  "data": "tacz:b93r_data",
+  "tooltip": "cbrg.guns.p18c.desc",
+  "type": "pistol"
+}

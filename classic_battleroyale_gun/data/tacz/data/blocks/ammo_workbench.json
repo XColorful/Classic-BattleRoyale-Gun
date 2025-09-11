@@ -1,0 +1,15 @@
+{
+  "filter": "cbrg:ammo_workshop_filter",
+  "tabs": [
+    {
+      "id": "tacz:ammo",
+      "name": "tacz.type.ammo.name",
+      "icon": {
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "tacz:762x39"
+        }
+      }
+    }
+  ]
+}

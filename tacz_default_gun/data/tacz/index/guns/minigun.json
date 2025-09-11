@@ -1,0 +1,9 @@
+{
+    "name": "cbrg.guns.mg3.name",
+    "display": "tacz:minigun_display",
+    "data": "tacz:minigun_data",
+    "tooltip": "cbrg.guns.mg3.desc",
+    "type": "mg",
+    "item_type": "modern_kinetic",
+    "sort": 1
+}

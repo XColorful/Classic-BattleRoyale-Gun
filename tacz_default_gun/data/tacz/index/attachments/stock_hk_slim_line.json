@@ -1,0 +1,8 @@
+{
+  "name": "cbrg.attachments.heavy_stock.name",
+  "display": "tacz:stock_hk_slim_line_display",
+  "data": "tacz:stock_hk_slim_line_data",
+  "tooltip": "cbrg.attachments.heavy_stock.desc",
+  "type": "stock",
+  "sort": 10
+}

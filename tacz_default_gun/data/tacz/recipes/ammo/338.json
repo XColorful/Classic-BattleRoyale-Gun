@@ -1,0 +1,22 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/copper"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "item": "minecraft:scute"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "tacz:338",
+    "count": 5
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

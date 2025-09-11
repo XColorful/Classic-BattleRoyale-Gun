@@ -1,5 +1,5 @@
 {
-  "ammo": "tacz:308",
+  "ammo": "cbrg:ammo_762",
   "can_crawl": false,
   "bolt": "open_bolt",
   "rpm": 1200,

@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_andesite"
+      },
+      "count": 200
+    },
+    {
+      "item": {
+        "item": "minecraft:phantom_membrane"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "sniper",
+    "item": {
+      "item": "tacz:modern_kinetic_gun",
+      "nbt": {
+        "GunCurrentAmmoCount": 10,
+        "GunFireMode": "SEMI",
+        "GunId": "tacz:m107",
+        "HasBulletInBarrel": false,
+        "AttachmentSCOPE": {
+          "id": "tacz:attachment",
+          "Count": true,
+          "tag": {
+            "AttachmentId": "cbrg:6x_scope"
+          }
+        }
+      }
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

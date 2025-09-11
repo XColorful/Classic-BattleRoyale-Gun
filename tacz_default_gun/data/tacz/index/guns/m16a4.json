@@ -1,0 +1,8 @@
+{
+  "name": "cbrg.guns.m16a4.name",
+  "display": "tacz:m16a4_display",
+  "data": "tacz:m16a4_data",
+  "type": "rifle",
+  "tooltip": "cbrg.guns.m16a4.desc",
+  "sort": 4
+}

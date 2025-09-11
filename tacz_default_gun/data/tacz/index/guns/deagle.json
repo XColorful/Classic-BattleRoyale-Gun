@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.deagle.name",
+  "display": "tacz:deagle_display",
+  "data": "tacz:deagle_data",
+  "tooltip": "cbrg.guns.deagle.desc",
+  "type": "pistol"
+}

@@ -1,0 +1,31 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:echo_shard"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:wheat_seeds"
+      },
+      "count": 512
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "misc",
+    "item": {
+      "item": "tacz:modern_kinetic_gun",
+      "nbt": {
+        "GunCurrentAmmoCount": 1,
+        "GunFireMode": "SEMI",
+        "GunId": "tacz:rpg7",
+        "HasBulletInBarrel": true
+      },
+      "count": 1
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "cbrg.guns.mk14.name",
+  "display": "tacz:mk14_display",
+  "data": "tacz:mk14_data",
+  "tooltip": "cbrg.guns.mk14.desc",
+  "type": "rifle",
+  "sort": 4
+}

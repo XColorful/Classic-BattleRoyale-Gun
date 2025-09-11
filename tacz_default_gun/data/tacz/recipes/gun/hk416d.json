@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_granite"
+      },
+      "count": 300
+    },
+    {
+      "item": {
+        "item": "minecraft:cooked_mutton"
+      },
+      "count": 80
+    },
+    {
+      "item": {
+        "item": "minecraft:cooked_cod"
+      },
+      "count": 30
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:hk416d",
+    "attachments": {
+      "stock": "tacz:stock_hk_slim_line"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

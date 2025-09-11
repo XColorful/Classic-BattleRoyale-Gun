@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:birch_planks"
+      },
+      "count": 600
+    },
+    {
+      "item": {
+        "item": "minecraft:spider_eye"
+      },
+      "count": 150
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "count": 60
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:aug"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_diorite"
+      },
+      "count": 60
+    },
+    {
+      "item": {
+        "item": "minecraft:apple"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:db_short"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

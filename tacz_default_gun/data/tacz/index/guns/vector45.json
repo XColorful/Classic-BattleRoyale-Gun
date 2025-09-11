@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.vector.name",
+  "display": "tacz:vector45_display",
+  "data": "tacz:vector45_data",
+  "tooltip": "cbrg.guns.vector.desc",
+  "type": "smg"
+}

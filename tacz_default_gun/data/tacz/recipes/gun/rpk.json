@@ -1,0 +1,30 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_andesite"
+      },
+      "count": 330
+    },
+    {
+      "item": {
+        "item": "minecraft:slime_ball"
+      },
+      "count": 22
+    },
+    {
+      "item": {
+        "item": "minecraft:cocoa_beans"
+      },
+      "count": 22
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:rpk",
+    "attachments": {
+      "stock": "tacz:oem_stock_heavy"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

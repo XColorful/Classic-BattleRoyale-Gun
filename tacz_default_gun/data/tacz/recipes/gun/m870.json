@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_diorite"
+      },
+      "count": 150
+    },
+    {
+      "item": {
+        "item": "minecraft:melon_slice"
+      },
+      "count": 50
+    },
+    {
+      "item": {
+        "item": "minecraft:glow_ink_sac"
+      },
+      "count": 15
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:m870"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

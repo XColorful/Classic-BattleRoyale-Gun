@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.sawedoff.name",
+  "display": "tacz:db_short_display",
+  "data": "tacz:db_short_data",
+  "tooltip": "cbrg.guns.sawedoff.desc",
+  "type": "shotgun"
+}

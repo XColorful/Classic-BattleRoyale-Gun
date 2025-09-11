@@ -1,0 +1,8 @@
+{
+  "name": "cbrg.attachments.quickdraw_mag_sr.name",
+  "display": "tacz:sniper_extended_mag_1_display",
+  "data": "tacz:sniper_extended_mag_1_data",
+  "tooltip": "cbrg.attachments.quickdraw_mag_sr.desc",
+  "type": "extended_mag",
+  "sort": 100
+}

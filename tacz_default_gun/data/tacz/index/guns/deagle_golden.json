@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.r1895.name",
+  "display": "tacz:deagle_golden_display",
+  "data": "tacz:deagle_golden_data",
+  "tooltip": "cbrg.guns.r1895.desc",
+  "type": "pistol"
+}

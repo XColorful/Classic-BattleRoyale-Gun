@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:jungle_planks"
+      },
+      "count": 60
+    },
+    {
+      "item": {
+        "item": "minecraft:pumpkin"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:flint"
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:cz75"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

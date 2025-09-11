@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.lynx_amr.name",
+  "display": "tacz:m107_display",
+  "data": "tacz:m107_data",
+  "tooltip": "cbrg.guns.lynx_amr.desc",
+  "type": "sniper"
+}

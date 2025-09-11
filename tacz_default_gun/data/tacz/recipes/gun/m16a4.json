@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:oak_planks"
+      },
+      "count": 180
+    },
+    {
+      "item": {
+        "item": "minecraft:cooked_porkchop"
+      },
+      "count": 80
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:m16a4"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

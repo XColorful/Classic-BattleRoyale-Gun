@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:jungle_planks"
+      },
+      "count": 400
+    },
+    {
+      "item": {
+        "item": "minecraft:sugar_cane"
+      },
+      "count": 100
+    },
+    {
+      "item": {
+        "item": "minecraft:sponge"
+      },
+      "count": 40
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:scar_l"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

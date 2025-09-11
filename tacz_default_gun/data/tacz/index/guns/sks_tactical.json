@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.sks.name",
+  "display": "tacz:sks_tactical_display",
+  "data": "tacz:sks_tactical_data",
+  "tooltip": "cbrg.guns.sks.desc",
+  "type": "rifle"
+}

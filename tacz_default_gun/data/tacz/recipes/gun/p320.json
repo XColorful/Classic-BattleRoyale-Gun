@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:oak_planks"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "item": "minecraft:rotten_flesh"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:p320"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:acacia_planks"
+      },
+      "count": 300
+    },
+    {
+      "item": {
+        "item": "minecraft:string"
+      },
+      "count": 80
+    },
+    {
+      "item": {
+        "item": "minecraft:snowball"
+      },
+      "count": 30
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:g36k"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

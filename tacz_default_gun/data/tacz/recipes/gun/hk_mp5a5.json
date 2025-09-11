@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:spruce_planks"
+      },
+      "count": 150
+    },
+    {
+      "item": {
+        "item": "minecraft:cooked_mutton"
+      },
+      "count": 50
+    },
+    {
+      "item": {
+        "item": "minecraft:snowball"
+      },
+      "count": 15
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:hk_mp5a5"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

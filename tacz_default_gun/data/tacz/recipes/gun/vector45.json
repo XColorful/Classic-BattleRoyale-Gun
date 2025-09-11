@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:birch_planks"
+      },
+      "count": 170
+    },
+    {
+      "item": {
+        "item": "minecraft:melon_slice"
+      },
+      "count": 60
+    },
+    {
+      "item": {
+        "item": "minecraft:cocoa_beans"
+      },
+      "count": 17
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:vector45"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

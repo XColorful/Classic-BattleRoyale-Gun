@@ -1,0 +1,85 @@
+{
+  "filter": "cbrg:gun_workshop_filter",
+  "tabs": [
+    {
+      "id": "tacz:rifle",
+      "name": "cbrg.type.ar.name",
+      "icon": {
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "cbrg:beryl_m762"
+        }
+      }
+    },
+    {
+      "id": "tacz:sniper",
+      "name": "cbrg.type.sr.name",
+      "icon": {
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "tacz:m700"
+        }
+      }
+    },
+    {
+      "id": "tacz:rpg",
+      "name": "cbrg.type.dmr.name",
+      "icon": {
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "cbrg:slr"
+        }
+      }
+    },
+    {
+      "id": "tacz:shotgun",
+      "name": "cbrg.type.shotgun.name",
+      "icon": {
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "tacz:m870"
+        }
+      }
+    },
+    {
+      "id": "tacz:smg",
+      "name": "cbrg.type.smg.name",
+      "icon": {
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "tacz:ump45"
+        }
+      }
+    },
+    {
+      "id": "tacz:mg",
+      "name": "cbrg.type.lmg.name",
+      "icon": {
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "tacz:m249"
+        }
+      }
+    },
+    {
+      "id": "tacz:pistol",
+      "name": "cbrg.type.handgun.name",
+      "icon": {
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "tacz:deagle"
+        }
+      }
+    },
+    {
+      "id": "tacz:misc",
+      "name": "cbrg.type.launcher.name",
+      "icon": {
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "tacz:rpg7"
+        }
+      }
+    }
+  ]
+}

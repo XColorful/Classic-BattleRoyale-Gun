@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:activator_rail"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:detector_rail"
+      },
+      "count": 82
+    },
+    {
+      "item": {
+        "item": "minecraft:stripped_bamboo_block"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "minecraft:tripwire_hook"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:sniper_extended_mag_2"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

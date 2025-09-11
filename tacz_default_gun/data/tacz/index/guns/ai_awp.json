@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.awm.name",
+  "display": "tacz:ai_awp_display",
+  "data": "tacz:ai_awp_data",
+  "tooltip": "cbrg.guns.awm.desc",
+  "type": "sniper"
+}

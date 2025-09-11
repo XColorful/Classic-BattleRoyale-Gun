@@ -1,0 +1,9 @@
+{
+    "name": "cbrg.guns.qbz.name",
+    "display": "tacz:qbz_95_display",
+    "data": "tacz:qbz_95_data",
+    "tooltip": "cbrg.guns.qbz.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 1
+}

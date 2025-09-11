@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:weathered_copper"
+      },
+      "count": 75
+    },
+    {
+      "item": {
+        "item": "minecraft:wheat"
+      },
+      "count": 150
+    },
+    {
+      "item": {
+        "item": "minecraft:glow_ink_sac"
+      },
+      "count": 60
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:qbz_95"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

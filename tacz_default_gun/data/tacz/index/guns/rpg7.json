@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.panzerfaust.name",
+  "display": "tacz:rpg7_display",
+  "data": "tacz:rpg7_data",
+  "tooltip": "cbrg.guns.panzerfaust.desc",
+  "type": "rpg"
+}
