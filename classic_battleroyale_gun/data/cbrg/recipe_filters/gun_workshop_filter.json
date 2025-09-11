@@ -1,8 +1,11 @@
 {
   "whitelist": [
-    "^cbrg.*$"
+    "^cbrg.*$",
+    "^tacz.*$"
   ],
   "blacklist": [
-    "tacz:test"
+    "tacz:test",
+    "^tacz:gun/(m320|springfield1873).*$",
+    "^tacz:misc/.*$"
   ]
 }

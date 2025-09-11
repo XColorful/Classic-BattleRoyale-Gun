@@ -132,6 +132,8 @@
     "cbrg.guns.sawedoff.desc": "Break-open shotgun with shortened barrel capable of firing two consecutive shots.",
     "cbrg.guns.deagle.name": "Deagle",
     "cbrg.guns.deagle.desc": "One of the most powerful handguns in the world.",
+    "cbrg.guns.panzerfaust.name": "Panzerfaust",
+    "cbrg.guns.panzerfaust.desc": "Single shot German anti-tank launcher with lethal backblast.",
     
     "cbrg.attachments.angled_foregrip.name": "Angled Foregrip",
     "cbrg.attachments.angled_foregrip.desc": "+25% Horizontal recoil control\n-10% Sway control when breathing\n+10% ADS speed",

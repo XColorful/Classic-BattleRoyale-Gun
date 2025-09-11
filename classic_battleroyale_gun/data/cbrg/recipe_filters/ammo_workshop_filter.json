@@ -1,8 +1,13 @@
 {
   "whitelist": [
-    "^cbrg.*$"
+    "^cbrg.*$",
+    "^tacz.*$"
   ],
   "blacklist": [
-    "tacz:test"
+    "tacz:test",
+    "^tacz:ammo/(9mm|45acp|50ae|357mag).*$",
+    "^tacz:ammo/(556x45|58x42).*$",
+    "^tacz:ammo/(762x39|762x25|762x54|68x51|30_06|308).*$",
+    "^tacz:ammo/(46x30|45_70|40mm|68x51).*$"
   ]
 }

@@ -132,6 +132,8 @@
     "cbrg.guns.sawedoff.desc": "枪管锯短的折管式霰弹枪，能够连续发射两发霰弹",
     "cbrg.guns.deagle.name": "沙漠之鹰",
     "cbrg.guns.deagle.desc": "世界上最强的手枪之一。",
+    "cbrg.guns.panzerfaust.name": "铁拳火箭筒",
+    "cbrg.guns.panzerfaust.desc": "德制单发型反坦克火箭筒，发射时会产生极具杀伤性的尾流。",
     
     "cbrg.attachments.angled_foregrip.name": "直角前握把",
     "cbrg.attachments.angled_foregrip.desc": "+25% 水平后坐力控制\n-10% 呼吸时的摇晃程度控制\n+10% 瞄准速度",
