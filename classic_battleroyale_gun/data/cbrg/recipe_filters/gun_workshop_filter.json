@@ -5,6 +5,7 @@
   ],
   "blacklist": [
     "tacz:test",
+    "^tacz:gun/(glock_17|type_81|m16a1|m4a1|scar_h)$",
     "^tacz:gun/(m320|springfield1873).*$",
     "^tacz:misc/.*$"
   ]
