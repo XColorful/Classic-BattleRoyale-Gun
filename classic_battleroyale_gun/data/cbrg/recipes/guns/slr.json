@@ -20,8 +20,18 @@
     }
   ],
   "result": {
-    "type": "gun",
-    "id": "cbrg:slr"
+    "type": "custom",
+    "group": "rpg",
+    "item": {
+      "item": "tacz:modern_kinetic_gun",
+      "nbt": {
+        "GunCurrentAmmoCount": 0,
+        "GunFireMode": "SEMI",
+        "GunId": "cbrg:slr",
+        "HasBulletInBarrel": false
+      },
+      "count": 1
+    }
   },
   "type": "tacz:gun_smith_table_crafting"
 }
