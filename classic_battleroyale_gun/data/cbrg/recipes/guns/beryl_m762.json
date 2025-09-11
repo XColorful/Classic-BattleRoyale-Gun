@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_andesite"
+      },
+      "count": 770
+    },
+    {
+      "item": {
+        "item": "minecraft:rotten_flesh"
+      },
+      "count": 180
+    },
+    {
+      "item": {
+        "item": "minecraft:magma_block"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "cbrg:beryl_m762"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_deepslate"
+      },
+      "count": 500
+    },
+    {
+      "item": {
+        "item": "minecraft:stripped_acacia_wood"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "minecraft:magma_cream"
+      },
+      "count": 200
+    },
+    {
+      "item": {
+        "item": "minecraft:crimson_fungus"
+      },
+      "count": 25
+    },
+    {
+      "item": {
+        "item": "minecraft:warped_fungus"
+      },
+      "count": 25
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "cbrg:groza"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

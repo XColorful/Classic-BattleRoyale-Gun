@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:acacia_planks"
+      },
+      "count": 550
+    },
+    {
+      "item": {
+        "item": "minecraft:rabbit_hide"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:spore_blossom"
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "cbrg:slr"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}
