@@ -1,20 +1,32 @@
 {
   "ammo": "cbrg:ammo_9mm",
-  "rpm": 820,
+  "rpm": 900,
   "can_slide": false,
   "bullet": {
     "life": 2,
     "bullet_amount": 1,
-    "damage": 6,
+    "damage": 6.8,
     "tracer_count_interval": 0,
     "extra_damage": {
       "armor_ignore": 0.15,
       "head_shot_multiplier": 1.25,
       "damage_adjust": [
-        {"distance": 18, "damage": 6},
-        {"distance": 40, "damage": 5},
-        {"distance": 65, "damage": 4.5},
-        {"distance": "infinite", "damage": 3.5}
+        {"distance": 41, "damage": 6.8},
+        {"distance": 52.14, "damage": 6.7},
+        {"distance": 63.29, "damage": 6.6},
+        {"distance": 74.43, "damage": 6.51},
+        {"distance": 85.57, "damage": 6.41},
+        {"distance": 96.71, "damage": 6.31},
+        {"distance": 107.86, "damage": 6.21},
+        {"distance": 119, "damage": 6.12},
+        {"distance": 130.14, "damage": 6.02},
+        {"distance": 141.29, "damage": 5.92},
+        {"distance": 152.43, "damage": 5.82},
+        {"distance": 163.57, "damage": 5.72},
+        {"distance": 174.71, "damage": 5.63},
+        {"distance": 185.86, "damage": 5.53},
+        {"distance": 197, "damage": 5.43},
+        {"distance": "infinite", "damage": 5.43}
       ]
     },
     "speed": 360,
@@ -93,15 +105,15 @@
   ],
   "recoil": {
     "pitch": [
-      {"time": 0, "value": [0.45, 0.45]},
-      {"time": 0.3, "value": [0.45, 0.45]},
-      {"time": 0.5, "value": [-0.125, -0.125]},
-      {"time": 0.65, "value": [0, 0]}
+      {"time": 0, "value": [1.366, 1.366]},
+      {"time": 0.3, "value": [1.366, 1.366]},
+      {"time": 0.5, "value": [1.366, 1.366]},
+      {"time": 0.65, "value": [1.366, 1.366]}
     ],
     "yaw": [
-      {"time": 0, "value": [-0.275, 0.275]},
-      {"time": 0.3, "value": [-0.275, 0.275]},
-      {"time": 0.5, "value": [0, 0]}
+      {"time": 0, "value": [-0.475, 0.475]},
+      {"time": 0.3, "value": [-0.475, 0.475]},
+      {"time": 0.5, "value": [-0.475, 0.475]}
     ]
   },
   "inaccuracy": {

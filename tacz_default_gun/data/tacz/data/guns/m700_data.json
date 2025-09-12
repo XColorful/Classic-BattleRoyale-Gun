@@ -7,24 +7,37 @@
     7
   ],
   "bolt": "manual_action",
-  "rpm": 180,
+  "rpm": 33,
   "can_slide": false,
   "bullet": {
     "life": 2,
     "bullet_amount": 1,
-    "damage": 24,
+    "damage": 15,
     "tracer_count_interval": 0,
     "extra_damage": {
       "armor_ignore": 0.50,
-      "head_shot_multiplier": 2,
+      "head_shot_multiplier": 2.5,
       "damage_adjust": [
-        {"distance": 48, "damage": 24},
-        {"distance": 96, "damage": 19},
-        {"distance": 190, "damage": 16},
-        {"distance": "infinite", "damage": 14}
+        {"distance": 123, "damage": 15},
+        {"distance": 153, "damage": 14.9},
+        {"distance": 183, "damage": 14.8},
+        {"distance": 213, "damage": 14.7},
+        {"distance": 243, "damage": 14.6},
+        {"distance": 273, "damage": 14.5},
+        {"distance": 303, "damage": 14.4},
+        {"distance": 333, "damage": 14.3},
+        {"distance": 363, "damage": 14.2},
+        {"distance": 393, "damage": 14.1},
+        {"distance": 423, "damage": 14},
+        {"distance": 453, "damage": 13.9},
+        {"distance": 483, "damage": 13.8},
+        {"distance": 513, "damage": 13.7},
+        {"distance": 543, "damage": 13.6},
+        {"distance": 573, "damage": 13.5},
+        {"distance": "infinite", "damage": 13.5}
       ]
     },
-    "speed": 760,
+    "speed": 790,
     "gravity": 0.0245,
     "knockback": 0,
     "friction": 0.03322,
@@ -59,20 +72,20 @@
   ],
  "recoil": {
     "pitch": [
-      {"time": 0, "value": [3.25, 3.25]},
-      {"time": 0.07, "value": [2.375, 2.375]},
-      {"time": 0.16, "value": [3, 3]},
-      {"time": 0.24, "value": [1.85, 1.85]},
-      {"time": 0.6, "value": [-0.5, -0.5]},
-      {"time": 0.71, "value": [0.25, 0.25]},
-      {"time": 0.83, "value": [0, 0]},
-      {"time": 0.88, "value": [0, 0]}
+      {"time": 0, "value": [4.478, 4.478]},
+      {"time": 0.07, "value": [4.478, 4.478]},
+      {"time": 0.16, "value": [4.478, 4.478]},
+      {"time": 0.24, "value": [4.478, 4.478]},
+      {"time": 0.6, "value": [4.478, 4.478]},
+      {"time": 0.71, "value": [4.478, 4.478]},
+      {"time": 0.83, "value": [4.478, 4.478]},
+      {"time": 0.88, "value": [4.478, 4.478]}
     ],
     "yaw": [
-      {"time": 0, "value": [-0.5, -0.5]},
-      {"time": 0.17, "value": [0.1, 0.1]},
-      {"time": 0.3, "value": [0, 0]},
-      {"time": 0.8, "value": [0, 0]}
+      {"time": 0, "value": [-1.243, 1.243]},
+      {"time": 0.17, "value": [-1.243, 1.243]},
+      {"time": 0.3, "value": [-1.243, 1.243]},
+      {"time": 0.8, "value": [-1.243, 1.243]}
     ]
   },
   "inaccuracy": {

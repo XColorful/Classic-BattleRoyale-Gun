@@ -8,7 +8,7 @@
   ],
   "can_slide": false,
   "bolt": "closed_bolt",
-  "rpm": 510,
+  "rpm": 600,
   "script": "tacz:xmag_reload_logic",
   "script_param": {
     "reload_feed": 1.6,
@@ -31,18 +31,35 @@
   "bullet": {
     "life": 2,
     "bullet_amount": 1,
-    "damage": 11,
+    "damage": 10.6,
     "tracer_count_interval": 0,
     "extra_damage": {
       "armor_ignore": 0.25,
-      "head_shot_multiplier": 2,
+      "head_shot_multiplier": 2.35,
       "damage_adjust": [
-        {"distance": 55, "damage": 11},
-        {"distance": 110, "damage": 9},
-        {"distance": "infinite", "damage": 7}
+        {"distance": 101, "damage": 10.6},
+        {"distance": 120.72, "damage": 10.5},
+        {"distance": 140.44, "damage": 10.4},
+        {"distance": 160.17, "damage": 10.3},
+        {"distance": 179.89, "damage": 10.2},
+        {"distance": 199.61, "damage": 10.1},
+        {"distance": 219.33, "damage": 10},
+        {"distance": 239.06, "damage": 9.9},
+        {"distance": 258.78, "damage": 9.8},
+        {"distance": 278.5, "damage": 9.7},
+        {"distance": 298.22, "damage": 9.6},
+        {"distance": 317.94, "damage": 9.5},
+        {"distance": 337.67, "damage": 9.4},
+        {"distance": 357.39, "damage": 9.3},
+        {"distance": 377.11, "damage": 9.2},
+        {"distance": 396.83, "damage": 9.1},
+        {"distance": 416.56, "damage": 9},
+        {"distance": 436.28, "damage": 8.9},
+        {"distance": 456, "damage": 8.8},
+        {"distance": "infinite", "damage": 8.8}
       ]
     },
-    "speed": 600,
+    "speed": 800,
     "gravity": 0.0245,
     "knockback": 0,
     "friction": 0.03322,
@@ -76,19 +93,19 @@
   ],
   "recoil": {
     "pitch": [
-      {"time": 0, "value": [1.25, 1.25]},
-      {"time": 0.25, "value": [1.25, 1.25]},
-      {"time": 0.5, "value": [-0.225, -0.225]},
-      {"time": 0.6, "value": [0, 0]},
-      {"time": 0.8, "value": [0, 0]}
+      {"time": 0, "value": [1.751, 1.751]},
+      {"time": 0.25, "value": [1.751, 1.751]},
+      {"time": 0.5, "value": [1.751, 1.751]},
+      {"time": 0.6, "value": [1.751, 1.751]},
+      {"time": 0.8, "value": [1.751, 1.751]}
     ],
     "yaw": [
-      {"time": 0, "value": [-0.5, -0.5]},
-      {"time": 0.06, "value": [0.5, 0.5]},
-      {"time": 0.13, "value": [-0.25, -0.25]},
-      {"time": 0.21, "value": [0.1, 0.1]},
-      {"time": 0.33, "value": [0, 0]},
-      {"time": 0.7, "value": [0, 0]}
+      {"time": 0, "value": [-0.986, 0.986]},
+      {"time": 0.06, "value": [-0.986, 0.986]},
+      {"time": 0.13, "value": [-0.986, 0.986]},
+      {"time": 0.21, "value": [-0.986, 0.986]},
+      {"time": 0.33, "value": [-0.986, 0.986]},
+      {"time": 0.7, "value": [-0.986, 0.986]}
     ]
   },
   "inaccuracy": {

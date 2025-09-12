@@ -8,22 +8,42 @@
   ],
   "can_slide": false,
   "bolt": "closed_bolt",
-  "rpm": 660,
+  "rpm": 650,
   "bullet": {
     "life": 2,
     "bullet_amount": 1,
-    "damage": 7.5,
+    "damage": 8.4,
     "tracer_count_interval": 0,
     "extra_damage": {
       "armor_ignore": 0.4,
       "head_shot_multiplier": 1.5,
       "damage_adjust": [
-        {"distance": 25, "damage": 7.5},
-        {"distance": 45, "damage": 6},
-        {"distance": "infinite", "damage": 4.5}
+        {"distance": 61, "damage": 8.4},
+        {"distance": 80.38, "damage": 8.3},
+        {"distance": 99.76, "damage": 8.2},
+        {"distance": 119.14, "damage": 8.1},
+        {"distance": 138.52, "damage": 8},
+        {"distance": 157.9, "damage": 7.9},
+        {"distance": 177.29, "damage": 7.8},
+        {"distance": 196.67, "damage": 7.7},
+        {"distance": 216.05, "damage": 7.6},
+        {"distance": 235.43, "damage": 7.5},
+        {"distance": 254.81, "damage": 7.4},
+        {"distance": 274.19, "damage": 7.3},
+        {"distance": 293.57, "damage": 7.2},
+        {"distance": 312.95, "damage": 7.1},
+        {"distance": 332.33, "damage": 7},
+        {"distance": 351.71, "damage": 6.9},
+        {"distance": 371.1, "damage": 6.8},
+        {"distance": 390.48, "damage": 6.7},
+        {"distance": 409.86, "damage": 6.6},
+        {"distance": 429.24, "damage": 6.5},
+        {"distance": 448.62, "damage": 6.4},
+        {"distance": 468, "damage": 6.3},
+        {"distance": "infinite", "damage": 6.3}
       ]
     },
-    "speed": 530,
+    "speed": 930,
     "gravity": 0.0245,
     "knockback": 0,
     "friction": 0.03322,
@@ -65,13 +85,13 @@
   },
   "recoil": {
     "pitch": [
-      {"time": 0, "value": [0.35, 0.35]},
-      {"time": 0.25, "value": [-0.125, -0.125]},
-      {"time": 0.33, "value": [0, 0]}
+      {"time": 0, "value": [1.421, 1.421]},
+      {"time": 0.25, "value": [1.421, 1.421]},
+      {"time": 0.33, "value": [1.421, 1.421]}
     ],
     "yaw": [
-      {"time": 0, "value": [-0.25, 0.25]},
-      {"time": 0.33, "value": [0, 0]}
+      {"time": 0, "value": [-0.492, 0.492]},
+      {"time": 0.33, "value": [-0.492, 0.492]}
     ]
   },
   "inaccuracy": {

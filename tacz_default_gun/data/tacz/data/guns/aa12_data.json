@@ -1,0 +1,144 @@
+{
+  "ammo": "tacz:12g",
+  "rpm": 240,
+  "bullet": {
+    "life": 2,
+    "bullet_amount": 9,
+    "damage": 43.2,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.0,
+      "head_shot_multiplier": 1.5,
+      "damage_adjust": [
+        {"distance": 2, "damage": 43.2},
+        {"distance": 3.65, "damage": 42.3},
+        {"distance": 5.29, "damage": 41.4},
+        {"distance": 6.94, "damage": 40.5},
+        {"distance": 8.58, "damage": 39.6},
+        {"distance": 10.23, "damage": 38.7},
+        {"distance": 11.88, "damage": 37.8},
+        {"distance": 13.52, "damage": 36.9},
+        {"distance": 15.17, "damage": 36},
+        {"distance": 16.81, "damage": 35.1},
+        {"distance": 18.46, "damage": 34.2},
+        {"distance": 20.1, "damage": 33.3},
+        {"distance": 21.75, "damage": 32.4},
+        {"distance": 23.4, "damage": 31.5},
+        {"distance": 25.04, "damage": 30.6},
+        {"distance": 26.69, "damage": 29.7},
+        {"distance": 28.33, "damage": 28.8},
+        {"distance": 29.98, "damage": 27.9},
+        {"distance": 31.62, "damage": 27},
+        {"distance": 33.27, "damage": 26.1},
+        {"distance": 34.92, "damage": 25.2},
+        {"distance": 36.56, "damage": 24.3},
+        {"distance": 38.21, "damage": 23.4},
+        {"distance": 39.85, "damage": 22.5},
+        {"distance": 41.5, "damage": 21.6},
+        {"distance": 43.15, "damage": 20.7},
+        {"distance": 44.79, "damage": 19.8},
+        {"distance": 46.44, "damage": 18.9},
+        {"distance": 48.08, "damage": 18},
+        {"distance": 49.73, "damage": 17.1},
+        {"distance": 51.38, "damage": 16.2},
+        {"distance": 53.02, "damage": 15.3},
+        {"distance": 54.67, "damage": 14.4},
+        {"distance": 56.31, "damage": 13.5},
+        {"distance": 57.96, "damage": 12.6},
+        {"distance": 59.6, "damage": 11.7},
+        {"distance": 61.25, "damage": 10.8},
+        {"distance": 62.9, "damage": 9.9},
+        {"distance": 64.54, "damage": 9},
+        {"distance": 66.19, "damage": 8.1},
+        {"distance": 67.83, "damage": 7.2},
+        {"distance": 69.48, "damage": 6.3},
+        {"distance": 71.12, "damage": 5.4},
+        {"distance": 72.77, "damage": 4.5},
+        {"distance": 74.42, "damage": 3.6},
+        {"distance": 76.06, "damage": 2.7},
+        {"distance": 77.71, "damage": 1.8},
+        {"distance": 79.35, "damage": 0.9},
+        {"distance": 81, "damage": 0},
+        {"distance": "infinite", "damage": 0}
+      ]
+    },
+    "speed": 350,
+    "gravity": 0.0245,
+    "knockback": 0.15,
+    "friction": 0.03322,
+    "ignite": false,
+    "pierce": 1
+  },
+  "ammo_amount": 8,
+  "extended_mag_ammo_amount": [
+    16,
+    24,
+    32
+  ],
+  "can_slide": false,
+  "bolt": "open_bolt",
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 3,
+      "tactical": 2.3
+    },
+    "cooldown": {
+      "empty": 3.65,
+      "tactical": 2.95
+    }
+  },
+  "draw_time": 0.55,
+  "put_away_time": 0.6,
+  "aim_time": 0.2,
+  "sprint_time": 0.21,
+  "weight": 5.2,
+  "movement_speed": {
+    "base": 0.0,
+    "aim": -0.2,
+    "reload": -0.2
+  },
+  "crawl_recoil_multiplier": 0.5,
+  "fire_mode": [
+    "semi",
+    "auto"
+  ],
+  "allow_attachment_types": [
+    "scope",
+    "extended_mag",
+    "grip"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [3.583, 3.583]},
+      {"time": 0.125, "value": [3.583, 3.583]},
+      {"time": 0.4, "value": [3.583, 3.583]},
+      {"time": 0.55, "value": [3.583, 3.583]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-4.232, 4.232]},
+      {"time": 0.1, "value": [-4.232, 4.232]},
+      {"time": 0.2, "value": [-4.232, 4.232]},
+      {"time": 0.4, "value": [-4.232, 4.232]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 4.5,
+    "move": 4.75,
+    "sneak": 4,
+    "lie": 4,
+    "aim": 4
+  },
+  "melee": {
+    "distance": 1,
+    "cooldown": 0.7,
+    "default": {
+      "animation_type": "melee_stock",
+      "distance": 1,
+      "range_angle": 30,
+      "damage": 2,
+      "knockback": 0.6,
+      "prep": 0.1
+    }
+  }
+}

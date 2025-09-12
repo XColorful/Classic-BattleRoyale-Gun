@@ -1,6 +1,6 @@
 {
   "ammo": "cbrg:ammo_9mm",
-  "rpm": 1000,
+  "rpm": 1100,
   "script": "tacz:xmag_reload_logic",
   "script_param": {
     "reload_feed": 1.67,
@@ -23,19 +23,33 @@
   "bullet": {
     "life": 2,
     "bullet_amount": 1,
-    "damage": 7,
+    "damage": 6.2,
     "tracer_count_interval": 0,
     "extra_damage": {
       "armor_ignore": 0.2,
       "head_shot_multiplier": 1.25,
       "damage_adjust": [
-        {"distance": 15, "damage": 7},
-        {"distance": 36, "damage": 5.5},
-        {"distance": 50, "damage": 4.5},
-        {"distance": "infinite", "damage": 3.5}
+        {"distance": 41, "damage": 6.2},
+        {"distance": 47.44, "damage": 6.1},
+        {"distance": 53.88, "damage": 6},
+        {"distance": 60.31, "damage": 5.89},
+        {"distance": 66.75, "damage": 5.79},
+        {"distance": 73.19, "damage": 5.69},
+        {"distance": 79.62, "damage": 5.58},
+        {"distance": 86.06, "damage": 5.48},
+        {"distance": 92.5, "damage": 5.38},
+        {"distance": 98.94, "damage": 5.28},
+        {"distance": 105.38, "damage": 5.18},
+        {"distance": 111.81, "damage": 5.07},
+        {"distance": 118.25, "damage": 4.97},
+        {"distance": 124.69, "damage": 4.87},
+        {"distance": 131.12, "damage": 4.77},
+        {"distance": 137.56, "damage": 4.66},
+        {"distance": 144, "damage": 4.56},
+        {"distance": "infinite", "damage": 4.56}
       ]
     },
-    "speed": 360,
+    "speed": 350,
     "gravity": 0.0245,
     "knockback": 0,
     "friction": 0.03322,
@@ -92,15 +106,15 @@
   ],
   "recoil": {
     "pitch": [
-      {"time": 0, "value": [0.2, 0.2]},
-      {"time": 0.1, "value": [0.2, 0.2]},
-      {"time": 0.3, "value": [-0.2, -0.2]},
-      {"time": 0.45, "value": [0, 0]}
+      {"time": 0, "value": [0.838, 0.838]},
+      {"time": 0.1, "value": [0.838, 0.838]},
+      {"time": 0.3, "value": [0.838, 0.838]},
+      {"time": 0.45, "value": [0.838, 0.838]}
     ],
     "yaw": [
-      {"time": 0, "value": [-0.65, 0.5]},
-      {"time": 0.12, "value": [-0.65, 0.5]},
-      {"time": 0.3, "value": [0, 0]}
+      {"time": 0, "value": [-0.35, 0.35]},
+      {"time": 0.12, "value": [-0.35, 0.35]},
+      {"time": 0.3, "value": [-0.35, 0.35]}
     ]
   },
   "inaccuracy": {

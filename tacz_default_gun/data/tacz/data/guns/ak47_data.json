@@ -32,18 +32,49 @@
   "bullet": {
     "life": 2,
     "bullet_amount": 1,
-    "damage": 9,
+    "damage": 9.6,
     "tracer_count_interval": 0,
     "extra_damage": {
       "armor_ignore": 0.25,
       "head_shot_multiplier": 1.5,
       "damage_adjust": [
-        {"distance": 30, "damage": 9},
-        {"distance": 60, "damage": 7.5},
-        {"distance": "infinite", "damage": 6}
+        {"distance": 51, "damage": 9.6},
+        {"distance": 58.56, "damage": 9.5},
+        {"distance": 66.12, "damage": 9.4},
+        {"distance": 73.69, "damage": 9.3},
+        {"distance": 81.25, "damage": 9.21},
+        {"distance": 88.81, "damage": 9.11},
+        {"distance": 96.38, "damage": 9.01},
+        {"distance": 103.94, "damage": 8.91},
+        {"distance": 111.5, "damage": 8.81},
+        {"distance": 119.06, "damage": 8.71},
+        {"distance": 126.62, "damage": 8.61},
+        {"distance": 134.19, "damage": 8.51},
+        {"distance": 141.75, "damage": 8.41},
+        {"distance": 149.31, "damage": 8.32},
+        {"distance": 156.88, "damage": 8.22},
+        {"distance": 164.44, "damage": 8.12},
+        {"distance": 172, "damage": 8.02},
+        {"distance": 179.56, "damage": 7.92},
+        {"distance": 187.12, "damage": 7.82},
+        {"distance": 194.69, "damage": 7.72},
+        {"distance": 202.25, "damage": 7.62},
+        {"distance": 209.81, "damage": 7.53},
+        {"distance": 217.38, "damage": 7.43},
+        {"distance": 224.94, "damage": 7.33},
+        {"distance": 232.5, "damage": 7.23},
+        {"distance": 240.06, "damage": 7.13},
+        {"distance": 247.62, "damage": 7.03},
+        {"distance": 255.19, "damage": 6.93},
+        {"distance": 262.75, "damage": 6.83},
+        {"distance": 270.31, "damage": 6.74},
+        {"distance": 277.88, "damage": 6.64},
+        {"distance": 285.44, "damage": 6.54},
+        {"distance": 293, "damage": 6.44},
+        {"distance": "infinite", "damage": 6.44}
       ]
     },
-    "speed": 500,
+    "speed": 715,
     "gravity": 0.0245,
     "knockback": 0,
     "friction": 0.03322,
@@ -93,14 +124,14 @@
   "crawl_recoil_multiplier": 0.5,
   "recoil": {
     "pitch": [
-      {"time": 0, "value": [0.66, 0.66]},
-      {"time": 0.1, "value": [0.66, 0.66]},
-      {"time": 0.45, "value": [-0.175, -0.175]},
-      {"time": 0.6, "value": [0, 0]}
+      {"time": 0, "value": [1.688, 1.688]},
+      {"time": 0.1, "value": [1.688, 1.688]},
+      {"time": 0.45, "value": [1.688, 1.688]},
+      {"time": 0.6, "value": [1.688, 1.688]}
     ],
     "yaw": [
-      {"time": 0, "value": [-0.23, 0.18]},
-      {"time": 0.35, "value": [0, 0]}
+      {"time": 0, "value": [-0.478, 0.478]},
+      {"time": 0.35, "value": [-0.478, 0.478]}
     ]
   },
   "hurt_bob_tweak_multiplier": 0.05,
