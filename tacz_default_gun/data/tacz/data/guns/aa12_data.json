@@ -1,5 +1,5 @@
 {
-  "ammo": "tacz:12g",
+  "ammo": "cbrg:ammo_12g",
   "rpm": 240,
   "bullet": {
     "life": 2,
