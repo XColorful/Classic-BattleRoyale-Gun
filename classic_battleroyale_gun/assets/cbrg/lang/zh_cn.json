@@ -218,8 +218,8 @@
     "cbrg.ammo.ammo_9mm.name": "§69毫米子弹",
     "cbrg.ammo.ammo_45acp.name": "§b.45 口径子弹",
     "cbrg.ammo.ammo_300m.name": "§2.300 马格南子弹",
-    "cbrg.ammo.ammo_12g": "§412 号口径霰弹",
-    "cbrg.ammo.ammo_12gs": "§c12口径独头弹",
-    "cbrg.ammo.ammo_57mm": "§d5.7毫米",
-    "cbrg.ammo.ammo_bolt": "§9弩箭"
+    "cbrg.ammo.ammo_12g.name": "§412 号口径霰弹",
+    "cbrg.ammo.ammo_12gs.name": "§c12口径独头弹",
+    "cbrg.ammo.ammo_57mm.name": "§d5.7毫米",
+    "cbrg.ammo.ammo_bolt.name": "§9弩箭"
 }

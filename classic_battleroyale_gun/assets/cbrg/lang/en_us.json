@@ -218,8 +218,8 @@
     "cbrg.ammo.ammo_9mm.name": "§69mm",
     "cbrg.ammo.ammo_45acp.name": "§b.45 ACP",
     "cbrg.ammo.ammo_300m.name": "§2.300 Magnum",
-    "cbrg.ammo.ammo_12g": "§412 Gauge",
-    "cbrg.ammo.ammo_12gs": "§c12 Gauge Slug",
-    "cbrg.ammo.ammo_57mm": "§d5.7mm",
-    "cbrg.ammo.ammo_bolt": "§9Bolt"
+    "cbrg.ammo.ammo_12g.name": "§412 Gauge",
+    "cbrg.ammo.ammo_12gs.name": "§c12 Gauge Slug",
+    "cbrg.ammo.ammo_57mm.name": "§d5.7mm",
+    "cbrg.ammo.ammo_bolt.name": "§9Bolt"
 }

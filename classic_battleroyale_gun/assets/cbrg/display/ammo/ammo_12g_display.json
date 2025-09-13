@@ -1,0 +1,32 @@
+{
+  "slot": "cbrg:ammo/slot/ammo_12g",
+  "model": "cbrg:ammo/ammo_12g_geo",
+  "texture": "cbrg:ammo/ammo_12g",
+  "lod": {
+    "model": "cbrg:ammo/lod/ammo_12g_lod_geo",
+    "texture": "cbrg:ammo/lod/ammo_12g_lod"
+  },
+  "shell": {
+    "model": "cbrg:shell/ammo_12g_shell_geo",
+    "texture": "cbrg:shell/ammo_12g_shell"
+  },
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.75,
+        0.75,
+        0.75
+      ],
+      "ground": [
+        0.75,
+        0.75,
+        0.75
+      ],
+      "fixed": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    }
+  }
+}
