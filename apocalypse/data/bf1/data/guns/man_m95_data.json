@@ -1,0 +1,113 @@
+{
+  "ammo": "cbrg:ammo_762",
+  "ammo_amount": 5,
+  "bolt": "manual_action",
+  "rpm": 31.578,
+  "commemt": "↑暂时用Kar98K的数据",
+  "can_slide": false,
+  "bullet": {
+    "life": 2,
+    "bullet_amount": 1,
+    "damage": 15.8,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.50,
+      "head_shot_multiplier": 2.5,
+      "damage_adjust": [
+        {"distance": 104, "damage": 15.8},
+        {"distance": 127.94, "damage": 15.7},
+        {"distance": 151.88, "damage": 15.6},
+        {"distance": 175.81, "damage": 15.5},
+        {"distance": 199.75, "damage": 15.41},
+        {"distance": 223.69, "damage": 15.31},
+        {"distance": 247.62, "damage": 15.21},
+        {"distance": 271.56, "damage": 15.11},
+        {"distance": 295.5, "damage": 15.01},
+        {"distance": 319.44, "damage": 14.91},
+        {"distance": 343.38, "damage": 14.81},
+        {"distance": 367.31, "damage": 14.71},
+        {"distance": 391.25, "damage": 14.62},
+        {"distance": 415.19, "damage": 14.52},
+        {"distance": 439.12, "damage": 14.42},
+        {"distance": 463.06, "damage": 14.32},
+        {"distance": 487, "damage": 14.22},
+        {"distance": "infinite", "damage": 14.22}
+      ]
+    },
+    "speed": 760,
+    "gravity": 0.0245,
+    "knockback": 0.1,
+    "friction": 0.03322,
+    "ignite": false,
+    "pierce": 2,
+    "explosion": {
+      "explode": false,
+      "damage": 60,
+      "radius": 1.25,
+      "knockback": true,
+      "delay": 1
+    }
+  },
+  "reload": {
+    "type": "magazine"
+  },
+  "draw_time": 0.7,
+  "put_away_time": 0.43,
+  "aim_time": 0.12,
+  "sprint_time": 0.2,
+  "bolt_action_time": 0.53,
+  "weight": 3.78,
+  "movement_speed": {
+    "base": 0.0,
+    "aim": -0.1,
+    "reload": -0.1
+  },
+  "crawl_recoil_multiplier": 0.25,
+  "fire_mode": [
+    "semi"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [2.859, 2.859]},
+      {"time": 0.32, "value": [2.859, 2.859]},
+      {"time": 0.57, "value": [2.859, 2.859]},
+      {"time": 0.82, "value": [2.859, 2.859]},
+      {"time": 1.17, "value": [2.859, 2.859]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-2.495, 2.495]},
+      {"time": 0.32, "value": [-2.495, 2.495]},
+      {"time": 0.57, "value": [-2.495, 2.495]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 8.5,
+    "move": 11,
+    "sneak": 6.5,
+    "lie": 4.5,
+    "aim": 0.08
+  },
+  "melee": {
+    "distance": 1,
+    "cooldown": 1.0,
+    "default": {
+      "animation_type": "melee_stock",
+      "distance": 1.5,
+      "range_angle": 30,
+      "damage": 6,
+      "knockback": 1.2,
+      "prep": 0.42
+    }
+  },
+  "allow_attachment_types": [
+    "scope",
+    "muzzle"
+  ],
+  "script": "bf1:man_m95_logic",
+  "script_param": {
+    "reload_tactical_feed": 2.10,
+    "reload_tactical_cooldown": 3.23,
+    "reload_empty_feed": 1.38,
+    "reload_empty_cooldown": 2.57
+  }
+}

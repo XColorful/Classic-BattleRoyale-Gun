@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:oxidized_copper"
+      },
+      "count": 200
+    },
+    {
+      "item": {
+        "item": "minecraft:beetroot"
+      },
+      "count": 100
+    },
+    {
+      "item": {
+        "item": "minecraft:dried_kelp"
+      },
+      "count": 40
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "cib:galilace32"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

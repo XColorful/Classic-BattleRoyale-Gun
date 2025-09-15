@@ -1,0 +1,108 @@
+  {
+  "ammo": "cbrg:ammo_762",
+  "ammo_amount": 75,
+  "extended_mag_ammo_amount": [
+    75,
+    100,
+    150
+  ],
+  "bolt": "open_bolt",
+  "rpm": 990,
+  "can_slide": false,
+  "bullet": {
+    "life": 2.0,
+    "bullet_amount": 1,
+    "damage": 12.5,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.5,
+      "head_shot_multiplier": 2.1,
+      "damage_adjust": [
+        {"distance": 0.5, "damage": 12},
+        {"distance": 40, "damage": 9.5},
+        {"distance": 70, "damage": 7.5},
+        {"distance": "infinite", "damage": 5}
+      ]
+    },
+    "speed": 820,
+    "gravity": 0.0245,
+    "knockback": 0,
+    "friction": 0.03322,
+    "ignite": false,
+    "pierce": 1
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 8,
+      "tactical": 8
+    },
+    "cooldown": {
+      "empty": 9,
+      "tactical": 9
+    },
+    "weight": 10,
+    "movement_speed": {
+      "base": 0.0,
+      "aim": -0.25,
+      "reload": -0.2
+    }
+  },
+  "draw_time": 1,
+  "put_away_time": 1,
+  "aim_time": 0.3,
+  "sprint_time": 0.2,
+    "weight": 10,
+    "movement_speed": {
+      "base": 0.0,
+      "aim": -0.25,
+      "reload": -0.2
+    },
+  "fire_mode": [
+    "auto",
+    "burst"
+  ],
+  "burst_data": {
+    "continuous_shoot": true,
+    "count": 1,
+    "bpm": 660,
+    "min_interval": 0.091
+  },
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [0.4, 0.4]},
+      {"time": 0.3, "value": [0.4, 0.4]},
+      {"time": 0.5, "value": [-0.15, -0.15]},
+      {"time": 0.65, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.1, 0.2]},
+      {"time": 0.3, "value": [0.2, 0.3]},
+      {"time": 0.5, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 1.45,
+    "move": 2.3,
+    "sneak": 1.025,
+    "lie": 0.75,
+    "aim": 0.1
+  },
+  "melee": {
+    "distance": 1,
+    "cooldown": 1.0,
+    "default": {
+      "animation_type": "melee_stock",
+      "distance": 0,
+      "range_angle": 30,
+      "damage": 2,
+      "knockback": 0.75,
+      "prep": 0.1
+    }
+  },
+  "allow_attachment_types": [
+    "scope"
+  ],
+  "exclusive_attachments": {
+  }
+}

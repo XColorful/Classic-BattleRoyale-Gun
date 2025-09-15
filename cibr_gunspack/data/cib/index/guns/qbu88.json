@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.qbu.name",
+  "display": "cib:qbu88_display",
+  "data": "cib:qbu88_data",
+  "tooltip": "cbrg.guns.qbu.desc",
+  "type": "rifle"
+}

@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:acacia_planks"
+      },
+      "count": 50
+    },
+    {
+      "item": {
+        "item": "minecraft:sugar_cane"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "cib:g18c"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

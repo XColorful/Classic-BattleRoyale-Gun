@@ -1,0 +1,9 @@
+{
+  "name": "cbrg.guns.p18c.name",
+  "display": "cib:g18c_display",
+  "data": "cib:g18c_data",
+  "type": "pistol",
+  "tooltip": "cbrg.guns.p18c.desc",
+  "item_type": "modern_kinetic",
+  "sort": 10
+}

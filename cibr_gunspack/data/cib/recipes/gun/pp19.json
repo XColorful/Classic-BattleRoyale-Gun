@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_andesite"
+      },
+      "count": 200
+    },
+    {
+      "item": {
+        "item": "minecraft:cooked_beef"
+      },
+      "count": 70
+    },
+    {
+      "item": {
+        "item": "minecraft:pufferfish"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "cib:pp19"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

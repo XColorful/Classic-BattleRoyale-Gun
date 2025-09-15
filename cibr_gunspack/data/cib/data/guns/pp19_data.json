@@ -1,0 +1,109 @@
+{
+  "ammo": "cbrg:ammo_9mm",
+  "rpm": 700,
+  "can_slide": false,
+  "bullet": {
+    "life": 2,
+    "bullet_amount": 1,
+    "damage": 7.6,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.18,
+      "head_shot_multiplier": 1.25,
+      "damage_adjust": [
+        {"distance": 41, "damage": 7.6},
+        {"distance": 51, "damage": 7.5},
+        {"distance": 61, "damage": 7.4},
+        {"distance": 71, "damage": 7.3},
+        {"distance": 81, "damage": 7.19},
+        {"distance": 91, "damage": 7.09},
+        {"distance": 101, "damage": 6.99},
+        {"distance": 111, "damage": 6.89},
+        {"distance": 121, "damage": 6.79},
+        {"distance": 131, "damage": 6.69},
+        {"distance": 141, "damage": 6.59},
+        {"distance": 151, "damage": 6.49},
+        {"distance": 161, "damage": 6.38},
+        {"distance": 171, "damage": 6.28},
+        {"distance": 181, "damage": 6.18},
+        {"distance": 191, "damage": 6.08},
+        {"distance": "infinite", "damage": 6.08}
+      ]
+    },
+    "speed": 408,
+    "gravity": 0.0245,
+    "knockback": 0,
+    "friction": 0.03322,
+    "ignite": false,
+    "pierce": 1
+  },
+  "ammo_amount": 53,
+  "extended_mag_ammo_amount": [
+    53,
+    60,
+    64
+  ],
+  "bolt": "closed_bolt",
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 1.97,
+      "tactical": 1.47
+    },
+    "cooldown": {
+      "empty": 2.3,
+      "tactical": 1.83
+    }
+  },
+  "draw_time": 0.5,
+  "put_away_time": 0.43,
+  "aim_time": 0.12,
+  "sprint_time": 0.15,
+  "weight": 2,
+  "movement_speed": {
+    "base": 0.0,
+    "aim": -0.15,
+    "reload": 0
+  },
+  "crawl_recoil_multiplier": 0.75,
+  "fire_mode": [
+    "auto",
+    "semi"
+  ],
+  "allow_attachment_types": [
+    "scope",
+    "muzzle"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [0.906, 0.906]},
+      {"time": 0.25, "value": [0.906, 0.906]},
+      {"time": 0.45, "value": [0.906, 0.906]},
+      {"time": 0.6, "value": [0.906, 0.906]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.519, 0.519]},
+      {"time": 0.45, "value": [-0.519, 0.519]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 3.5,
+    "move": 4,
+    "sneak": 2,
+    "lie": 1,
+    "aim": 0.22
+  },
+  "melee": {
+    "distance": 1,
+    "cooldown": 0.6,
+    "default": {
+      "animation_type": "melee_push",
+      "distance": 1,
+      "range_angle": 40,
+      "cooldown": 0.2,
+      "damage": 1,
+      "knockback": 0.4,
+      "prep": 0.1
+    }
+  }
+}

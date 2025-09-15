@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:oak_planks"
+      },
+      "count": 150
+    },
+    {
+      "item": {
+        "item": "minecraft:honeycomb"
+      },
+      "count": 50
+    },
+    {
+      "item": {
+        "item": "minecraft:fire_charge"
+      },
+      "count": 15
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "cib:origin12"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

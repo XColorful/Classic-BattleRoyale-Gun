@@ -1,0 +1,31 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:jungle_planks"
+      },
+      "count": 200
+    },
+    {
+      "item": {
+        "item": "minecraft:trident"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "rpg",
+    "item": {
+      "item": "tacz:modern_kinetic_gun",
+      "nbt": {
+        "GunCurrentAmmoCount": 0,
+        "GunFireMode": "SEMI",
+        "GunId": "cib:qbu88",
+        "HasBulletInBarrel": false
+      },
+      "count": 1
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

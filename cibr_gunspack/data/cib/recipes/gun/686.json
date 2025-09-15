@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:jungle_planks"
+      },
+      "count": 120
+    },
+    {
+      "item": {
+        "item": "minecraft:leather"
+      },
+      "count": 40
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "cib:686"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

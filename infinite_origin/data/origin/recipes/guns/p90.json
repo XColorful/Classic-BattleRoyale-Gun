@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_diorite"
+      },
+      "count": 800
+    },
+    {
+      "item": {
+        "item": "minecraft:rabbit_hide"
+      },
+      "count": 88
+    },
+    {
+      "item": {
+        "item": "minecraft:obsidian"
+      },
+      "count": 40
+    },
+    {
+      "item": {
+        "item": "minecraft:crying_obsidian"
+      },
+      "count": 40
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "origin:p90"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.p90.name",
+  "display": "origin:p90_display",
+  "data": "origin:p90_data",
+  "tooltip": "cbrg.guns.p90.desc",
+  "type": "smg"
+}

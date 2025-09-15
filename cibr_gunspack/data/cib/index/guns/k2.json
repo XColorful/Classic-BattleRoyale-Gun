@@ -1,0 +1,9 @@
+{
+  "name": "cbrg.guns.k2.name",
+  "display": "cib:k2_display",
+  "data": "cib:k2_data",
+  "tooltip": "cbrg.guns.k2.desc",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+  "sort": 10
+}
