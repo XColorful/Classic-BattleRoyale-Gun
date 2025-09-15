@@ -1,8 +1,0 @@
-{
-  "name": "cbrg.guns.k2.name",
-  "display": "tacz:hk_g3_display",
-  "data": "tacz:hk_g3_data",
-  "tooltip": "cbrg.guns.k2.desc",
-  "type": "rifle",
-  "sort": 3
-}
