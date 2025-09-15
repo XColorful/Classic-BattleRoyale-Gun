@@ -26,8 +26,24 @@
     }
   ],
   "result": {
-    "type": "gun",
-    "id": "tacz:p90"
+    "type": "custom",
+    "group": "smg",
+    "item": {
+      "item": "tacz:modern_kinetic_gun",
+      "nbt": {
+        "GunCurrentAmmoCount": 0,
+        "GunFireMode": "AUTO",
+        "GunId": "tacz:p90",
+        "HasBulletInBarrel": false,
+        "AttachmentMUZZLE": {
+          "id": "tacz:attachment",
+          "Count": true,
+          "tag": {
+            "AttachmentId": "cbrg:suppressor_rifle"
+          }
+        }
+      }
+    }
   },
   "type": "tacz:gun_smith_table_crafting"
 }
