@@ -1,0 +1,8 @@
+{
+  "hidden": true,
+  "name": "origin.attachment.muzzle_silence_p90_senzawa.name",
+  "tooltip":"origin.attachment.muzzle_silence_p90_senzawa.desc",
+  "display": "origin:muzzle_silence_p90_senzawa_display",
+  "data": "origin:muzzle_silence_p90_senzawa_data",
+  "type": "muzzle"
+}

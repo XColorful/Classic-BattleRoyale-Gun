@@ -1,0 +1,8 @@
+{
+  "hidden": true,
+  "name": "origin.attachment.sight_saba.name",
+  "tooltip":"origin.attachment.sight_saba.desc",
+  "display": "origin:sight_saba_display",
+  "data": "origin:sight_saba_data",
+  "type": "scope"
+}

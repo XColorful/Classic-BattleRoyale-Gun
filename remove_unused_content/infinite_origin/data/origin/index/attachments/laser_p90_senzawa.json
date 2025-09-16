@@ -1,0 +1,8 @@
+{
+  "name": "origin.attachment.laser_p90_senzawa",
+  "display": "origin:laser_p90_senzawa_display",
+  "data": "origin:laser_p90_senzawa_data",
+  "type": "laser",
+  "sort": 5,
+  "hidden": true
+}
