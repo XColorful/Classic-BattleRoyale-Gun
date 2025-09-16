@@ -3,5 +3,6 @@
     "display": "cbrg:thumbgrip_display",
     "data": "cbrg:thumbgrip_data",
     "tooltip": "cbrg.attachments.thumbgrip.desc",
-    "type": "grip"
+    "type": "grip",
+    "sort": 5
 }

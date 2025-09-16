@@ -1,5 +1,6 @@
 {
   "name": "cbrg.ammo.ammo_57mm.name",
   "display": "cbrg:ammo_57mm_display",
-  "stack_size": 51
+  "stack_size": 51,
+  "sort": 8
 }

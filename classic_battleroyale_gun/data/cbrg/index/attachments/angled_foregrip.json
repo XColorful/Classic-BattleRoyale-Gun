@@ -3,5 +3,6 @@
     "display": "cbrg:angled_foregrip_display",
     "data": "cbrg:angled_foregrip_data",
     "tooltip": "cbrg.attachments.angled_foregrip.desc",
-    "type": "grip"
+    "type": "grip",
+    "sort": 1
 }

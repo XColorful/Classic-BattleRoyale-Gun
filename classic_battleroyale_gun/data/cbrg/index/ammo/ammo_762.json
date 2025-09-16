@@ -1,5 +1,6 @@
 {
   "name": "cbrg.ammo.ammo_762.name",
   "display": "cbrg:ammo_762_display",
-  "stack_size": 30
+  "stack_size": 30,
+  "sort": 1
 }

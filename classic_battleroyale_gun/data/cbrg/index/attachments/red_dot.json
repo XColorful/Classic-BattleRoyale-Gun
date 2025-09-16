@@ -2,5 +2,6 @@
     "name": "cbrg.attachments.red_dot.name",
     "display": "cbrg:red_dot_display",
     "data": "cbrg:red_dot_data",
-    "type": "scope"
+    "type": "scope",
+    "sort": 2
 }

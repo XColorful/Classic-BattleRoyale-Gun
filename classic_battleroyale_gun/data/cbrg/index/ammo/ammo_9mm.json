@@ -1,5 +1,6 @@
 {
   "name": "cbrg.ammo.ammo_9mm.name",
   "display": "cbrg:ammo_9mm_display",
-  "stack_size": 60
+  "stack_size": 60,
+  "sort": 3
 }

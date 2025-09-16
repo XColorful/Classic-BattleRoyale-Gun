@@ -2,5 +2,6 @@
     "name": "cbrg.attachments.15x_scope.name",
     "display": "cbrg:15x_scope_display",
     "data": "cbrg:15x_scope_data",
-    "type": "scope"
+    "type": "scope",
+    "sort": 9
 }

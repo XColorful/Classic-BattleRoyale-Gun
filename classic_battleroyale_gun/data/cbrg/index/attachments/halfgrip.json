@@ -3,5 +3,6 @@
     "display": "cbrg:halfgrip_display",
     "data": "cbrg:halfgrip_data",
     "tooltip": "cbrg.attachments.halfgrip.desc",
-    "type": "grip"
+    "type": "grip",
+    "sort": 2
 }

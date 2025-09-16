@@ -3,5 +3,6 @@
     "display": "cbrg:cheek_pad_display",
     "data": "cbrg:cheek_pad_data",
     "tooltip": "cbrg.attachments.cheek_pad.desc",
-    "type": "stock"
+    "type": "stock",
+    "sort": 3
 }

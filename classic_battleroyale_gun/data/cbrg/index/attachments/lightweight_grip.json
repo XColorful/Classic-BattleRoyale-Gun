@@ -3,5 +3,6 @@
     "display": "cbrg:lightweight_grip_display",
     "data": "cbrg:lightweight_grip_data",
     "tooltip": "cbrg.attachments.lightweight_grip.desc",
-    "type": "grip"
+    "type": "grip",
+    "sort": 4
 }

@@ -1,5 +1,6 @@
 {
   "name": "cbrg.ammo.ammo_45acp.name",
   "display": "cbrg:ammo_45acp_display",
-  "stack_size": 45
+  "stack_size": 45,
+  "sort": 4
 }

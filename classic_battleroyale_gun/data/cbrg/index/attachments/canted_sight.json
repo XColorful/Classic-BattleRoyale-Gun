@@ -2,5 +2,6 @@
     "name": "cbrg.attachments.canted_sight.name",
     "display": "cbrg:canted_sight_display",
     "data": "cbrg:canted_sight_data",
-    "type": "scope"
+    "type": "scope",
+    "sort": 1
 }
