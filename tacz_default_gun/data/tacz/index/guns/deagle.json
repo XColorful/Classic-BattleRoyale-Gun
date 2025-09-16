@@ -3,5 +3,6 @@
   "display": "tacz:deagle_display",
   "data": "tacz:deagle_data",
   "tooltip": "cbrg.guns.deagle.desc",
-  "type": "pistol"
+  "type": "pistol",
+  "sort": 52
 }

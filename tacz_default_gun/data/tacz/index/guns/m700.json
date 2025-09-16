@@ -3,5 +3,6 @@
   "display": "tacz:m700_display",
   "data": "tacz:m700_data",
   "tooltip": "cbrg.guns.m24.desc",
-  "type": "sniper"
+  "type": "sniper",
+  "sort": 15
 }

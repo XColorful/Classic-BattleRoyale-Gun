@@ -3,5 +3,6 @@
   "display": "tacz:db_short_display",
   "data": "tacz:db_short_data",
   "tooltip": "cbrg.guns.sawedoff.desc",
-  "type": "shotgun"
+  "type": "shotgun",
+  "sort": 51
 }

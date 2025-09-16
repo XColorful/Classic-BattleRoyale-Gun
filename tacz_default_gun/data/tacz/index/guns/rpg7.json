@@ -3,5 +3,6 @@
   "display": "tacz:rpg7_display",
   "data": "tacz:rpg7_data",
   "tooltip": "cbrg.guns.panzerfaust.desc",
-  "type": "rpg"
+  "type": "rpg",
+  "sort": 53
 }

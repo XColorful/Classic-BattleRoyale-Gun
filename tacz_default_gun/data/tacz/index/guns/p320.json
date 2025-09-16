@@ -3,5 +3,6 @@
   "display": "tacz:p320_display",
   "data": "tacz:p320_data",
   "tooltip": "cbrg.guns.p92.desc",
-  "type": "pistol"
+  "type": "pistol",
+  "sort": 47
 }
