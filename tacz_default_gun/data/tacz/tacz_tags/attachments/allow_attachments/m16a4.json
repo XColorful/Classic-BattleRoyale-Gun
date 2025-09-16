@@ -1,6 +1,6 @@
 [
   "#cbrg:muzzle_rifle",
-  "#cbrg:grip_rifle",
   "#cbrg:magazine_rifle",
-  "#cbrg:scope_rifle"
+  "#cbrg:scope_all",
+  "#cbrg:stock_rifle"
 ]
