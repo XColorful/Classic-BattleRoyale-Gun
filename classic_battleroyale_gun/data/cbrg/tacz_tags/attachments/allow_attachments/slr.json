@@ -2,7 +2,7 @@
     "#cbrg:scope_all",
     "#cbrg:muzzle_rifle",
     "#cbrg:muzzle_sr",
-    "#cbrg:mag_rifle",
-    "#cbrg:mag_sr",
+    "#cbrg:magazine_rifle",
+    "#cbrg:magazine_sr",
     "#cbrg:stock_sr"
 ]
