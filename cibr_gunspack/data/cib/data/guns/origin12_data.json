@@ -244,7 +244,7 @@
   "put_away_time": 0.5417,
   "aim_time": 0.12,
   "sprint_time": 0.15,
-  "weight": 3.4,
+  "weight": 0,
   "movement_speed": {
     "base": 0.0,
     "aim": -0.2,

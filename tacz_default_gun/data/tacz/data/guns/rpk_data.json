@@ -2,60 +2,27 @@
   "ammo": "cbrg:ammo_762",
   "ammo_amount": 40,
   "extended_mag_ammo_amount": [
-    40,
-    52,
-    50
+    50,
+    60,
+    75
   ],
   "bolt": "closed_bolt",
-  "rpm": 550,
-  "can_slide": false,
+  "rpm": 630,
   "bullet": {
     "life": 2,
     "bullet_amount": 1,
-    "damage": 10.4,
+    "damage": 10,
     "tracer_count_interval": 0,
     "extra_damage": {
       "armor_ignore": 0.3,
       "head_shot_multiplier": 2.1,
       "damage_adjust": [
-        {"distance": 51, "damage": 10.4},
-        {"distance": 58.33, "damage": 10.3},
-        {"distance": 65.67, "damage": 10.2},
-        {"distance": 73, "damage": 10.1},
-        {"distance": 80.33, "damage": 10},
-        {"distance": 87.67, "damage": 9.9},
-        {"distance": 95, "damage": 9.8},
-        {"distance": 102.33, "damage": 9.7},
-        {"distance": 109.67, "damage": 9.6},
-        {"distance": 117, "damage": 9.51},
-        {"distance": 124.33, "damage": 9.41},
-        {"distance": 131.67, "damage": 9.31},
-        {"distance": 139, "damage": 9.21},
-        {"distance": 146.33, "damage": 9.11},
-        {"distance": 153.67, "damage": 9.01},
-        {"distance": 161, "damage": 8.91},
-        {"distance": 168.33, "damage": 8.81},
-        {"distance": 175.67, "damage": 8.71},
-        {"distance": 183, "damage": 8.61},
-        {"distance": 190.33, "damage": 8.51},
-        {"distance": 197.67, "damage": 8.41},
-        {"distance": 205, "damage": 8.31},
-        {"distance": 212.33, "damage": 8.21},
-        {"distance": 219.67, "damage": 8.11},
-        {"distance": 227, "damage": 8.01},
-        {"distance": 234.33, "damage": 7.92},
-        {"distance": 241.67, "damage": 7.82},
-        {"distance": 249, "damage": 7.72},
-        {"distance": 256.33, "damage": 7.62},
-        {"distance": 263.67, "damage": 7.52},
-        {"distance": 271, "damage": 7.42},
-        {"distance": 278.33, "damage": 7.32},
-        {"distance": 285.67, "damage": 7.22},
-        {"distance": 293, "damage": 7.12},
-        {"distance": "infinite", "damage": 7.12}
+        {"distance": 36, "damage": 10},
+        {"distance": 64, "damage": 7},
+        {"distance": "infinite", "damage": 6}
       ]
     },
-    "speed": 840,
+    "speed": 540,
     "gravity": 0.0245,
     "knockback": 0,
     "friction": 0.03322,
@@ -98,15 +65,15 @@
   ],
   "recoil": {
     "pitch": [
-      {"time": 0, "value": [0.659, 0.659]},
-      {"time": 0.25, "value": [0.659, 0.659]},
-      {"time": 0.65, "value": [0.659, 0.659]},
-      {"time": 0.7, "value": [0.659, 0.659]}
+      {"time": 0, "value": [0.6, 0.6]},
+      {"time": 0.25, "value": [0.6, 0.6]},
+      {"time": 0.65, "value": [-0.175, -0.175]},
+      {"time": 0.7, "value": [0, 0]}
     ],
     "yaw": [
-      {"time": 0, "value": [-0.657, 0.657]},
-      {"time": 0.25, "value": [-0.657, 0.657]},
-      {"time": 0.45, "value": [-0.657, 0.657]}
+      {"time": 0, "value": [-0.375, 0.35]},
+      {"time": 0.25, "value": [-0.375, 0.35]},
+      {"time": 0.45, "value": [0, 0]}
     ]
   },
   "hurt_bob_tweak_multiplier": 0.05,

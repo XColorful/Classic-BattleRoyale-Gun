@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:exposed_copper"
+      },
+      "count": 75
+    },
+    {
+      "item": {
+        "item": "minecraft:apple"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "minecraft:brown_mushroom"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "item": "minecraft:red_mushroom"
+      },
+      "count": 15
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "classicr:kar98"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

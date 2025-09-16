@@ -1,0 +1,170 @@
+{
+  "ammo": "cbrg:ammo_762",
+  "ammo_amount": 47,
+  "extended_mag_ammo_amount": [
+    47,
+    47,
+    47
+  ],
+  "bolt": "open_bolt",
+  "rpm": 550,
+  "can_slide": false,
+  "bullet": {
+    "life": 2,
+    "bullet_amount": 1,
+    "damage": 10.4,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.7,
+      "head_shot_multiplier": 2.1,
+      "damage_adjust": [
+        {"distance": 51, "damage": 10.4},
+        {"distance": 58.33, "damage": 10.3},
+        {"distance": 65.67, "damage": 10.2},
+        {"distance": 73, "damage": 10.1},
+        {"distance": 80.33, "damage": 10},
+        {"distance": 87.67, "damage": 9.9},
+        {"distance": 95, "damage": 9.8},
+        {"distance": 102.33, "damage": 9.7},
+        {"distance": 109.67, "damage": 9.6},
+        {"distance": 117, "damage": 9.51},
+        {"distance": 124.33, "damage": 9.41},
+        {"distance": 131.67, "damage": 9.31},
+        {"distance": 139, "damage": 9.21},
+        {"distance": 146.33, "damage": 9.11},
+        {"distance": 153.67, "damage": 9.01},
+        {"distance": 161, "damage": 8.91},
+        {"distance": 168.33, "damage": 8.81},
+        {"distance": 175.67, "damage": 8.71},
+        {"distance": 183, "damage": 8.61},
+        {"distance": 190.33, "damage": 8.51},
+        {"distance": 197.67, "damage": 8.41},
+        {"distance": 205, "damage": 8.31},
+        {"distance": 212.33, "damage": 8.21},
+        {"distance": 219.67, "damage": 8.11},
+        {"distance": 227, "damage": 8.01},
+        {"distance": 234.33, "damage": 7.92},
+        {"distance": 241.67, "damage": 7.82},
+        {"distance": 249, "damage": 7.72},
+        {"distance": 256.33, "damage": 7.62},
+        {"distance": 263.67, "damage": 7.52},
+        {"distance": 271, "damage": 7.42},
+        {"distance": 278.33, "damage": 7.32},
+        {"distance": 285.67, "damage": 7.22},
+        {"distance": 293, "damage": 7.12},
+        {"distance": "infinite", "damage": 7.12}
+      ]
+    },
+    "speed": 840,
+    "gravity": 0.0245,
+    "knockback": 0,
+    "friction": 0.03322,
+    "ignite": false,
+    "ignite_entity_time": 2,
+    "pierce": 2,
+    "explosion": {
+      "explode": false,
+      "damage": 5,
+      "radius": 0.2,
+      "knockback": true,
+      "delay": 30
+    }
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 5.5,
+      "tactical": 4.33
+    },
+    "cooldown": {
+      "empty": 6.53,
+      "tactical": 5.23
+    }
+  },
+  "draw_time": 0.93,
+  "put_away_time": 0.55,
+  "aim_time": 0.3,
+  "sprint_time": 0.2,
+  "weight": 0,
+  "fire_mode": [
+    "auto",
+    "semi"
+  ],
+  "fire_mode_adjust": {
+    "auto": {
+      "damage": 0,
+      "rpm": 0,
+      "speed": 0,
+      "knockback": 0,
+      "armor_ignore": 0,
+      "head_shot_multiplier": 0,
+      "aim_inaccuracy": 0,
+      "other_inaccuracy": 0
+    },
+    "semi": {
+      "damage": 4,
+      "rpm": -200,
+      "speed": 100,
+      "knockback": 0.1,
+      "armor_ignore": 0.1,
+      "head_shot_multiplier": 0.1,
+      "aim_inaccuracy": -0.1,
+      "other_inaccuracy": -0.5
+    }
+  },
+  "burst_data": {
+    "continuous_shoot": true,
+    "count": 3,
+    "bpm": 900,
+    "min_interval": 0.3
+  },
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [0.659, 0.659]},
+      {"time": 0.25, "value": [0.659, 0.659]},
+      {"time": 0.65, "value": [0.659, 0.659]},
+      {"time": 0.7, "value": [0.659, 0.659]},
+      {"time": 0.9, "value": [0.659, 0.659]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.657, 0.657]},
+      {"time": 0.25, "value": [-0.657, 0.657]},
+      {"time": 0.45, "value": [-0.657, 0.657]}
+    ]
+  },
+  "hurt_bob_tweak_multiplier": 0.05,
+  "inaccuracy": {
+    "stand": 5,
+    "move": 5.75,
+    "sneak": 3.5,
+    "lie": 2.5,
+    "aim": 0.15
+  },
+  "melee": {
+    "distance": 1,
+    "cooldown": 0.7,
+    "default": {
+      "animation_type": "melee_push",
+      "distance": 1,
+      "range_angle": 40,
+      "cooldown": 0,
+      "damage": 1,
+      "knockback": 0.5,
+      "prep": 0.1
+    }
+  },
+  "allow_attachment_types": [
+    "scope"
+  ],
+  "exclusive_attachments": {
+    "tacz:scope_standard_8x": {
+      "weight": 2.0,
+      "ads_addend": 0.04,
+      "inaccuracy_addend": -0.4,
+      "recoil_modifier": {
+        "pitch": -0.2,
+        "yaw": -0.1
+      }
+    }
+  }
+}

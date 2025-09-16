@@ -1,0 +1,8 @@
+{
+  "name": "cbrg.guns.kar98k.name",
+  "display": "classicr:kar98_display",
+  "data": "classicr:kar98_data",
+  "tooltip": "cbrg.guns.kar98k.desc",
+  "type": "sniper",
+  "sort": 10
+}

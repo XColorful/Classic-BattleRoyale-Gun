@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_deepslate"
+      },
+      "count": 550
+    },
+    {
+      "item": {
+        "item": "minecraft:honeycomb"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:sponge"
+      },
+      "count": 55
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "rpg",
+    "item": {
+      "item": "tacz:modern_kinetic_gun",
+      "nbt": {
+        "GunCurrentAmmoCount": 0,
+        "GunFireMode": "SEMI",
+        "GunId": "suffuse:svd",
+        "HasBulletInBarrel": false
+      },
+      "count": 1
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

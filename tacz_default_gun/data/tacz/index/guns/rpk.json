@@ -1,9 +1,0 @@
-{
-  "name": "cbrg.guns.dp28.name",
-  "display": "tacz:rpk_display",
-  "data": "tacz:rpk_data",
-  "tooltip": "cbrg.guns.dp28.desc",
-  "type": "mg",
-  "item_type": "modern_kinetic",
-  "sort": 2
-}

@@ -1,0 +1,8 @@
+{
+  "name": "cbrg.guns.tommy_gun.name",
+  "display": "classicr:m1a1_display",
+  "data": "classicr:m1a1_data",
+  "tooltip": "cbrg.guns.tommy_gun.desc",
+  "type": "smg",
+  "sort": 10
+}

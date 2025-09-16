@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_granite"
+      },
+      "count": 150
+    },
+    {
+      "item": {
+        "item": "minecraft:cooked_porkchop"
+      },
+      "count": 50
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "count": 15
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "classicr:mp9"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

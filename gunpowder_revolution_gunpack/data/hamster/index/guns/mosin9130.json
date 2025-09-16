@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.mosin_nagant.name",
+  "display": "hamster:mosin9130_display",
+  "data": "hamster:mosin9130_data",
+  "tooltip": "cbrg.guns.mosin_nagant.desc",
+  "type": "sniper"
+}

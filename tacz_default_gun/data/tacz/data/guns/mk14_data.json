@@ -69,7 +69,7 @@
   "put_away_time": 0.5,
   "aim_time": 0.21,
   "sprint_time": 0.22,
-  "weight": 5.1,
+  "weight": 0,
   "movement_speed": {
     "base": 0.0,
     "aim": -0.15,

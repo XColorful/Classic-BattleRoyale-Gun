@@ -1,0 +1,8 @@
+{
+  "name": "cbrg.guns.dragunov.name",
+  "tooltip": "cbrg.guns.dragunov.desc",
+  "display": "suffuse:svd_display",
+  "data": "suffuse:svd_data",
+  "type": "sniper",
+  "sort": 5
+}

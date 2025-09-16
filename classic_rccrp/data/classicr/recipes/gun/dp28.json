@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_andesite"
+      },
+      "count": 330
+    },
+    {
+      "item": {
+        "item": "minecraft:slime_ball"
+      },
+      "count": 22
+    },
+    {
+      "item": {
+        "item": "minecraft:cocoa_beans"
+      },
+      "count": 33
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "classicr:dp28"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

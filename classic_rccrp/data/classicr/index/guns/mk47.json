@@ -1,0 +1,9 @@
+{
+    "name": "cbrg.guns.mk47_mutant.name",
+    "display": "classicr:mk47_display",
+    "data": "classicr:mk47_data",
+    "tooltip": "cbrg.guns.mk47_mutant.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 10
+}

@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_diorite"
+      },
+      "count": 180
+    },
+    {
+      "item": {
+        "item": "minecraft:pumpkin"
+      },
+      "count": 80
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "classicr:mk47"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

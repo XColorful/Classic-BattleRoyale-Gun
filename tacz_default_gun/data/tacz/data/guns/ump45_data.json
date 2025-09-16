@@ -9,7 +9,7 @@
     "tracer_count_interval": 0,
     "extra_damage": {
       "armor_ignore": 0.2,
-      "head_shot_multiplier": 1.5,
+      "head_shot_multiplier": 1.25,
       "damage_adjust": [
         {"distance": 62, "damage": 8.4},
         {"distance": 72.08, "damage": 8.3},
@@ -57,7 +57,7 @@
   "put_away_time": 0.47,
   "aim_time": 0.12,
   "sprint_time": 0.15,
-  "weight": 2.65,
+  "weight": 0,
   "movement_speed": {
     "base": 0.0,
     "aim": -0.1,

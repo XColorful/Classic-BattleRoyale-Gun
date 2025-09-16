@@ -1,7 +1,0 @@
-{
-  "name": "cbrg.guns.dragunov.name",
-  "display": "cib:svd_display",
-  "data": "cib:svd_data",
-  "tooltip": "cbrg.guns.dragunov.desc",
-  "type": "rifle"
-}

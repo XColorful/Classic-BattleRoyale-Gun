@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_diorite"
+      },
+      "count": 200
+    },
+    {
+      "item": {
+        "item": "minecraft:rotten_flesh"
+      },
+      "count": 70
+    },
+    {
+      "item": {
+        "item": "minecraft:smooth_red_sandstone"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "classicr:m1a1_smg"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

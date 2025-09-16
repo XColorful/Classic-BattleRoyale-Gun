@@ -1,0 +1,7 @@
+{
+  "name": "cbrg.guns.win94.name",
+  "display": "hamster:win1894_display",
+  "data": "hamster:win1894_data",
+  "tooltip": "cbrg.guns.win94.desc",
+  "type": "sniper"
+}

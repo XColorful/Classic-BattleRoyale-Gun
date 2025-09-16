@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_andesite"
+      },
+      "count": 200
+    },
+    {
+      "item": {
+        "item": "minecraft:phantom_membrane"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "sniper",
+    "item": {
+      "item": "tacz:modern_kinetic_gun",
+      "nbt": {
+        "GunCurrentAmmoCount": 10,
+        "GunFireMode": "SEMI",
+        "GunId": "suffuse:gm6",
+        "HasBulletInBarrel": false,
+        "AttachmentSCOPE": {
+          "id": "tacz:attachment",
+          "Count": true,
+          "tag": {
+            "AttachmentId": "cbrg:6x_scope"
+          }
+        }
+      }
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}
