@@ -2,16 +2,18 @@
   "whitelist": [
     "^cbrg.*$",
     "^tacz.*$",
-    "bf1:gun/man_m95",
     "origin:guns/p90",
-    "^cib:gun/(g18c|mg3|pp19|k2|svd|galilace32|qbu|origin12|686).*$"
+    "^cib:gun/(g18c|mg3|pp19|k2|galilace32|qbu|origin12|686).*$",
+    "^classicr:gun/(kar98|dp28|mk47|m1a1_smg|mp9).*$",
+    "^suffuse:gun/(gm6|svd).*$",
+    "^hamster:gun/(win1894|mosin9130|nagantm1895).*$"
   ],
   "blacklist": [
     "tacz:test",
-    "^tacz:gun/(glock_17|type_81|m16a1|m4a1|scar_h|hk_g3)$",
+    "^tacz:gun/(glock_17|type_81|m16a1|m4a1|scar_h|hk_g3|m95)$",
     "^tacz:gun/(m320|springfield1873).*$",
     "^tacz:misc/.*$",
-    "^tacz:gun/(b93r|p90|minigun|db_long)$",
+    "^tacz:gun/(b93r|p90|minigun|db_long|rpk|m107).*$",
     "^cib:gun/(k2c1|origin12db).*$"
   ]
 }
