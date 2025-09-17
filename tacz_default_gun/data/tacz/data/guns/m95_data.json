@@ -48,17 +48,17 @@
       "tactical": 4.07
     }
   },
-  "draw_time": 1.03,
-  "put_away_time": 0.87,
-  "aim_time": 0.23,
+  "draw_time": 0.58,
+  "put_away_time": 0.4,
+  "aim_time": 0.2,
   "sprint_time": 0.2,
-  "bolt_action_time": 1.43,
-  "weight": 10.7,
+  "weight": 0,
   "movement_speed": {
     "base": 0.0,
-    "aim": -0.4,
-    "reload": -0.2
+    "aim": -0.2,
+    "reload": -0.05
   },
+  "bolt_action_time": 1.43,
   "crawl_recoil_multiplier": 0.1,
   "fire_mode": [
     "semi"

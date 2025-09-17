@@ -124,15 +124,15 @@
       "tactical": 1.98
     }
   },
-  "draw_time": 0.49,
-  "put_away_time": 0.28,
-  "aim_time": 0.08,
-  "sprint_time": 0.05,
+  "draw_time": 0.58,
+  "put_away_time": 0.4,
+  "aim_time": 0.2,
+  "sprint_time": 0.2,
   "weight": 0,
   "movement_speed": {
-    "base": 0,
-    "aim": 0,
-    "reload": 0.1
+    "base": 0.0,
+    "aim": -0.2,
+    "reload": -0.05
   },
   "crawl_recoil_multiplier": 0.5,
   "fire_mode": [

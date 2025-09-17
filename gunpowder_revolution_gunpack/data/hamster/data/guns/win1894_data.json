@@ -68,12 +68,17 @@
     "pipe_load": 2.08,
     "pipe_load_feed": 1.4
   },
-  "draw_time": 0.75,
-  "put_away_time": 0.75,
-  "aim_time": 0.25,
+  "draw_time": 0.58,
+  "put_away_time": 0.4,
+  "aim_time": 0.2,
   "sprint_time": 0.2,
-  "bolt_action_time": 0.7,
   "weight": 0,
+  "movement_speed": {
+    "base": 0.0,
+    "aim": -0.2,
+    "reload": -0.05
+  },
+  "bolt_action_time": 0.7,
   "fire_mode": [
     "semi"
   ],
