@@ -15,7 +15,7 @@
       "nbt": {
         "GunCurrentAmmoCount": 10,
         "GunFireMode": "SEMI",
-        "GunId": "cib:mg3",
+        "GunId": "tacz:mk14",
         "HasBulletInBarrel": false,
         "AttachmentSCOPE": {
           "id": "tacz:attachment",
