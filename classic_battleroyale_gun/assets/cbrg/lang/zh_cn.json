@@ -1,13 +1,13 @@
 {
     "cbrg.name": "经典大逃杀枪械包",
-    "cbrg.desc": "经典大逃杀枪械包",
+    "cbrg.desc": "大吉大利 今晚吃鸡",
 
     "cbrg.blocks.gun_workshop.name": "枪械工坊",
-    "cbrg.blocks.gun_workshop.desc": "",
+    "cbrg.blocks.gun_workshop.desc": "大肌无力，枪劲有力！",
     "cbrg.blocks.attachment_workshop.name": "配件工坊",
-    "cbrg.blocks.attachment_workshop.desc": "",
+    "cbrg.blocks.attachment_workshop.desc": "用最少的样式，造通用的配件",
     "cbrg.blocks.ammo_workshop.name": "子弹工坊",
-    "cbrg.blocks.ammo_workshop.desc": "",
+    "cbrg.blocks.ammo_workshop.desc": "给你点颜色看看！",
     "cbrg.type.ar.name": "突击步枪",
     "cbrg.type.sr.name": "狙击枪",
     "cbrg.type.dmr.name": "精确射手步枪",

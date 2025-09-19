@@ -1,13 +1,13 @@
 {
     "cbrg.name": "Classic BattleRoyale Gun Pack",
-    "cbrg.desc": "Classic BattleRoyale Gun Pack",
+    "cbrg.desc": "Winner Winner Chicken Dinner",
 
     "cbrg.blocks.gun_workshop.name": "Gun Workshop",
-    "cbrg.blocks.gun_workshop.desc": "",
+    "cbrg.blocks.gun_workshop.desc": "Weak arms, powerful guns!",
     "cbrg.blocks.attachment_workshop.name": "Attachment Workshop",
-    "cbrg.blocks.attachment_workshop.desc": "",
+    "cbrg.blocks.attachment_workshop.desc": "Less is more: craft universal attachments",
     "cbrg.blocks.ammo_workshop.name": "Ammo Workshop",
-    "cbrg.blocks.ammo_workshop.desc": "",
+    "cbrg.blocks.ammo_workshop.desc": "Let's add some color!",
     "cbrg.type.ar.name": "AR",
     "cbrg.type.sr.name": "SR",
     "cbrg.type.dmr.name": "DMR",
