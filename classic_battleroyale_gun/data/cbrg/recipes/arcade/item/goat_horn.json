@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "misc",
+    "item": {
+      "item": "minecraft:goat_horn",
+      "nbt": {
+        "instrument": "minecraft:seek_goat_horn"
+      }
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

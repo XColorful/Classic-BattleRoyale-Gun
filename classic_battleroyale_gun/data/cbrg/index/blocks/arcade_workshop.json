@@ -1,0 +1,8 @@
+{
+  "name": "cbrg.blocks.arcade_workshop.name",
+  "display": "cbrg:arcade_workshop",
+  "data": "cbrg:arcade_workshop",
+  "tooltip": "cbrg.blocks.arcade_workshop.desc",
+  "id": "tacz:workbench_a",
+  "sort": 4
+}

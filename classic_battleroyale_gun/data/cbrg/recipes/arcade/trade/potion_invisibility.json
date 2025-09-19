@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "count": 120
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "pistol",
+    "item": {
+      "item": "minecraft:potion",
+      "nbt": {
+        "Potion": "minecraft:empty",
+        "display": {
+          "Name": "{\"text\":\"120 ticks Invisibility\",\"color\":\"gray\",\"italic\":false}"
+        },
+        "CustomPotionEffects": [
+          {
+            "Id": 14,
+            "Amplifier": 0,
+            "Duration": 120,
+            "ShowParticles": false,
+            "Ambient": false
+          }
+        ]
+      }
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

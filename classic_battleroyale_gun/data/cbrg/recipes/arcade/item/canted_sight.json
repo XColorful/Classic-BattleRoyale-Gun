@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "misc",
+    "item": {
+      "item": "tacz:attachment",
+      "nbt": {
+        "AttachmentId": "cbrg:canted_sight"
+      }
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

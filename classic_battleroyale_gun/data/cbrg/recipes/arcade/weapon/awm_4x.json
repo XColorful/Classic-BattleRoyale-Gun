@@ -1,0 +1,31 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:nether_star"
+      },
+      "count": 85
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "rpg",
+    "item": {
+      "item": "tacz:modern_kinetic_gun",
+      "nbt": {
+        "GunCurrentAmmoCount": 5,
+        "GunFireMode": "SEMI",
+        "GunId": "tacz:ai_awp",
+        "HasBulletInBarrel": false,
+        "AttachmentSCOPE": {
+          "id": "tacz:attachment",
+          "Count": true,
+          "tag": {
+            "AttachmentId": "cbrg:4x_scope"
+          }
+        }
+      }
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

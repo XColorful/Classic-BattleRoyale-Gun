@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "pistol",
+    "item": {
+      "item": "minecraft:potion",
+      "nbt": {
+        "Potion": "minecraft:strong_strength"
+      }
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

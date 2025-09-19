@@ -1,0 +1,16 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:nether_star"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "tacz:338",
+    "count": 5
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

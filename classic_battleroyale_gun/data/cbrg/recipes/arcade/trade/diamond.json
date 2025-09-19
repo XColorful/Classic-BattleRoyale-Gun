@@ -1,0 +1,19 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "pistol",
+    "item": {
+      "item": "minecraft:diamond",
+      "count": 1
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

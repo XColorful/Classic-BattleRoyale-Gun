@@ -1,0 +1,18 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "count": 55
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "misc",
+    "item": {
+      "item": "minecraft:enchanged_golden_apple"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

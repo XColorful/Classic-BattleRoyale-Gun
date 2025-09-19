@@ -1,0 +1,24 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "misc",
+    "item": {
+      "item": "tacz:modern_kinetic_gun",
+      "nbt": {
+        "GunCurrentAmmoCount": 7,
+        "GunFireMode": "SEMI",
+        "GunId": "tacz:deagle",
+        "HasBulletInBarrel": false
+      }
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

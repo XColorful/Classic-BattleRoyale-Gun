@@ -1,0 +1,19 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "count": 0
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "misc",
+    "item": {
+      "item": "minecraft:spectral_arrow",
+      "count": 5
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,26 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "count": 45
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "misc",
+    "item": {
+      "item": "minecraft:netherite_axe",
+      "nbt": {
+        "Enchantments": [
+          {
+            "lvl": 27,
+            "id": "minecraft:sharpness"
+          }
+        ]
+      }
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

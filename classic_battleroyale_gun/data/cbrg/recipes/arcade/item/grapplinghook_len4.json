@@ -1,0 +1,29 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "misc",
+    "item": {
+      "item": "grapplemod:grapplinghook",
+      "nbt": {
+        "display": {
+          "Name": "{\"text\":\"Grappling Hook 4\",\"color\":\"white\",\"italic\":false}"
+        },
+        "Damage": 489,
+        "custom": {
+            "motor": true,
+            "throwspeed": 3,
+            "maxlen": 4
+        }
+      }
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

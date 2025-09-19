@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "count": 15
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "misc",
+    "item": {
+      "item": "minecraft:potion",
+      "nbt": {
+        "Potion": "minecraft:empty",
+        "display": {
+          "Name": "{\"text\":\"Med Kit\",\"color\":\"blue\",\"italic\":false}"
+        },
+        "CustomPotionEffects": [
+          {
+            "Id": 10,
+            "Amplifier": 3,
+            "Duration": 120,
+            "ShowParticles": false,
+            "Ambient": false
+          }
+        ]
+      }
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

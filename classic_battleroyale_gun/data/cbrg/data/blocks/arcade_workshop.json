@@ -1,0 +1,39 @@
+{
+  "filter": "cbrg:arcade_workshop_filter",
+  "tabs": [
+    {
+      "id": "tacz:rpg",
+      "name": "cbrg.type.weapon.name",
+      "icon": {
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "cbrg:groza"
+        }
+      }
+    },
+    {
+      "id": "tacz:ammo",
+      "name": "cbrg.type.ammo.name",
+      "icon": {
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "cbrg:ammo_762"
+        }
+      }
+    },
+    {
+      "id": "tacz:misc",
+      "name": "cbrg.type.item.name",
+      "icon": {
+        "item": "minecraft:totem_of_undying"
+      }
+    },
+    {
+      "id": "tacz:pistol",
+      "name": "cbrg.type.item.name",
+      "icon": {
+        "item": "minecraft:emerald"
+      }
+    }
+  ]
+}

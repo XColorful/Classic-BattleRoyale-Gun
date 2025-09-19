@@ -1,0 +1,18 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "pistol",
+    "item": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

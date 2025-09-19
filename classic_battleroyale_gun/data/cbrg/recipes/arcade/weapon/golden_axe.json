@@ -1,0 +1,26 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:nether_star"
+      },
+      "count": 100
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "rpg",
+    "item": {
+      "item": "minecraft:golden_axe",
+      "nbt": {
+        "Enchantments": [
+          {
+            "lvl": 183,
+            "id": "minecraft:sharpness"
+          }
+        ]
+      }
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

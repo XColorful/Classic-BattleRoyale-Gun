@@ -1,0 +1,22 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "misc",
+    "item": {
+      "item": "minecraft:tipped_arrow",
+      "nbt": {
+        "Potion": "long_slowness"
+      },
+      "count": 5
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

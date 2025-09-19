@@ -8,6 +8,9 @@
     "cbrg.blocks.attachment_workshop.desc": "用最少的样式，造通用的配件",
     "cbrg.blocks.ammo_workshop.name": "子弹工坊",
     "cbrg.blocks.ammo_workshop.desc": "给你点颜色看看！",
+    "cbrg.blocks.arcade_workshop.name": "街机工坊",
+    "cbrg.blocks.arcade_workshop.desc": "",
+
     "cbrg.type.ar.name": "突击步枪",
     "cbrg.type.sr.name": "狙击枪",
     "cbrg.type.dmr.name": "精确射手步枪",
@@ -27,6 +30,9 @@
     "cbrg.type.magazine.name": "弹匣",
     "cbrg.type.stock.name": "枪托",
     "cbrg.type.ammo.name": "子弹",
+    
+    "cbrg.type.weapon.name": "武器",
+    "cbrg.type.item.name": "物品",
 
     "cbrg.guns.akm.name": "AKM",
     "cbrg.guns.akm.desc": "广泛装备世界各地武装力量的突击步枪。",
