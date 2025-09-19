@@ -12,16 +12,31 @@
   "bullet": {
     "life": 2.0,
     "bullet_amount": 1,
-    "damage": 12.5,
+    "damage": 8.4,
     "tracer_count_interval": 0,
     "extra_damage": {
       "armor_ignore": 0.5,
       "head_shot_multiplier": 2.1,
       "damage_adjust": [
-        {"distance": 0.5, "damage": 12},
-        {"distance": 40, "damage": 9.5},
-        {"distance": 70, "damage": 7.5},
-        {"distance": "infinite", "damage": 5}
+        {"distance": 51, "damage": 8.4},
+        {"distance": 71.29, "damage": 8.3},
+        {"distance": 91.59, "damage": 8.2},
+        {"distance": 111.88, "damage": 8.1},
+        {"distance": 132.18, "damage": 8},
+        {"distance": 152.47, "damage": 7.91},
+        {"distance": 172.76, "damage": 7.81},
+        {"distance": 193.06, "damage": 7.71},
+        {"distance": 213.35, "damage": 7.61},
+        {"distance": 233.65, "damage": 7.51},
+        {"distance": 253.94, "damage": 7.41},
+        {"distance": 274.24, "damage": 7.31},
+        {"distance": 294.53, "damage": 7.21},
+        {"distance": 314.82, "damage": 7.12},
+        {"distance": 335.12, "damage": 7.02},
+        {"distance": 355.41, "damage": 6.92},
+        {"distance": 375.71, "damage": 6.82},
+        {"distance": 396, "damage": 6.72},
+        {"distance": "infinite", "damage": 6.72}
       ]
     },
     "speed": 820,

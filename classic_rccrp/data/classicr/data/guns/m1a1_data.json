@@ -1,5 +1,5 @@
 {
-  "ammo": "cbrg:ammo_45acp",
+  "ammo": "cbrg:ammo_9mm",
   "rpm": 750,
   "can_slide": false,
   "bullet": {
