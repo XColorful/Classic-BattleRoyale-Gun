@@ -1,8 +1,0 @@
-{
-  "name": "cbrg.guns.s12k.name",
-  "display": "tacz:aa12_display",
-  "data": "tacz:aa12_data",
-  "tooltip": "cbrg.guns.s12k.desc",
-  "type": "shotgun",
-  "sort": 29
-}

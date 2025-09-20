@@ -1,0 +1,7 @@
+{
+    "name": "cbrg.guns.s12k.name",
+    "tooltip": "cbrg.guns.s12k.desc",
+    "display": "gz:tactical_sasg_12k_display",
+    "data": "gz:tactical_sasg_12k_data",
+    "type": "shotgun"
+}

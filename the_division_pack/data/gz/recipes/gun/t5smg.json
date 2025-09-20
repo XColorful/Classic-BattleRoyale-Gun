@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:jungle_planks"
+      },
+      "count": 200
+    },
+    {
+      "item": {
+        "item": "minecraft:slime_ball"
+      },
+      "count": 70
+    },
+    {
+      "item": {
+        "item": "minecraft:lily_pad"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "gz:t5smg"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}
