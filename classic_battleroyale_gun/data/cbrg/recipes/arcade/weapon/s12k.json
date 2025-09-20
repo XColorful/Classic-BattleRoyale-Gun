@@ -4,7 +4,7 @@
       "item": {
         "item": "minecraft:nether_star"
       },
-      "count": 90
+      "count": 85
     }
   ],
   "result": {
@@ -13,9 +13,9 @@
     "item": {
       "item": "tacz:modern_kinetic_gun",
       "nbt": {
-        "GunCurrentAmmoCount": 8,
+        "GunCurrentAmmoCount": 5,
         "GunFireMode": "SEMI",
-        "GunId": "tacz:aa12",
+        "GunId": "gz:tactical_sasg_12k",
         "HasBulletInBarrel": false
       }
     }
