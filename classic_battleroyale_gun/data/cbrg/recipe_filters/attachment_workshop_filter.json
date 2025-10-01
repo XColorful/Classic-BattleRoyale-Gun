@@ -1,6 +1,6 @@
 {
   "whitelist": [
-    "^cbrg.*$",
+    "^cbrg:attachments/.*$",
     "^tacz.*$"
   ],
   "blacklist": [

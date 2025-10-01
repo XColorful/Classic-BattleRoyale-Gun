@@ -1,6 +1,6 @@
 {
   "whitelist": [
-    "^cbrg.*$",
+    "^cbrg:guns/.*$",
     "^tacz.*$",
     "origin:guns/p90",
     "^cib:gun/(g18c|mg3|pp19|k2|galilace32|qbu|origin12|686).*$",

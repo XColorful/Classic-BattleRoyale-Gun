@@ -1,6 +1,6 @@
 {
   "whitelist": [
-    "^cbrg.*$",
+    "^cbrg:ammo/.*$",
     "^tacz:ammo/(338|50bmg|rpg_rocket).*$"
   ],
   "blacklist": [
