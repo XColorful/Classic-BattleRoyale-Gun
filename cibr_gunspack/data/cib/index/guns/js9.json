@@ -1,0 +1,8 @@
+{
+  "name": "cbrg.guns.js9.name",
+  "tooltip": "cbrg.guns.js9.desc",
+  "display": "cib:js9_display",
+  "data": "cib:js9_data",
+  "type": "smg",
+  "item_type": "modern_kinetic"
+}

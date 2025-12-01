@@ -3,11 +3,11 @@
     "^cbrg:guns/.*$",
     "^tacz.*$",
     "origin:guns/p90",
-    "^cib:gun/(g18c|mg3|pp19|k2|galilace32|qbu|origin12|686).*$",
+    "^cib:gun/(g18c|mg3|pp19|k2|galilace32|qbu|origin12|686|js9).*$",
     "^classicr:gun/(kar98|dp28|mk47|m1a1_smg|mp9).*$",
     "^suffuse:gun/(gm6|svd).*$",
     "^hamster:gun/(win1894|mosin9130|nagantm1895).*$",
-    "^gz:gun/(tactical_sasg_12k|t5smg).*$"
+    "^gz:gun/(tactical_sasg_12k).*$"
   ],
   "blacklist": [
     "^cbrg:arcade/.*$",
