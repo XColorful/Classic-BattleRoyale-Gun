@@ -1,0 +1,9 @@
+{
+  "name": "cbrg.guns.mini14.name",
+  "tooltip": "cbrg.guns.mini14.desc",
+  "display": "ccrp:m14_hbar_display",
+  "data": "ccrp:m14_hbar_data",
+  "type": "rifle",
+  "item_type": "modern_kinetic",
+    "sort": 21
+}

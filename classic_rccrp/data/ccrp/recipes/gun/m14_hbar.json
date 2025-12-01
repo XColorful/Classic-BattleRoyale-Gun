@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:polished_diorite"
+      },
+      "count": 400
+    },
+    {
+      "item": {
+        "item": "minecraft:cooked_rabbit"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "minecraft:glow_berries"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "custom",
+    "group": "rpg",
+    "item": {
+      "item": "tacz:modern_kinetic_gun",
+      "nbt": {
+        "GunCurrentAmmoCount": 0,
+        "GunFireMode": "SEMI",
+        "GunId": "ccrp:m14_hbar",
+        "HasBulletInBarrel": false
+      },
+      "count": 1
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}
