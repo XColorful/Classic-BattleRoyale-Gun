@@ -12,7 +12,7 @@
   "blacklist": [
     "^cbrg:arcade/.*$",
     "tacz:test",
-    "^tacz:gun/(glock_17|type_81|m16a1|m4a1|scar_h|hk_g3|m95)$",
+    "^tacz:gun/(glock_17|type_81|m16a1|m4a1|scar_h|hk_g3|m95|qbz_191|fn_fal|m1014|spas_12|fn_evolys).*$",
     "^tacz:gun/(m320|springfield1873).*$",
     "^tacz:misc/.*$",
     "^tacz:gun/(b93r|p90|minigun|db_long|rpk|m107|aa12).*$",
