@@ -10,6 +10,7 @@
     "^gz:gun/(tactical_sasg_12k|t5smg).*$"
   ],
   "blacklist": [
+    "^cbrg:arcade/.*$",
     "tacz:test",
     "^tacz:gun/(glock_17|type_81|m16a1|m4a1|scar_h|hk_g3|m95)$",
     "^tacz:gun/(m320|springfield1873).*$",

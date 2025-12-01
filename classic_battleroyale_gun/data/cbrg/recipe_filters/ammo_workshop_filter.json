@@ -4,6 +4,7 @@
     "^tacz:ammo/(338|50bmg|rpg_rocket).*$"
   ],
   "blacklist": [
+    "^cbrg:arcade/.*$",
     "tacz:test",
     "^tacz:ammo/(9mm|45acp|50ae|357mag|12g|57x28).*$",
     "^tacz:ammo/(556x45|58x42).*$",

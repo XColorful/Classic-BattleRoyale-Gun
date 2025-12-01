@@ -4,6 +4,7 @@
     "^tacz.*$"
   ],
   "blacklist": [
+    "^cbrg:arcade/.*$",
     "tacz:test",
     "^tacz:attachments/(muzzle_|deagle_golden|bayonet|grip_|scope_|sight_|ammo_mod_|extended_mag_).*$",
     "^tacz:attachments/stock_(sba3|ripstock|m4ss|militech|carbon|moe|ak12).*$",
