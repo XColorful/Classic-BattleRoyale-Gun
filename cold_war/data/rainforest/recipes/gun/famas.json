@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:spruce_planks"
+      },
+      "count": 500
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_scrap"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "item": "minecraft:prismarine_crystals"
+      },
+      "count": 100
+    },
+    {
+      "item": {
+        "item": "minecraft:prismarine_shard"
+      },
+      "count": 100
+    },
+    {
+      "item": {
+        "item": "minecraft:cake"
+      },
+      "count": 50
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "rainforest:famas"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "cbrg.guns.famas.name",
+    "display": "rainforest:famas_display",
+    "data": "rainforest:famas_data",
+    "tooltip": "cbrg.guns.famas.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 13
+}

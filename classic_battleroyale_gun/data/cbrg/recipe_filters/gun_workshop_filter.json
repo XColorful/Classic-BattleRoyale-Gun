@@ -8,7 +8,8 @@
     "^ccrp:gun/(m14_hbar).*$",
     "^suffuse:gun/(gm6|svd).*$",
     "^hamster:gun/(win1894|mosin9130|nagantm1895).*$",
-    "^gz:gun/(tactical_sasg_12k).*$"
+    "^gz:gun/(tactical_sasg_12k).*$",
+    "^rainforest:gun/(famas).*$"
   ],
   "blacklist": [
     "^cbrg:arcade/.*$",
