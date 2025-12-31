@@ -3,7 +3,7 @@
 本枪包为“拼好枪”性质的枪包，整合了各 TaCZ 枪械包中出现的《PUBG: BATTLEGROUNDS》枪械，并统一了子弹、配件等配置。
 - 该仓库内容兼容 TaCZ 1.1.4 枪包格式
 - 由于各枪包制作时并非在所有方面都有统一标准，可能会导致兼容性方面的一些问题
-- 目前仅缺少4把枪械：DBS、FAMAS、R45、VSS
+- 目前仅缺少3把枪械：DBS、R45、VSS
 
 ## 使用说明
 
@@ -12,6 +12,7 @@
 由于各枪包资产都使用CC BY-NC-ND 4.0协议，本枪包不包含其他枪包的资产文件，请自行前往各枪包地址下载：
 - [CIBR冲锋陷阵:重启 附属包](https://www.curseforge.com/minecraft/customization/tacz-charge-into-battle-reboot-pack)
 - [经典重铸](https://www.curseforge.com/minecraft/customization/tacz-classics-reborn)
+- [Cold War](https://www.curseforge.com/minecraft/customization/coldwarguns)
 - [白鼠的“硝烟革命”枪械扩展](https://www.curseforge.com/minecraft/customization/tacz-gunpowder-revolution-great-war-gunpack)
 - [IOWP 无限起源](https://www.curseforge.com/minecraft/customization/tacz-infinite-origin)
 - [Suffuse GunSmoke Pack](https://www.curseforge.com/minecraft/customization/suffuse-gunsmoke)
@@ -23,6 +24,7 @@
 将下载的枪包解压至 _./minecraft/tacz_ 文件夹下，分别按以下名称重命名解压后的文件夹：
 - cibr_gunspack
 - classic_rccrp
+- cold_war
 - gunpowder_revolusion_gunpack
 - infinite_origin
 - suffuse_gunsmoke_pack
