@@ -8,6 +8,7 @@
   ],
   "bolt": "open_bolt",
   "rpm": 800,
+  "can_slide": false,
   "bullet": {
     "life": 2,
     "bullet_amount": 1,

@@ -149,7 +149,6 @@
     "extended_mag"
   ],
   "exclusive_attachments": {},
-  "can_crawl": false,
   "fire_sound": {
     "fire_multiplier": 1,
     "silence_multiplier": 1

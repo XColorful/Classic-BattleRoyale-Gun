@@ -1,6 +1,7 @@
 {
   "ammo": "cbrg:ammo_45acp",
   "rpm": 900,
+  "can_slide": false,
   "bullet": {
     "life": 2,
     "bullet_amount": 1,

@@ -1,6 +1,7 @@
 {
   "ammo": "cbrg:ammo_12g",
   "rpm": 600,
+  "can_slide": false,
   "bullet": {
     "life": 2,
     "bullet_amount": 9,
@@ -74,7 +75,6 @@
     "pierce": 1
   },
   "ammo_amount": 2,
-  "can_slide": false,
   "bolt": "open_bolt",
   "reload": {
     "type": "magazine",

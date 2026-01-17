@@ -1,6 +1,7 @@
 {
   "ammo": "cbrg:ammo_9mm",
   "rpm": 1100,
+  "can_slide": false,
   "script": "tacz:xmag_reload_logic",
   "script_param": {
     "reload_feed": 1.67,

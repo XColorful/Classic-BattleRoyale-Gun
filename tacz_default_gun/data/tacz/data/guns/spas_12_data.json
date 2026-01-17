@@ -8,6 +8,7 @@
   ],
   "bolt": "manual_action",
   "rpm": 200,
+  "can_slide": false,
   "bullet": {
     "life": 2,
     "bullet_amount": 8,
@@ -146,7 +147,6 @@
     "muzzle"
   ],
   "can_crawl": true,
-  "can_slide": false,
   "fire_sound": {
     "fire_multiplier": 1,
     "silence_multiplier": 1

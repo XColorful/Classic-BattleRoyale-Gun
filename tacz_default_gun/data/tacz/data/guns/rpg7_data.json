@@ -1,6 +1,7 @@
 {
   "ammo": "tacz:rpg_rocket",
   "rpm": 150,
+  "can_slide": false,
   "ammo_amount": 1,
   "bolt": "open_bolt",
   "bullet": {
@@ -48,7 +49,6 @@
     "reload": -0.05
   },
   "crawl_recoil_multiplier": 0.5,
-  "can_slide": false,
   "fire_mode": [
     "semi"
   ],
