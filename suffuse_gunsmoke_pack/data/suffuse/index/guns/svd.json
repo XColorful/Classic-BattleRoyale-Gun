@@ -3,6 +3,6 @@
   "tooltip": "cbrg.guns.dragunov.desc",
   "display": "suffuse:svd_display",
   "data": "suffuse:svd_data",
-  "type": "sniper",
+  "type": "rifle",
   "sort": 27
 }
