@@ -68,7 +68,7 @@
       "delay": 1,
       "radius": 0.75,
       "damage": 28,
-      "knockback": true,
+      "knockback": 0,
       "destroy_block": false
     }
   },
@@ -84,11 +84,11 @@
       "tactical": 2.07
     }
   },
-  "draw_time": 0.47,
-  "put_away_time": 0.5,
-  "aim_time": 0.21,
-  "sprint_time": 0.22,
-  "weight": 5.2,
+  "draw_time": 0.58,
+  "put_away_time": 0.4,
+  "aim_time": 0.2,
+  "sprint_time": 0.2,
+  "weight": 0,
   "movement_speed": {
     "base": 0,
     "aim": -0.075,
@@ -139,7 +139,7 @@
       "distance": 1.25,
       "range_angle": 30,
       "damage": 2,
-      "knockback": 0.6,
+      "knockback": 0,
       "prep": 0.1
     }
   },

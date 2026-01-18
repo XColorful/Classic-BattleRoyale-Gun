@@ -56,7 +56,7 @@
       "empty": 9,
       "tactical": 9
     },
-    "weight": 10,
+    "weight": 0,
     "movement_speed": {
       "base": 0.0,
       "aim": -0.25,
@@ -111,7 +111,7 @@
       "distance": 0,
       "range_angle": 30,
       "damage": 2,
-      "knockback": 0.75,
+      "knockback": 0,
       "prep": 0.1
     }
   },

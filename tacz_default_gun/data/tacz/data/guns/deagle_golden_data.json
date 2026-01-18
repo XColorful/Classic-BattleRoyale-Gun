@@ -38,7 +38,7 @@
     },
     "speed": 400,
     "gravity": 0.0245,
-    "knockback": 0.05,
+    "knockback": 0,
     "friction": 0.03322,
     "ignite": false,
     "pierce": 1,
@@ -46,7 +46,7 @@
       "explode": false,
       "damage": 20,
       "radius": 0.6,
-      "knockback": true,
+      "knockback": 0,
       "delay": 1
     }
   },

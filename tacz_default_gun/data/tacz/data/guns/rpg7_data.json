@@ -5,7 +5,7 @@
   "ammo_amount": 1,
   "bolt": "open_bolt",
   "bullet": {
-    "life": 10,
+    "life": 2,
     "bullet_amount": 1,
     "damage": 20,
     "extra_damage": {
@@ -22,7 +22,7 @@
       "explode": true,
       "damage": 120,
       "radius": 3,
-      "knockback": true,
+      "knockback": 0,
       "destroy_block": true,
       "delay": 30
     }
@@ -81,7 +81,7 @@
       "distance": 1.5,
       "range_angle": 30,
       "damage": 5,
-      "knockback": 0.75,
+      "knockback": 0,
       "prep": 0.1
     }
   }

@@ -25,7 +25,7 @@
     },
     "speed": 300,
     "gravity": 0.0245,
-    "knockback": 0.15,
+    "knockback": 0,
     "friction": 0.03322,
     "ignite": false,
     "pierce": 1,
@@ -33,7 +33,7 @@
       "explode": false,
       "damage": 42,
       "radius": 2.5,
-      "knockback": false,
+      "knockback": 0,
       "delay": 5
     }
   },
@@ -48,11 +48,11 @@
       "tactical": 0.23
     }
   },
-  "draw_time": 0.4,
-  "put_away_time": 0.77,
-  "aim_time": 0.18,
-  "sprint_time": 0.08,
-  "weight": 3.8,
+  "draw_time": 0.58,
+  "put_away_time": 0.4,
+  "aim_time": 0.2,
+  "sprint_time": 0.2,
+  "weight": 0,
   "movement_speed": {
     "base": 0.0,
     "aim": -0.2,
@@ -99,7 +99,7 @@
       "distance": 1,
       "range_angle": 30,
       "damage": 2,
-      "knockback": 0.6,
+      "knockback": 0,
       "prep": 0.1
     }
   },

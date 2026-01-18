@@ -55,7 +55,7 @@
       "explode": false,
       "damage": 60,
       "radius": 1.25,
-      "knockback": true,
+      "knockback": 0,
       "delay": 1
     }
   },
@@ -119,7 +119,7 @@
       "distance": 1.25,
       "range_angle": 30,
       "damage": 5,
-      "knockback": 1,
+      "knockback": 0,
       "prep": 0.1
     }
   },
