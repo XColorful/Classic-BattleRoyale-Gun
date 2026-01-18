@@ -9,7 +9,7 @@ def unify_crawl_recoil(root_dir):
     allowed_parents = {"gun", "guns"}
     
     # 正则匹配 "crawl_recoil_multiplier": 数值
-    pattern = re.compile(rf'"{key}"\s*:\s*([^,}}\s]+)')
+    pattern = re.compile(rf'("{key}"\s*:\s*)([^,}}\s]+)')
     count = 0
 
     for root, dirs, files in os.walk(root_dir):
@@ -28,13 +28,13 @@ def unify_crawl_recoil(root_dir):
                     content = f.read()
 
                 def replacement(match):
-                    current_val_str = match.group(1).strip()
+                    prefix = match.group(1)        # 这一部分是 '"crawl_recoil_multiplier": '
+                    current_val_str = match.group(2).strip() # 只有数值
                     try:
-                        # 只有当数值不等于 0.703 时才修改
                         if float(current_val_str) != target_val:
-                            return f'"{key}": {target_val}'
+                            return f'{prefix}{target_val}' # 拼接前缀和新值，原数值后的逗号不受影响
                     except ValueError:
-                        return f'"{key}": {target_val}'
+                        return f'{prefix}{target_val}'
                     return match.group(0)
 
                 new_content = pattern.sub(replacement, content)
