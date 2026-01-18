@@ -96,7 +96,7 @@
       "distance": 1.25,
       "range_angle": 30,
       "damage": 5,
-      "knockback": 0.85,
+      "knockback": 0,
       "prep": 0.1
     }
   },

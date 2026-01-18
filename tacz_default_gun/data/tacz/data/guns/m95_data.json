@@ -10,7 +10,7 @@
   "rpm": 151,
   "can_slide": false,
   "bullet": {
-    "life": 1.1,
+    "life": 2,
     "bullet_amount": 1,
     "damage": 75,
     "tracer_count_interval": 0,
@@ -98,7 +98,7 @@
       "distance": 1.25,
       "range_angle": 30,
       "damage": 5,
-      "knockback": 0.85,
+      "knockback": 0,
       "prep": 0.1
     }
   },

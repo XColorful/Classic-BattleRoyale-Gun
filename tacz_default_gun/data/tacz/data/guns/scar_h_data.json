@@ -111,7 +111,7 @@
       "distance": 1,
       "range_angle": 30,
       "damage": 2,
-      "knockback": 0.6,
+      "knockback": 0,
       "prep": 0.1
     }
   },
@@ -125,7 +125,7 @@
   ],
   "exclusive_attachments": {
     "tacz:scope_standard_8x": {
-      "weight": 2.0,
+      "weight": 0,
       "ads_addend": 0.04,
       "recoil_modifier": {
         "yaw": -0.2
