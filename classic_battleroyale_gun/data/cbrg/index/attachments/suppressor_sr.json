@@ -1,0 +1,8 @@
+{
+    "name": "cbrg.attachments.suppressor_sr.name",
+    "display": "cbrg:suppressor_sr_display",
+    "data": "cbrg:suppressor_sr_data",
+    "tooltip": "cbrg.attachments.suppressor_sr.desc",
+    "type": "muzzle",
+    "sort": 11
+}

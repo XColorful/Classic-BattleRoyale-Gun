@@ -1,0 +1,14 @@
+{
+    "slot": "cbrg:attachments/slot/suppressor_sr",
+    "model": "cbrg:attachments/suppressor_sr_geo",
+    "texture": "cbrg:attachments/suppressor_sr",
+    "lod": {
+        "model": "cbrg:attachments/lod/suppressor_sr_lod_geo",
+        "texture": "cbrg:attachments/lod/suppressor_sr_lod"
+    },
+    "adapter": "suppressor_sr_adapter",
+    "sounds": {
+        "install": "cbrg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "cbrg:attachments/suppressor_rifle_uninstall"
+    }
+}
