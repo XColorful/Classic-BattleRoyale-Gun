@@ -5,12 +5,21 @@ def unify_crawl_recoil(root_dir):
     target_suffix = "_data.json"
     key = "crawl_recoil_multiplier"
     target_val = 0.703
+    # 定义允许的父目录名
+    allowed_parents = {"gun", "guns"}
     
     # 正则匹配 "crawl_recoil_multiplier": 数值
     pattern = re.compile(rf'"{key}"\s*:\s*([^,}}\s]+)')
     count = 0
 
     for root, dirs, files in os.walk(root_dir):
+        # --- 新增判断逻辑 ---
+        # 获取当前文件夹的名称并转为小写
+        parent_dir_name = os.path.basename(root).lower()
+        if parent_dir_name not in allowed_parents:
+            continue
+        # ------------------
+
         for file in files:
             if file.endswith(target_suffix):
                 file_path = os.path.join(root, file)

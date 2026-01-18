@@ -3,9 +3,10 @@ import re
 
 def bulk_update_weapon_data(root_dir):
     target_suffix = "_data.json"
+    # 定义允许的父目录名
+    allowed_parents = {"gun", "guns"}
     
     # 定义需要检查和修改的目标数值
-    # 键是 JSON 里的字段名，值是标准的目标数值
     target_values = {
         "life": 2,
         "gravity": 0.0245,
@@ -21,6 +22,13 @@ def bulk_update_weapon_data(root_dir):
     count = 0
 
     for root, dirs, files in os.walk(root_dir):
+        # --- 新增判断逻辑 ---
+        # 获取当前所在的文件夹名称
+        parent_dir_name = os.path.basename(root).lower()
+        if parent_dir_name not in allowed_parents:
+            continue
+        # ------------------
+
         for file in files:
             if file.endswith(target_suffix):
                 file_path = os.path.join(root, file)
@@ -33,14 +41,13 @@ def bulk_update_weapon_data(root_dir):
 
                 for key, target_val in target_values.items():
                     # 正则匹配格式: "key": value
-                    # \s* 处理可能的空格
                     pattern = re.compile(rf'"{key}"\s*:\s*([^,}}\s]+)')
                     
                     def replacement(match):
                         nonlocal modified
                         current_val_str = match.group(1).strip()
                         try:
-                            # 转换为 float 进行数学比较，这样 0 == 0.0
+                            # 转换为 float 进行数学比较
                             if float(current_val_str) != float(target_val):
                                 modified = True
                                 return f'"{key}": {target_val}'
