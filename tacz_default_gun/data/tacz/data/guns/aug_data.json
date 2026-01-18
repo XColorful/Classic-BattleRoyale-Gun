@@ -55,7 +55,7 @@
     "auto",
     "semi"
   ],
-  "crawl_recoil_multiplier": 0.75,
+  "crawl_recoil_multiplier": 0.703,
   "recoil": {
     "pitch": [
       {"time": 0, "value": [0.375, 0.375]},

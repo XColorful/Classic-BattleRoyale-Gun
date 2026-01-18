@@ -51,7 +51,7 @@
     "reload": -0.05
   },
   "bolt_action_time": 2.5,
-  "crawl_recoil_multiplier": 0.5,
+  "crawl_recoil_multiplier": 0.703,
   "fire_mode": [
     "semi"
   ],

@@ -121,7 +121,7 @@
     "bpm": 900,
     "min_interval": 0.3
   },
-  "crawl_recoil_multiplier": 0.5,
+  "crawl_recoil_multiplier": 0.703,
   "recoil": {
     "pitch": [
       {"time": 0, "value": [1.688, 1.688]},

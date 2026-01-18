@@ -78,7 +78,7 @@
     "aim": -0.2,
     "reload": -0.05
   },
-  "crawl_recoil_multiplier": 0.75,
+  "crawl_recoil_multiplier": 0.703,
   "fire_mode": [
     "semi"
   ],
