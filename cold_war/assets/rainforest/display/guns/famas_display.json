@@ -1,0 +1,79 @@
+{
+  "model": "rainforest:gun/famas_geo",
+  "texture": "rainforest:gun/uv/famas",
+  "lod": {
+    "model": "rainforest:gun/lod/famas_geo",
+    "texture": "rainforest:gun/lod/famas_geo"
+  },
+  "hud": "rainforest:gun/hud/famas",
+  "slot": "rainforest:gun/slot/famas",
+  "animation": "rainforest:famas",
+  "use_default_animation": "pistol",
+  "third_person_animation": "default",
+  "player_animator_3rd": "rainforest:rifle_default.player_animation",
+  "show_crosshair": false,
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "rainforest:flash/common_muzzle_flash",
+    "scale": 1.5
+  },
+  "iron_zoom": 1.0,
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "ammo": {
+    "tracer_color": "#FF8888"
+  },
+  "sounds": {
+    "shoot": "cbrg:famas/famas_shoot",
+    "shoot_3p": "cbrg:famas/famas_shoot",
+    "reload_empty": "rainforest:famas/famas_reload_empty",
+    "reload_tactical": "rainforest:famas/famas_reload_tactical",
+    "inspect": "rainforest:famas/famas_inspect",
+    "inspect_empty": "rainforest:famas/famas_inspect_empty",
+    "draw": "rainforest:famas/famas_draw",
+    "put_away": "rainforest:famas/famas_put_away",
+    "silence": "cbrg:famas/famas_silence",
+    "silence_3p": "cbrg:famas/famas_silence",
+    "dry_fire": "cbrg:lynx_amr/dry_fire",
+    "fire_select": "cbrg:groza/fire_select",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "tacz:kill",
+    "melee_bayonet": "cbrg:melee_bayonet/melee_bayonet",
+    "melee_push": "cbrg:melee_stock/melee_stock",
+    "melee_stock": "cbrg:melee_stock/melee_stock"
+  },
+  "offhand_show": {
+    "pos": [1, 20, 3.5],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  },
+  "text_show": {
+    "ammo_count_text_show_pos": {
+      "scale": 1,
+      "align": "center",
+      "shadow": false,
+      "color": "#FFFFFF",
+      "light": 150,
+      "text": "text_show.rainforest.famas.ammo_count"
+    }
+  }
+}

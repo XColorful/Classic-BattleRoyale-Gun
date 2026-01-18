@@ -1,16 +1,14 @@
 {
-  "model": "cbrg:guns/groza_geo",
-  "texture": "cbrg:guns/groza",
+  "model": "classicr:gun/mk47_geo",
+  "texture": "classicr:gun/uv/mk47",
   "lod": {
-    "model": "cbrg:guns/lod/groza_lod_geo",
-    "texture": "cbrg:guns/lod/groza_lod"
+    "model": "classicr:gun/lod/ak47",
+    "texture": "classicr:gun/lod/ak47"
   },
-  "hud": "cbrg:guns/hud/groza",
-  "slot": "cbrg:guns/slot/groza",
+  "hud": "classicr:gun/hud/mk47",
+  "slot": "classicr:gun/slot/mk47",
   "ammo_count_style": "normal",
-  "damage_style": "per_projectile",
-  "animation": "cbrg:groza",
-  "state_machine": "cbrg:default_state_machine",
+  "animation": "classicr:mk47",
   "use_default_animation": "rifle",
   "third_person_animation": "default",
   "player_animator_3rd": "tacz:rifle_default.player_animation",
@@ -23,11 +21,10 @@
     }
   },
   "muzzle_flash": {
-    "texture": "cbrg:guns/flash/pixel_flash",
+    "texture": "tacz:flash/common_muzzle_flash",
     "scale": 0.75
   },
   "iron_zoom": 1.2,
-  "zoom_model_fov": 45,
   "shell": {
     "initial_velocity": [5, 2, 1],
     "random_velocity": [1, 1, 0.25],
@@ -39,16 +36,12 @@
     "tracer_color": "#FF8888"
   },
   "sounds": {
-    "shoot": "cbrg:groza/groza_shoot",
-    "shoot_3p": "cbrg:groza/groza_shoot",
-    "reload_empty": "cbrg:groza/groza_reload_empty",
-    "reload_tactical": "cbrg:groza/groza_reload",
-    "inspect": "cbrg:groza/groza_inspect",
-    "inspect_empty": "cbrg:groza/groza_inspect",
-    "draw": "cbrg:groza/groza_draw",
-    "put_away": "cbrg:groza/groza_put_away",
-    "silence": "cbrg:groza/groza_silence",
-    "silence_3p": "cbrg:groza/groza_silence",
+    "shoot": "tacz:ak47/ak47_shoot",
+    "shoot_3p": "tacz:ak47/ak47_shoot_3p",
+    "draw": "tacz:ak47/ak47_draw",
+    "put_away": "tacz:ak47/ak47_put_away",
+    "silence": "tacz:ak47/ak47_silence",
+    "silence_3p": "tacz:ak47/ak47_silence_3p",
     "dry_fire": "cbrg:lynx_amr/dry_fire",
     "fire_select": "cbrg:groza/fire_select",
     "head_hit": "tacz:head_hit",
@@ -59,9 +52,9 @@
     "melee_stock": "cbrg:melee_stock/melee_stock"
   },
   "offhand_show": {
-    "pos": [-2, 20, 3.5],
-    "rotate": [0, 0, -30],
-    "scale": [0.6, 0.6, 0.6]
+    "pos": [1, 20, 3.5],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
   },
   "hotbar_show": {
     "0": {

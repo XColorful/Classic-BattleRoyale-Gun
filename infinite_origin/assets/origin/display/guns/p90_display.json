@@ -1,0 +1,61 @@
+{
+  "model": "origin:gun/p90_geo",
+  "texture": "origin:gun/uv/p90",
+  "lod": {
+    "model": "origin:gun/lod/p90",
+    "texture": "origin:gun/lod/p90"
+  },
+  "hud": "origin:gun/hud/p90_hud",
+  "slot": "origin:gun/slot/p90_slot",
+  "animation": "origin:p90",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 0.75
+  },
+  "shell": {
+    "initial_velocity": [5, 0, 0],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [1, 0.0, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "reload_empty": "origin:p90/p90_reload_empty",
+    "reload_tactical": "origin:p90/p90_reload_tactical",
+    "inspect": "origin:p90/p90_inspect",
+    "inspect_empty": "origin:p90/p90_inspect_empty",
+    "draw": "tacz:p90/p90_draw",
+    "put_away": "tacz:p90/p90_put_away",
+    "shoot": "cbrg:p90/p90_silence",
+    "shoot_3p": "cbrg:p90/p90_silence",
+    "dry_fire": "cbrg:lynx_amr/dry_fire",
+    "fire_select": "cbrg:groza/fire_select",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "tacz:kill",
+    "melee_bayonet": "cbrg:melee_bayonet/melee_bayonet",
+    "melee_push": "cbrg:melee_stock/melee_stock",
+    "melee_stock": "cbrg:melee_stock/melee_stock"
+  },
+  "offhand_show": {
+    "pos": [1, 19, 4],
+    "rotate": [0, 0, 30],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [1, 16, -2],
+    "rotate": [0, 0, 20],
+    "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

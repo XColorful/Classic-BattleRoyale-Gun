@@ -1,16 +1,13 @@
 {
-  "model": "cbrg:guns/groza_geo",
-  "texture": "cbrg:guns/groza",
+  "model": "classicr:gun/m1a1_smg_geo",
+  "texture": "classicr:gun/uv/m1a1",
   "lod": {
-    "model": "cbrg:guns/lod/groza_lod_geo",
-    "texture": "cbrg:guns/lod/groza_lod"
+    "model": "classicr:gun/lod/m1a1_smg",
+    "texture": "classicr:gun/lod/m1a1_smg"
   },
-  "hud": "cbrg:guns/hud/groza",
-  "slot": "cbrg:guns/slot/groza",
-  "ammo_count_style": "normal",
-  "damage_style": "per_projectile",
-  "animation": "cbrg:groza",
-  "state_machine": "cbrg:default_state_machine",
+  "hud": "classicr:gun/hud/m1a1_smg",
+  "slot": "classicr:gun/slot/m1a1_smg",
+  "animation": "classicr:m1a1_smg",
   "use_default_animation": "rifle",
   "third_person_animation": "default",
   "player_animator_3rd": "tacz:rifle_default.player_animation",
@@ -23,11 +20,10 @@
     }
   },
   "muzzle_flash": {
-    "texture": "cbrg:guns/flash/pixel_flash",
+    "texture": "tacz:flash/common_muzzle_flash",
     "scale": 0.75
   },
   "iron_zoom": 1.2,
-  "zoom_model_fov": 45,
   "shell": {
     "initial_velocity": [5, 2, 1],
     "random_velocity": [1, 1, 0.25],
@@ -36,19 +32,15 @@
     "living_time": 1.0
   },
   "ammo": {
-    "tracer_color": "#FF8888"
+    "tracer_color": "#CD2626"
   },
   "sounds": {
-    "shoot": "cbrg:groza/groza_shoot",
-    "shoot_3p": "cbrg:groza/groza_shoot",
-    "reload_empty": "cbrg:groza/groza_reload_empty",
-    "reload_tactical": "cbrg:groza/groza_reload",
-    "inspect": "cbrg:groza/groza_inspect",
-    "inspect_empty": "cbrg:groza/groza_inspect",
-    "draw": "cbrg:groza/groza_draw",
-    "put_away": "cbrg:groza/groza_put_away",
-    "silence": "cbrg:groza/groza_silence",
-    "silence_3p": "cbrg:groza/groza_silence",
+    "shoot": "classicr:m1a1/m1a1_shoot",
+    "shoot_3p": "tacz:ump45/ump45_shoot_3p",
+    "silence": "classicr:m1a1/m1a1_silence",
+    "silence_3p": "tacz:ump45/ump45_silence_3p",
+    "draw": "tacz:uzi/uzi_draw",
+    "put_away": "tacz:uzi/uzi_put_away",
     "dry_fire": "cbrg:lynx_amr/dry_fire",
     "fire_select": "cbrg:groza/fire_select",
     "head_hit": "tacz:head_hit",
@@ -59,9 +51,9 @@
     "melee_stock": "cbrg:melee_stock/melee_stock"
   },
   "offhand_show": {
-    "pos": [-2, 20, 3.5],
-    "rotate": [0, 0, -30],
-    "scale": [0.6, 0.6, 0.6]
+    "pos": [1, 20, 3.5],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
   },
   "hotbar_show": {
     "0": {

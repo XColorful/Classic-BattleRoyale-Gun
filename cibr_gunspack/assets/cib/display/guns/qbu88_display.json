@@ -1,0 +1,54 @@
+{
+  "model": "cib:gun/qbu88_geo",
+  "texture": "cib:gun/uv/qbu88",
+  "slot": "cib:gun/slot/qbu88",
+  "hud": "cib:gun/hud/qbu88",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "animation": "cib:qbu88",
+  "lod": {
+    "model": "cib:gun/lod/qbu88",
+    "texture": "cib:gun/lod/qbu88"
+  },
+  "default_animation": "ciba:sniper_default",
+  "iron_zoom": 1.5,
+  "zoom_model_fov": 45,
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.0, 1.0, 1.0]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "cib:flash/common_muzzle_flash",
+    "scale": 1
+  },
+  "shell": {
+    "initial_velocity": [6, 2, -4.5],
+    "random_velocity": [2, 1.5, 0.5],
+    "acceleration": [0.0, -12.5, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "cib:qbu88/qbu88_shoot",
+    "shoot_3p": "cib:qbu88/qbu88_shoot_3p",
+    "silence": "cib:qbu88/qbu88_silence",
+    "silence_3p": "cib:qbu88/qbu88_silence_3p",
+    "draw": "cib:qbu88/qbu88_draw",
+    "put_away": "cib:qbu88/qbu88_put_away",
+    "reload_empty": "cib:qbu88/qbu88_reload_empty",
+    "reload_tactical": "cib:qbu88/qbu88_reload_tactical",
+    "inspect": "cib:qbu88/qbu88_inspect",
+    "inspect_empty": "cib:qbu88/qbu88_inspect_empty",
+    "dry_fire": "cbrg:lynx_amr/dry_fire",
+    "fire_select": "cbrg:groza/fire_select",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "tacz:kill",
+    "melee_bayonet": "cbrg:melee_bayonet/melee_bayonet",
+    "melee_push": "cbrg:melee_stock/melee_stock",
+    "melee_stock": "cbrg:melee_stock/melee_stock"
+  }
+}

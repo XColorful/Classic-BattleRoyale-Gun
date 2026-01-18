@@ -1,0 +1,54 @@
+{
+  "model": "cib:gun/k2_geo",
+  "texture": "cib:gun/uv/k2",
+  "slot": "cib:gun/slot/k2",
+  "hud": "cib:gun/hud/k2",
+  "animation": "cib:k2",
+  "lod": {
+    "model": "cib:gun/lod/k2",
+    "texture": "cib:gun/lod/k2"
+  },
+  "default_animation": "ciba:rifle_default",
+  "iron_zoom": 1.33,
+  "zoom_model_fov": 60,
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.0, 1.0, 1.0]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "cib:flash/common_muzzle_flash",
+    "scale": 1
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "cib:m16a4/m16a4_shoot",
+    "shoot_3p": "cib:m16a4/m16a4_shoot_3p",
+    "silence": "cib:m16a4/m16a4_silence",
+    "silence_3p": "cib:m16a4/m16a4_silence_3p",
+    "draw": "cib:k2/k2_draw",
+    "put_away": "cib:k2/k2_put_away",
+    "reload_empty": "cib:k2/k2_reload_empty",
+    "reload_tactical": "cib:k2/k2_reload_tactical",
+    "inspect": "cib:k2/k2_inspect",
+    "inspect_empty": "cib:k2/k2_inspect_empty",
+    "dry_fire": "cbrg:lynx_amr/dry_fire",
+    "fire_select": "cbrg:groza/fire_select",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "tacz:kill",
+    "melee_bayonet": "cbrg:melee_bayonet/melee_bayonet",
+    "melee_push": "cbrg:melee_stock/melee_stock",
+    "melee_stock": "cbrg:melee_stock/melee_stock"
+  }
+}

@@ -50,7 +50,13 @@
     "silence": "cbrg:beryl_m762/beryl_m762_silence",
     "silence_3p": "cbrg:beryl_m762/beryl_m762_silence",
     "dry_fire": "cbrg:lynx_amr/dry_fire",
-    "fire_select": "cbrg:groza/fire_select"
+    "fire_select": "cbrg:groza/fire_select",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "tacz:kill",
+    "melee_bayonet": "cbrg:melee_bayonet/melee_bayonet",
+    "melee_push": "cbrg:melee_stock/melee_stock",
+    "melee_stock": "cbrg:melee_stock/melee_stock"
   },
   "offhand_show": {
     "pos": [-2, 20, 3.5],
