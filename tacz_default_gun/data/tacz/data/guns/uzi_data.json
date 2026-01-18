@@ -98,7 +98,7 @@
       "range_angle": 40,
       "cooldown": 0.2,
       "damage": 1,
-      "knockback": 0,
+      "knockback": 0.4,
       "prep": 0.1
     }
   }

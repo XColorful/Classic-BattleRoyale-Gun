@@ -20,7 +20,7 @@
     },
     "speed": 600,
     "gravity": 0.0245,
-    "knockback": 0,
+    "knockback": 0.1,
     "friction": 0.03322,
     "pierce": 2
   },
@@ -97,7 +97,7 @@
       "range_angle": 60,
       "cooldown": 0,
       "damage": 10,
-      "knockback": 0,
+      "knockback": 1.5,
       "prep": 0.1
     }
   }

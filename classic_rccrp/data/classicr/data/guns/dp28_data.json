@@ -66,7 +66,7 @@
       "explode": false,
       "damage": 5,
       "radius": 0.2,
-      "knockback": 0,
+      "knockback": true,
       "delay": 30
     }
   },
@@ -110,7 +110,7 @@
       "damage": 4,
       "rpm": -200,
       "speed": 100,
-      "knockback": 0,
+      "knockback": 0.1,
       "armor_ignore": 0,
       "head_shot_multiplier": 0.1,
       "aim_inaccuracy": -0.1,
@@ -154,7 +154,7 @@
       "range_angle": 40,
       "cooldown": 0,
       "damage": 1,
-      "knockback": 0,
+      "knockback": 0.5,
       "prep": 0.1
     }
   },
@@ -163,7 +163,7 @@
   ],
   "exclusive_attachments": {
     "tacz:scope_standard_8x": {
-      "weight": 0,
+      "weight": 2.0,
       "ads_addend": 0.04,
       "inaccuracy_addend": -0.4,
       "recoil_modifier": {

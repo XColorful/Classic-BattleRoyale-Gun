@@ -26,7 +26,7 @@
     },
     "speed": 466,
     "gravity": 0.0245,
-    "knockback": 0,
+    "knockback": 0.25,
     "friction": 0.03322,
     "ignite": false,
     "pierce": 1
@@ -90,7 +90,7 @@
       "distance": 0,
       "range_angle": 30,
       "damage": 3,
-      "knockback": 0,
+      "knockback": 0.75,
       "prep": 0.1
     }
   },

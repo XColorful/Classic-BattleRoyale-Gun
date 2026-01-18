@@ -59,8 +59,8 @@
     },
     "speed": 330,
     "gravity": 0.0245,
-    "knockback": 0,
-    "friction": 0.03322,
+    "knockback": 0.03322,
+    "friction": 0.05,
     "ignite": false,
     "pierce": 1
   },
@@ -104,7 +104,7 @@
   ],
   "exclusive_attachments": {
     "tacz:oem_stock_tactical": {
-      "weight": 0,
+      "weight": 2.0,
       "ads_addend": 0.04,
       "inaccuracy_addend": -0.125,
       "recoil_modifier": {
@@ -143,7 +143,7 @@
       "distance": 1,
       "range_angle": 40,
       "damage": 1,
-      "knockback": 0,
+      "knockback": 0.4,
       "prep": 0.1
     }
   }
