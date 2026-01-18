@@ -15,7 +15,7 @@
     "damage": 10.4,
     "tracer_count_interval": 0,
     "extra_damage": {
-      "armor_ignore": 0.7,
+      "armor_ignore": 0,
       "head_shot_multiplier": 2.1,
       "damage_adjust": [
         {"distance": 51, "damage": 10.4},
@@ -111,7 +111,7 @@
       "rpm": -200,
       "speed": 100,
       "knockback": 0.1,
-      "armor_ignore": 0.1,
+      "armor_ignore": 0,
       "head_shot_multiplier": 0.1,
       "aim_inaccuracy": -0.1,
       "other_inaccuracy": -0.5

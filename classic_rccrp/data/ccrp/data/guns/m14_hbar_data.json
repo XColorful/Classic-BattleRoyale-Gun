@@ -40,7 +40,7 @@
     "ignite_entity_time": 2,
     "pierce": 3,
     "extra_damage": {
-      "armor_ignore": 0.5,
+      "armor_ignore": 0,
       "head_shot_multiplier": 2.35,
       "damage_adjust": [
         {"distance": 103, "damage": 9.6},
@@ -104,7 +104,7 @@
       "rpm": 400,
       "speed": -30,
       "knockback": 0,
-      "armor_ignore": -0.1,
+      "armor_ignore": 0,
       "head_shot_multiplier": -0.25,
       "aim_inaccuracy": 0.1,
       "other_inaccuracy": 0.5
