@@ -7,7 +7,9 @@
     7
   ],
   "bolt": "manual_action",
-  "rpm": 33,
+  "rpm": 66.773,
+  "bolt_action_time": 0.9,
+  "rpm_comment": "RPM = 33.36",
   "can_slide": false,
   "bullet": {
     "life": 2,
@@ -65,7 +67,6 @@
     "aim": -0.2,
     "reload": -0.05
   },
-  "bolt_action_time": 0.9,
   "crawl_recoil_multiplier": 0.25,
   "fire_mode": [
     "semi"

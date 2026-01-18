@@ -9,7 +9,9 @@
   "allow_attachment_types": [
   ],
   "bolt": "manual_action",
-  "rpm": 100,
+  "rpm": 600,
+  "bolt_action_time": 0.5,
+  "rpm_comment": "RPM = 100",
   "can_slide": false,
   "bullet": {
     "life": 2,
@@ -78,7 +80,6 @@
     "aim": -0.2,
     "reload": -0.05
   },
-  "bolt_action_time": 0.7,
   "fire_mode": [
     "semi"
   ],
