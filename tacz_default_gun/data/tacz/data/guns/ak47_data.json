@@ -27,7 +27,7 @@
   },
   "can_crawl": true,
   "can_slide": false,
-  "bolt": "closed_bolt",
+  "bolt": "open_bolt",
   "rpm": 600,
   "bullet": {
     "life": 2,

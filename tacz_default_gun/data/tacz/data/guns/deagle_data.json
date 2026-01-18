@@ -98,7 +98,7 @@
     10,
     12
   ],
-  "bolt": "closed_bolt",
+  "bolt": "open_bolt",
   "reload": {
     "type": "magazine",
     "feed": {

@@ -6,7 +6,7 @@
     42,
     40
   ],
-  "bolt": "closed_bolt",
+  "bolt": "open_bolt",
   "rpm": 700,
   "script": "tacz:xmag_reload_logic",
   "script_param": {

@@ -6,7 +6,7 @@
     32,
     30
   ],
-  "bolt": "closed_bolt",
+  "bolt": "open_bolt",
   "rpm": 990,
   "commemt": "↑暂时用Mini14的数据",
   "script": "tacz:xmag_reload_logic",

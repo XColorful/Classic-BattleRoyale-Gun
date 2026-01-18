@@ -7,7 +7,7 @@
     12
   ],
   "can_slide": false,
-  "bolt": "closed_bolt",
+  "bolt": "open_bolt",
   "rpm": 250,
   "bullet": {
     "life": 2,
