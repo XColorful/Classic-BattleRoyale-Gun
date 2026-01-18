@@ -2,7 +2,7 @@
   "ammo": "cbrg:ammo_762",
   "ammo_amount": 5,
   "bolt": "manual_action",
-  "rpm": 79.994,
+  "rpm": 80,
   "bolt_action_time": 1.15,
   "rpm_comment": "RPM = 31.578",
   "can_slide": false,

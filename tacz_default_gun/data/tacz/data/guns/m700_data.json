@@ -7,7 +7,7 @@
     7
   ],
   "bolt": "manual_action",
-  "rpm": 66.773,
+  "rpm": 67,
   "bolt_action_time": 0.9,
   "rpm_comment": "RPM = 33.36",
   "can_slide": false,
