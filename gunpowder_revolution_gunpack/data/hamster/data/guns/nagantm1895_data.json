@@ -103,6 +103,9 @@
   "fire_mode": [
     "semi"
   ],
+  "allow_attachment_types": [
+    "muzzle"
+  ],
   "recoil": {
     "pitch": [
       {"time": 0, "value": [0.741, 0.741]},
