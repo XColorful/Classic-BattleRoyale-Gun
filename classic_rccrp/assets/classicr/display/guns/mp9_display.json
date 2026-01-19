@@ -37,10 +37,10 @@
     "tracer_color": "#CD2626"
   },
   "sounds": {
-    "shoot": "tacz:ump45/ump45_shoot",
-    "shoot_3p": "tacz:ump45/ump45_shoot_3p",
-    "silence": "tacz:ump45/ump45_silence",
-    "silence_3p": "tacz:ump45/ump45_silence_3p",
+    "shoot": "cbrg:mp9/mp9_shoot",
+    "shoot_3p": "cbrg:mp9/mp9_shoot",
+    "silence": "cbrg:mp9/mp9_silence",
+    "silence_3p": "cbrg:mp9/mp9_silence",
     "inspect": "tacz:uzi/uzi_inspect",
     "draw": "tacz:uzi/uzi_draw",
     "put_away": "tacz:uzi/uzi_put_away",

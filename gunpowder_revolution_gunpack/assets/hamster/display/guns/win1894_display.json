@@ -25,8 +25,8 @@
   "zoom_model_fov": 55,
   "iron_zoom": 1.5,
   "sounds": {
-    "shoot": "hamster:win1894/win1894_shoot",
-    "shoot_3p": "hamster:win1894/win1894_shoot",
+    "shoot": "cbrg:win94/win94_shoot",
+    "shoot_3p": "cbrg:win94/win94_shoot",
     "dry_fire": "cbrg:lynx_amr/dry_fire",
     "fire_select": "cbrg:groza/fire_select",
     "head_hit": "tacz:head_hit",

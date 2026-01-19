@@ -36,12 +36,12 @@
     "tracer_color": "#FF8888"
   },
   "sounds": {
-    "shoot": "tacz:ak47/ak47_shoot",
-    "shoot_3p": "tacz:ak47/ak47_shoot_3p",
+    "shoot": "cbrg:mk47_mutant/mk47_mutant_shoot",
+    "shoot_3p": "cbrg:mk47_mutant/mk47_mutant_shoot",
+    "silence": "cbrg:mk47_mutant/mk47_mutant_silence",
+    "silence_3p": "cbrg:mk47_mutant/mk47_mutant_silence",
     "draw": "tacz:ak47/ak47_draw",
     "put_away": "tacz:ak47/ak47_put_away",
-    "silence": "tacz:ak47/ak47_silence",
-    "silence_3p": "tacz:ak47/ak47_silence_3p",
     "dry_fire": "cbrg:lynx_amr/dry_fire",
     "fire_select": "cbrg:groza/fire_select",
     "head_hit": "tacz:head_hit",

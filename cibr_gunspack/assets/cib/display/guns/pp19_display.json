@@ -32,10 +32,10 @@
     "living_time": 1.0
   },
   "sounds": {
-    "shoot": "cib:pp19/pp19_shoot",
-    "shoot_3p": "cib:pp19/pp19_shoot_3p",
-    "silence": "cib:pp19/pp19_silence",
-    "silence_3p": "cib:pp19/pp19_silence_3p",
+    "shoot": "cbrg:pp19_bizon/pp19_bizon_shoot",
+    "shoot_3p": "cbrg:pp19_bizon/pp19_bizon_shoot",
+    "silence": "cbrg:pp19_bizon/pp19_bizon_silence",
+    "silence_3p": "cbrg:pp19_bizon/pp19_bizon_silence",
     "draw": "cib:pm9/pm9_draw",
     "put_away": "cib:pm9/pm9_put_away",
     "reload_empty": "cib:pp19/pp19_reload_empty",

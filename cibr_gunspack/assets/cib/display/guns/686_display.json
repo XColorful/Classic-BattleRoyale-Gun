@@ -32,8 +32,8 @@
     "living_time": 1.0
   },
   "sounds": {
-    "shoot": "cib:686/686_shoot",
-    "shoot_3p": "cib:686/686_shoot_3p",
+    "shoot": "cbrg:s686/s686_shoot",
+    "shoot_3p": "cbrg:s686/s686_shoot",
     "draw": "cib:686/686_draw",
     "put_away": "cib:686/686_put_away",
     "reload_empty": "cib:686/686_reload_empty",

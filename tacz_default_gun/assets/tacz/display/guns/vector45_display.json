@@ -30,10 +30,10 @@
     "living_time": 1.0
   },
   "sounds": {
-    "shoot": "tacz:victor45/vector_shoot",
-    "shoot_3p": "tacz:victor45/vector_shoot_3p",
-    "silence": "tacz:victor45/vector_silence",
-    "silence_3p": "tacz:victor45/vector_silence_3p",
+    "shoot": "cbrg:vector/vector_shoot",
+    "shoot_3p": "cbrg:vector/vector_shoot",
+    "silence": "cbrg:vector/vector_silence",
+    "silence_3p": "cbrg:vector/vector_silence",
     "dry_fire": "cbrg:lynx_amr/dry_fire",
     "fire_select": "cbrg:groza/fire_select",
     "head_hit": "tacz:head_hit",

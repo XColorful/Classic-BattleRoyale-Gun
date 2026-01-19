@@ -35,10 +35,10 @@
     "tracer_color": "#CD2626"
   },
   "sounds": {
-    "shoot": "classicr:m1a1/m1a1_shoot",
-    "shoot_3p": "tacz:ump45/ump45_shoot_3p",
-    "silence": "classicr:m1a1/m1a1_silence",
-    "silence_3p": "tacz:ump45/ump45_silence_3p",
+    "shoot": "cbrg:tommy_gun/tommy_gun_shoot",
+    "shoot_3p": "cbrg:tommy_gun/tommy_gun_shoot",
+    "silence": "cbrg:tommy_gun/tommy_gun_silence",
+    "silence_3p": "cbrg:tommy_gun/tommy_gun_silence",
     "draw": "tacz:uzi/uzi_draw",
     "put_away": "tacz:uzi/uzi_put_away",
     "dry_fire": "cbrg:lynx_amr/dry_fire",

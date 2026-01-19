@@ -39,11 +39,11 @@
     "living_time": 1.0
   },
   "sounds": {
+    "shoot": "cbrg:s1897/s1897_shoot",
+    "shoot_3p": "cbrg:s1897/s1897_shoot",
+    "silence": "cbrg:s1897/s1897_silence",
+    "silence_3p": "cbrg:s1897/s1897_silence",
     "draw": "tacz:m870/m870_draw",
-    "shoot": "tacz:m870/m870_shoot",
-    "shoot_3p": "tacz:m870/m870_shoot_3p",
-    "silence": "tacz:m870/m870_silence",
-    "silence_3p": "tacz:m870/m870_silence_3p",
     "dry_fire": "cbrg:lynx_amr/dry_fire",
     "fire_select": "cbrg:groza/fire_select",
     "head_hit": "tacz:head_hit",

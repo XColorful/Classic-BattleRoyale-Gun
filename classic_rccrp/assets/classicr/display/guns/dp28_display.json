@@ -42,10 +42,10 @@
     "scale": 0.75
   },
     "sounds": {
-        "shoot": "classicr:dp28/dp28_shoot",
-        "shoot_3p": "classicr:dp28/dp28_shoot_3p",
-        "silence": "classicr:dp28/dp28_silence",
-        "silence_3p": "classicr:dp28/dp28_silence_3p",
+        "shoot": "cbrg:dp28/dp28_shoot",
+        "shoot_3p": "cbrg:dp28/dp28_shoot",
+        "silence": "cbrg:dp28/dp28_silence",
+        "silence_3p": "cbrg:dp28/dp28_silence",
         "dry_fire": "cbrg:lynx_amr/dry_fire",
         "fire_select": "cbrg:groza/fire_select",
         "head_hit": "tacz:head_hit",

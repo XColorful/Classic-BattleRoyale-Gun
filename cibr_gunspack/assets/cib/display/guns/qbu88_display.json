@@ -32,10 +32,10 @@
     "living_time": 1.0
   },
   "sounds": {
-    "shoot": "cib:qbu88/qbu88_shoot",
-    "shoot_3p": "cib:qbu88/qbu88_shoot_3p",
-    "silence": "cib:qbu88/qbu88_silence",
-    "silence_3p": "cib:qbu88/qbu88_silence_3p",
+    "shoot": "cbrg:qbu/qbu_shoot",
+    "shoot_3p": "cbrg:qbu/qbu_shoot",
+    "silence": "cbrg:qbu/qbu_silence",
+    "silence_3p": "cbrg:qbu/qbu_silence",
     "draw": "cib:qbu88/qbu88_draw",
     "put_away": "cib:qbu88/qbu88_put_away",
     "reload_empty": "cib:qbu88/qbu88_reload_empty",

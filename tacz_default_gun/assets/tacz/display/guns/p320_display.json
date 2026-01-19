@@ -29,12 +29,12 @@
     "scale": 0.5
   },
   "sounds": {
+    "shoot": "cbrg:p92/p92_shoot",
+    "shoot_3p": "cbrg:p92/p92_shoot",
+    "silence": "cbrg:p92/p92_silence",
+    "silence_3p": "cbrg:p92/p92_silence",
     "draw": "tacz:p320/p320_draw",
     "put_away": "tacz:p320/p320_put_away",
-    "shoot": "tacz:p320/p320_shoot",
-    "shoot_3p": "tacz:p320/p320_shoot_3p",
-    "silence": "tacz:p320/p320_silence",
-    "silence_3p": "tacz:p320/p320_silence_3p",
     "dry_fire": "cbrg:lynx_amr/dry_fire",
     "fire_select": "cbrg:groza/fire_select",
     "head_hit": "tacz:head_hit",

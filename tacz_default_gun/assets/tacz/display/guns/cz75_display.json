@@ -29,10 +29,10 @@
     "scale": 0.55
   },
   "sounds": {
-    "shoot": "tacz:cz75/cz75_shoot",
-    "shoot_3p": "tacz:cz75/cz75_shoot_3p",
-    "silence": "tacz:cz75/cz75_silence",
-    "silence_3p": "tacz:cz75/cz75_silence_3p",
+    "shoot": "cbrg:skorpion/skorpion_shoot",
+    "shoot_3p": "cbrg:skorpion/skorpion_shoot",
+    "silence": "cbrg:skorpion/skorpion_silence",
+    "silence_3p": "cbrg:skorpion/skorpion_silence",
     "dry_fire": "cbrg:lynx_amr/dry_fire",
     "fire_select": "cbrg:groza/fire_select",
     "head_hit": "tacz:head_hit",

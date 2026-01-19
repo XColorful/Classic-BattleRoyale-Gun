@@ -31,12 +31,12 @@
     "living_time": 1.0
   },
   "sounds": {
+    "shoot": "cbrg:qbz/qbz_shoot",
+    "shoot_3p": "cbrg:qbz/qbz_shoot",
+    "silence": "cbrg:qbz/qbz_silence",
+    "silence_3p": "cbrg:qbz/qbz_silence",
     "draw": "tacz:qbz_95/qbz_95_draw",
     "put_away": "tacz:qbz_95/qbz_95_put_away",
-    "shoot": "tacz:qbz_95/qbz_95_shoot",
-    "shoot_3p": "tacz:qbz_95/qbz_95_shoot_3p",
-    "silence": "tacz:qbz_95/qbz_95_silence",
-    "silence_3p": "tacz:qbz_95/qbz_95_silence_3p",
     "dry_fire": "cbrg:lynx_amr/dry_fire",
     "fire_select": "cbrg:groza/fire_select",
     "head_hit": "tacz:head_hit",

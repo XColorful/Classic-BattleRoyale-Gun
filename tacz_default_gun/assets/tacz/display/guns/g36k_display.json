@@ -32,10 +32,10 @@
     "living_time": 1.0
   },
   "sounds": {
-    "shoot": "tacz:g36k/g36k_shoot",
-    "shoot_3p": "tacz:g36k/g36k_shoot_3p",
-    "silence": "tacz:g36k/g36k_silence",
-    "silence_3p": "tacz:g36k/g36k_silence_3p",
+    "shoot": "cbrg:g36c/g36c_shoot",
+    "shoot_3p": "cbrg:g36c/g36c_shoot",
+    "silence": "cbrg:g36c/g36c_silence",
+    "silence_3p": "cbrg:g36c/g36c_silence",
     "draw": "tacz:g36k/g36k_draw",
     "put_away": "tacz:g36k/g36k_put_away",
     "dry_fire": "cbrg:lynx_amr/dry_fire",

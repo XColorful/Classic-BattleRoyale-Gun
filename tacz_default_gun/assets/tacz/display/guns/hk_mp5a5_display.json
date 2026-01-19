@@ -30,8 +30,10 @@
     "living_time": 1.0
   },
   "sounds": {
-    "shoot": "tacz:hk_mp5a5/hk_mp5a5_shoot",
-    "shoot_3p": "tacz:hk_mp5a5/hk_mp5a5_shoot_3p",
+    "shoot": "cbrg:mp5k/mp5k_shoot",
+    "shoot_3p": "cbrg:mp5k/mp5k_shoot",
+    "silence": "cbrg:mp5k/mp5k_silence",
+    "silence_3p": "cbrg:mp5k/mp5k_silence",
     "reload_empty": "tacz:hk_mp5a5/hk_mp5a5_reload_empty",
     "reload_tactical": "tacz:hk_mp5a5/hk_mp5a5_reload_tactical",
     "inspect": "tacz:hk_mp5a5/hk_mp5a5_inspect",
