@@ -37,6 +37,16 @@
 
 > （可选）如果你只需要保留必要的PUBG枪械内容，将 _./minecraft/tacz/remove_unused_content_ 覆盖至 _./minecraft/tacz_ 下即可
 
+### 脚本处理
+
+运行枪包根目录的 `unify_constraint_in_animations.py` 和 `unify_geo_model_constraint_pos.py`，使大部分枪械开镜射击时不会贴脸
+
+> （可选）运行 _./minecraft/tacz/classic_battleroyale_gun/data/cbrg/data/guns_ 下的几个脚本，输入路径为 _./minecraft/tacz_：
+> - `basic_gun_data.py`
+> - `closed_bolt_to_open_bolt.py`
+> - `reset_armor_ignore.py`
+> - `unify_crawl_recoil.py`
+
 ## 免责声明
 
 本项目为粉丝个人创作，灵感来源于《PUBG: BATTLEGROUNDS》。所有知识产权，包括枪械的外观、纹理和音效，均归 Krafton, Inc. 所有。本项目为非盈利性质，与任何商业公司无关联。我尊重版权，并承诺如任何版权方提出移除要求，我将立即遵守。
