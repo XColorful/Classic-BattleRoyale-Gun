@@ -1,0 +1,8 @@
+{
+    "name": "cbrg.attachments.suppressor_pistol.name",
+    "display": "cbrg:suppressor_pistol_display",
+    "data": "cbrg:suppressor_pistol_data",
+    "tooltip": "cbrg.attachments.suppressor_pistol.desc",
+    "type": "muzzle",
+    "sort": 9
+}
