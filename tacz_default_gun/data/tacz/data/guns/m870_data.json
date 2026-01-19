@@ -8,7 +8,8 @@
   ],
   "can_slide": false,
   "bolt": "manual_action",
-  "rpm": 80,
+  "rpm": 300,
+  "rpm_comment": "bolt_time = 0.55, RPM = 80",
   "bullet": {
     "life": 2,
     "bullet_amount": 9,
