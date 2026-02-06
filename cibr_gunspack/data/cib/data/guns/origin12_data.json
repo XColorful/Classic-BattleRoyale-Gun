@@ -301,8 +301,6 @@
   "allow_attachment_types": [
     "scope",
     "muzzle",
-    "stock",
-    "laser",
     "grip"
   ],
   "exclusive_attachments": {

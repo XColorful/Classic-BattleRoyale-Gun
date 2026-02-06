@@ -111,6 +111,7 @@
   "allow_attachment_types": [
     "extended_mag",
     "scope",
-    "muzzle"
+    "muzzle",
+    "stock"
   ]
 }

@@ -157,7 +157,6 @@
   },
   "allow_attachment_types": [
     "scope",
-    "stock",
     "muzzle",
     "extended_mag"
   ]

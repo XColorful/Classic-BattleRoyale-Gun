@@ -99,8 +99,7 @@
     "min_interval": 0.5
   },
   "allow_attachment_types": [
-    "stock",
-    "extended_mag"
+    "muzzle"
   ],
   "exclusive_attachments": {
     "tacz:oem_stock_tactical": {

@@ -100,8 +100,7 @@
     "stock",
     "grip",
     "muzzle",
-    "extended_mag",
-    "laser"
+    "extended_mag"
   ],
   "recoil": {
     "pitch": [

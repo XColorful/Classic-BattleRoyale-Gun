@@ -122,6 +122,8 @@
     "aim": 2.5
   },
   "allow_attachment_types": [
+    "muzzle",
+    "stock"
   ],
   "melee": {
     "distance": 1,

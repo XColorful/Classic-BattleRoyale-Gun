@@ -104,9 +104,9 @@
   },
   "allow_attachment_types": [
     "scope",
-    "grip",
     "muzzle",
-    "extended_mag"
+    "extended_mag",
+    "stock"
   ],
   "exclusive_attachments": {
   }

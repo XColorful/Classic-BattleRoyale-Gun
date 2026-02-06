@@ -1,7 +1,10 @@
 [
   "#cbrg:muzzle_pistol",
-  "#cbrg:grip_smg",
+  "cbrg:angled_foregrip",
+  "cbrg:halfgrip",
+  "cbrg:lightweight_grip",
   "cbrg:thumbgrip",
+  "cbrg:vertical_foregrip",
   "#cbrg:magazine_pistol",
   "#cbrg:scope_rifle"
 ]

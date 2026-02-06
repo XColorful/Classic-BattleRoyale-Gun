@@ -6,8 +6,6 @@
     9,
     9
   ],
-  "allow_attachment_types": [
-  ],
   "bolt": "manual_action",
   "rpm": 600,
   "bolt_action_time": 0.5,
@@ -117,6 +115,9 @@
       "prep": 0.75
     }
   },
+  "allow_attachment_types": [
+    "stock"
+  ],
   "builtin_attachments": {
   }
 }
