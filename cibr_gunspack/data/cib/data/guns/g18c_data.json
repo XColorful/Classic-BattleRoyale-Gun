@@ -79,7 +79,7 @@
   "allow_attachment_types": [
     "scope",
     "muzzle",
-    "laser",
+    "grip",
     "extended_mag"
   ],
   "recoil": {

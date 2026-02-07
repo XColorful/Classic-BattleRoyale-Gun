@@ -126,7 +126,7 @@
     "scope",
     "muzzle",
     "extended_mag",
-    "laser"
+    "grip"
   ],
   "recoil": {
     "pitch": [

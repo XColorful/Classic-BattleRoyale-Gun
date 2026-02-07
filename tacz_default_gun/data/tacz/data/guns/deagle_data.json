@@ -127,7 +127,7 @@
   "allow_attachment_types": [
     "scope",
     "extended_mag",
-    "laser"
+    "grip"
   ],
   "recoil": {
     "pitch": [

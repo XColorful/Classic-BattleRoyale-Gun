@@ -1,5 +1,5 @@
 [
-  "#cbrg:muzzle_pistol",
   "#cbrg:magazine_pistol",
+  "cbrg:laser_sight",
   "#cbrg:scope_pistol"
 ]

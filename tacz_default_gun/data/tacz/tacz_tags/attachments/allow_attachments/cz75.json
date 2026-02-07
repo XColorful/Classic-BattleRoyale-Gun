@@ -1,5 +1,7 @@
 [
-  "#cbrg:muzzle_pistol",
+  "#cbrg:scope_pistol",
+  "cbrg:suppressor_pistol",
+  "#cbrg:grip_smg",
   "#cbrg:magazine_pistol",
-  "#cbrg:scope_pistol"
+  "#cbrg:stock_folding_stock"
 ]

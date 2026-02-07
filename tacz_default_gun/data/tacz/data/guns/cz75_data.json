@@ -103,6 +103,8 @@
   "allow_attachment_types": [
     "muzzle",
     "scope",
+    "grip",
+    "stock",
     "extended_mag"
   ],
   "recoil": {
