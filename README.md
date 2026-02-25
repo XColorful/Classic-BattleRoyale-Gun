@@ -4,6 +4,8 @@
 
 # 经典大逃杀枪械包
 
+💡[图文教程](https://github.com/XColorful/Classic-BattleRoyale-Gun/wiki)
+
 本枪包为“拼好枪”性质的枪包，整合了各 TaCZ 枪械包中出现的《PUBG: BATTLEGROUNDS》枪械，并统一了子弹、配件等配置。
 - 该仓库内容兼容 TaCZ 1.1.4 枪包格式
 - 由于各枪包制作时并非在所有方面都有统一标准，可能会导致兼容性方面的一些问题
@@ -58,6 +60,8 @@
 - 资产：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 # Classic BattleRoyale Gun
+
+💡[Step-by-Step Guide](https://github.com/XColorful/Classic-BattleRoyale-Gun/wiki#English)
 
 This is a "hodgepodge" gunpack that integrates and unifies various weapons from _PUBG: BATTLEGROUNDS_ found across different TaCZ gunpacks. It standardizes bullets, attachments, and other configurations.
 - This repository is compatible with TaCZ 1.1.4 gunpack format.
