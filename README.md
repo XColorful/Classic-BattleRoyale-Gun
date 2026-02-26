@@ -31,7 +31,7 @@
 - cibr_gunspack
 - classic_rccrp
 - cold_war
-- gunpowder_revolusion_gunpack
+- gunpowder_revolution_gunpack
 - infinite_origin
 - suffuse_gunsmoke_pack
 - tacz_default_gun
@@ -88,7 +88,7 @@ Extract each downloaded gunpack into your _./minecraft/tacz/_ folder and rename 
 - cibr_gunspack
 - classic_rccrp
 - cold_war
-- gunpowder_revolusion_gunpack
+- gunpowder_revolution_gunpack
 - infinite_origin
 - suffuse_gunsmoke_pack
 - tacz_default_gun
