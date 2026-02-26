@@ -51,7 +51,7 @@
 - cibr_gunspack
 - classic_rccrp
 - cold_war
-- gunpowder_revolusion_gunpack
+- gunpowder_revolution_gunpack
 - infinite_origin
 - suffuse_gunsmoke_pack
 - tacz_default_gun
@@ -164,7 +164,7 @@ and rename the resulting folders as follows:
 - cibr_gunspack
 - classic_rccrp
 - cold_war
-- gunpowder_revolusion_gunpack
+- gunpowder_revolution_gunpack
 - infinite_origin
 - suffuse_gunsmoke_pack
 - tacz_default_gun
