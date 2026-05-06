@@ -4,7 +4,7 @@
     "^tacz.*$",
     "origin:guns/p90",
     "^cib:gun/(g18c|mg3|pp19|k2|galilace32|qbu|origin12|686|js9).*$",
-    "^classicr:gun/(kar98|dp28|mk47|m1a1_smg|mp9).*$",
+    "^classicr:gun/(dp28|mk47|m1a1_smg|mp9).*$",
     "^ccrp:gun/(m14_hbar).*$",
     "^suffuse:gun/(gm6|svd).*$",
     "^hamster:gun/(win1894|mosin9130|nagantm1895).*$",
@@ -14,7 +14,7 @@
   "blacklist": [
     "^cbrg:arcade/.*$",
     "tacz:test",
-    "^tacz:gun/(glock_17|type_81|m16a1|m4a1|scar_h|hk_g3|m95|qbz_191|fn_fal|m1014|spas_12|fn_evolys).*$",
+    "^tacz:gun/(hk_mk23|lonetrail|m9a4|rhino357|taurus500|taurus943|glock_17|type_81|m16a1|m4a1|scar_h|hk_g3|m95|qbz_191|fn_fal|m1014|spas_12|fn_evolys).*$",
     "^tacz:gun/(m320|springfield1873).*$",
     "^tacz:misc/.*$",
     "^tacz:gun/(b93r|p90|minigun|db_long|rpk|m107|aa12).*$",

@@ -15,7 +15,7 @@
       "nbt": {
         "GunCurrentAmmoCount": 5,
         "GunFireMode": "SEMI",
-        "GunId": "classicr:kar98",
+        "GunId": "tacz:kar98",
         "HasBulletInBarrel": false,
         "AttachmentSCOPE": {
           "id": "tacz:attachment",
